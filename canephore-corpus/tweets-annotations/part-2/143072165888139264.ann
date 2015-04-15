@@ -1,0 +1,11 @@
+T1	Topic 33 42	Languedoc
+T2	Topic 79 88	Normandie
+T3	Topic 68 75	Réunion
+T4	Subjectiveme_positive 19 25	jolies
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+T5	Topic 44 53	Aquitaine
+T6	Topic 55 66	Cote d'Azur
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T5	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T6	
+R4	isPositiveOpinionOn Arg1:T4 Arg2:T3	
+R5	isPositiveOpinionOn Arg1:T4 Arg2:T2	

@@ -1,0 +1,5 @@
+T1	Topic 71 87	Miss Côte d'Azur
+T2	Subjectiveme_positive 105 110	jolie
+T3	Negator 111 114	que
+R1	Negates Arg1:T3 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	

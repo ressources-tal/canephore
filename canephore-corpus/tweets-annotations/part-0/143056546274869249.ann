@@ -1,0 +1,5 @@
+T1	Aspect 36 44	sourires
+T2	Topic 26 32	défilé
+T3	Subjectiveme_negative 45 53	freedent
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R2	isAspectOf Arg1:T1 Arg2:T2	

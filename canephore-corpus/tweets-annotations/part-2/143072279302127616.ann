@@ -1,0 +1,5 @@
+T2	Topic 33 38	Delon
+T1	Aspect 22 29	regarde
+T3	Subjectiveme_negative 10 18	lubrique
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R2	isAspectOf Arg1:T1 Arg2:T2	

@@ -1,0 +1,5 @@
+T1	Topic 0 10	Miss Corse
+T2	Subjectiveme_negative 25 43	elle fais pas miss
+T3	Subjectiveme_positive 15 19	bien
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	

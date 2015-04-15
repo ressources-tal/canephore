@@ -1,0 +1,5 @@
+T2	Topic 43 53	Miss Corse
+T1	Topic 56 66	Guadeloupe
+T3	Subjectiveme_positive 4 12	preferes
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

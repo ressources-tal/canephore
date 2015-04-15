@@ -1,0 +1,5 @@
+T1	Topic 0 13	Midi Pyrénées
+T2	Aspect 42 50	poitrine
+T3	Subjectiveme_positive 25 32	pas mal
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

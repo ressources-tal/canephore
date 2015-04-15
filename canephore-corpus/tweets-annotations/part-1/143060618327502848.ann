@@ -1,0 +1,3 @@
+T1	Topic 29 43	LauryThilleman
+T2	Subjectiveme_positive 0 27	Personne ne poura remplacer
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

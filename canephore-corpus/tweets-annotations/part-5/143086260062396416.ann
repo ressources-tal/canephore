@@ -1,0 +1,5 @@
+T1	Topic 38 56	Miss Pays de Loire
+T2	Topic 81 93	Miss Réunion
+T3	Subjectiveme_positive 3 8	mieux
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

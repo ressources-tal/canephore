@@ -1,0 +1,5 @@
+T1	Topic 0 18	Miss Franche Comté
+T2	Subjectiveme_positive 23 28	aime 
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Negator 28 31	pas
+R2	Negates Arg1:T3 Arg2:T2	

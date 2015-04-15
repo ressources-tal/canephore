@@ -1,0 +1,11 @@
+T1	Topic 0 6	Alsace
+T4	Subjectiveme_positive 46 48	<3
+T5	Topic 8 17	Rossillon
+T6	Topic 21 24	IdF
+T7	Subjectiveme_positive 31 38	bonheur
+R1	isPositiveOpinionOn Arg1:T7 Arg2:T6	
+R2	isPositiveOpinionOn Arg1:T7 Arg2:T5	
+R3	isPositiveOpinionOn Arg1:T7 Arg2:T1	
+R4	isPositiveOpinionOn Arg1:T4 Arg2:T6	
+R5	isPositiveOpinionOn Arg1:T4 Arg2:T5	
+R6	isPositiveOpinionOn Arg1:T4 Arg2:T1	

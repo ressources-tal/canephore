@@ -1,0 +1,13 @@
+T1	Topic 12 23	Miss Guyane
+T2	Subjectiveme_positive 2 11	suis pour
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_positive 39 48	charmante
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T4	Aspect 55 61	visage
+T5	Aspect 71 80	dentition
+T6	Subjectiveme_positive 50 54	beau
+R3	isPositiveOpinionOn Arg1:T6 Arg2:T4	
+T7	Subjectiveme_positive 65 70	belle
+R4	isPositiveOpinionOn Arg1:T7 Arg2:T5	
+R5	isAspectOf Arg1:T4 Arg2:T1	
+R6	isAspectOf Arg1:T5 Arg2:T1	

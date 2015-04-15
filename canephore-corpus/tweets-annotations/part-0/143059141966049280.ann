@@ -1,0 +1,5 @@
+T1	Topic 32 47	Miss Guadeloupe
+T2	Subjectiveme_negative 10 14	gros
+T3	Aspect 15 21	accent
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T1	

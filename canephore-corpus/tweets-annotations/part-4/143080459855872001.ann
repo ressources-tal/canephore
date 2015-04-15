@@ -1,0 +1,10 @@
+T1	Topic 60 73	Miss bretagne
+T2	Aspect 93 97	yeux
+T3	Subjectiveme_positive 54 58	bien
+T4	Topic 35 46	missreunion
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T4	
+T5	Subjectiveme_negative 77 85	mdegoute
+R2	isNegativeOpinionOn Arg1:T5 Arg2:T1	
+T6	Subjectiveme_negative 98 107	globuleux
+R3	isNegativeOpinionOn Arg1:T6 Arg2:T2	
+R4	isAspectOf Arg1:T2 Arg2:T1	

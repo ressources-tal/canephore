@@ -1,0 +1,3 @@
+T1	Topic 0 15	Laury Thilleman
+T2	Subjectiveme_positive 16 22	mérite
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

@@ -1,0 +1,5 @@
+T1	Subjectiveme_positive 4 13	favorites
+T2	Topic 15 28	Pays de loire
+T3	Topic 32 42	Roussillon
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T3	

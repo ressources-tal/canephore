@@ -1,0 +1,5 @@
+T1	Topic 78 94	miss cote d'azur
+T2	Aspect 33 51	parle d'équitation
+T3	Subjectiveme_negative 67 76	insuporte
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

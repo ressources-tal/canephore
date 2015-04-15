@@ -1,0 +1,5 @@
+T1	Topic 60 71	miss Alsace
+T3	Subjectiveme_negative 35 44	problèmes
+T2	Aspect 47 56	élocution
+R1	isAspectOf Arg1:T2 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	

@@ -1,0 +1,3 @@
+T1	Topic 0 15	Miss Martinique
+T3	Subjectiveme_negative 19 33	pb d'épilation
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	

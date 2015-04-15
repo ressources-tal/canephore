@@ -1,0 +1,6 @@
+T2	Topic 101 114	Miss Provence
+T3	Subjectiveme_positive 123 130	pas mal
+T4	Subjectiveme_negative 14 32	du grand n'importe
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+T1	Topic 33 87	Miss Roussillion & Miss Languedoc on même pas été pris
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T1	

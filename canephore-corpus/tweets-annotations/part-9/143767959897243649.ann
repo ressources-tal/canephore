@@ -1,0 +1,10 @@
+T1	Subjectiveme_positive 34 40	grasse
+T3	Topic 0 14	Miss nationale
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T3	
+T2	Topic 59 68	S.Tellier
+T4	Subjectiveme_negative 71 100	arrivera jamais a la cheville
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T2	
+T5	Negator 41 44	que
+R3	Negates Arg1:T5 Arg2:T1	
+T6	Topic 45 56	Miss france
+R4	isNegativeOpinionOn Arg1:T1 Arg2:T6	

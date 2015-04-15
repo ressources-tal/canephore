@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 39 46	bizarre
+T2	Topic 9 17	les Miss
+T3	Aspect 35 38	nez
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T2	

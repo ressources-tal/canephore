@@ -1,0 +1,5 @@
+T1	Subjectiveme_positive 0 5	Jolie
+T2	Topic 16 31	Miss Roussillon
+T3	Aspect 6 15	moustache
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T2	

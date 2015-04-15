@@ -1,0 +1,5 @@
+T1	Aspect 35 40	robes
+T2	Subjectiveme_negative 48 71	ne jouent pas en faveur
+T3	Topic 76 86	blondasses
+R1	isAspectOf Arg1:T1 Arg2:T3	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	

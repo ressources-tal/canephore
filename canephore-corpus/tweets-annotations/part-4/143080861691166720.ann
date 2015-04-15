@@ -1,0 +1,7 @@
+T1	Topic 12 25	Miss Provence
+T2	Topic 27 40	Pays de Loire
+T3	Subjectiveme_positive 2 6	aime
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+T4	Topic 42 53	Cote d'azur
+R3	isPositiveOpinionOn Arg1:T3 Arg2:T4	

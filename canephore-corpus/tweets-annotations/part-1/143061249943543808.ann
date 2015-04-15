@@ -1,0 +1,5 @@
+T1	Topic 0 5	Lorie
+T2	Aspect 6 14	habillée
+T3	Subjectiveme_negative 18 22	tepu
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

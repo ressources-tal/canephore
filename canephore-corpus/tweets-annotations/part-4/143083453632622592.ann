@@ -1,0 +1,5 @@
+T2	Topic 12 21	Languedoc
+T3	Subjectiveme_positive 27 33	belles
+T1	Aspect 34 40	fesses
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isAspectOf Arg1:T1 Arg2:T2	

@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 5 11	mignon
+T2	Topic 12 32	le danseur tt devant
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

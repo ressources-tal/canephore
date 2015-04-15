@@ -1,0 +1,5 @@
+T2	Topic 1 11	MissAlsace
+T1	Subjectiveme_negative 21 27	FAUSSE
+T3	Aspect 28 34	rousse
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T2	

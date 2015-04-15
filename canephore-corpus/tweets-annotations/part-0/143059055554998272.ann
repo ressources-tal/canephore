@@ -1,0 +1,3 @@
+T2	Topic 86 91	Lorie
+T1	Subjectiveme_positive 95 102	adorais
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

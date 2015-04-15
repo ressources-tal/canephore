@@ -1,0 +1,5 @@
+T1	Topic 46 51	Lorie
+T2	Aspect 28 42	nouvelle album
+T3	Subjectiveme_negative 12 24	ont s'en fou
+R1	isAspectOf Arg1:T2 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	

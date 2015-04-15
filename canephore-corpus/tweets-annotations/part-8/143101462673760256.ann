@@ -1,0 +1,5 @@
+T1	Topic 0 12	Miss Réunion
+T2	Subjectiveme_positive 26 36	bien jouée
+T3	Aspect 42 78	rappeller que tu t'appelais Marianne
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T1	

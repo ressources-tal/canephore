@@ -1,0 +1,6 @@
+T1	Topic 0 11	Miss Alsace
+T2	Subjectiveme_negative 65 70	moche
+T3	Subjectiveme_positive 94 99	bonne
+T4	Topic 34 52	sur le site de TF1
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T4	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

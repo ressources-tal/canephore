@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 33 43	magnifique
+T2	Topic 14 19	Laury
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

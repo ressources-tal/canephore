@@ -1,0 +1,5 @@
+T1	Topic 8 18	Roussillon
+T3	Subjectiveme_positive 0 7	Yeaahhh
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T4	Subjectiveme_positive 19 34	marque Un Point
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T1	

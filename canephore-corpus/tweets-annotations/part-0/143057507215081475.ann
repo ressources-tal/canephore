@@ -1,0 +1,7 @@
+T1	Aspect 15 20	robes
+T2	Subjectiveme_positive 2 6	aime
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 25 29	miss
+R2	isAspectOf Arg1:T1 Arg2:T3	
+T4	Subjectiveme_positive 34 38	veux
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T1	

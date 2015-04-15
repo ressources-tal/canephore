@@ -1,0 +1,3 @@
+T1	Topic 24 31	sourire
+T3	Subjectiveme_negative 32 47	comme une conne
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	

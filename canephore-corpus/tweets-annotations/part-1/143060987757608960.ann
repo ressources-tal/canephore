@@ -1,0 +1,5 @@
+T1	Topic 15 24	Languedoc
+T2	Subjectiveme_positive 39 45	jolies
+T4	Topic 0 11	Côté d'Azur
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T4	

@@ -1,0 +1,6 @@
+T1	Topic 97 111	Sylvie Tellier
+T4	Subjectiveme_negative 8 13	déçue
+T5	Subjectiveme_negative 89 93	tepu
+R1	isNegativeOpinionOn Arg1:T5 Arg2:T1	
+T2	Topic 28 49	anciennes Miss France
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T2	

@@ -1,0 +1,5 @@
+T1	Topic 5 16	miss Alsace
+T2	Subjectiveme_positive 23 30	kiffais
+T3	Subjectiveme_positive 0 4	Ouee
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

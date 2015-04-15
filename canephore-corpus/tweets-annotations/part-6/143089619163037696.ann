@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 110 118	de merde
+T3	Topic 101 109	musiques
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T3	
+T2	Subjectiveme_negative 85 94	ca saoule
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T3	

@@ -1,0 +1,5 @@
+T1	Topic 26 78	les 2 noires qui restent dans les 12 demi-finalistes
+T2	Aspect 92 99	carrure
+T3	Subjectiveme_negative 100 119	des soeurs Williams
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

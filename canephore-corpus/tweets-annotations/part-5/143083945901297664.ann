@@ -1,0 +1,6 @@
+T1	Topic 3 10	musique
+T2	Topic 23 25	DJ
+T3	Subjectiveme_negative 15 18	tue
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+T4	Subjectiveme_negative 26 33	de M***
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T2	

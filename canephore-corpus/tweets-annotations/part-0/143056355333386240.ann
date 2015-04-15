@@ -1,0 +1,3 @@
+T1	Topic 17 25	Bretagne
+T2	Subjectiveme_positive 26 31	choux
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

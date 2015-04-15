@@ -1,0 +1,5 @@
+T1	Topic 4 10	Alsace
+T2	Topic 14 20	Guyane
+T3	Subjectiveme_positive 0 3	Yes
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

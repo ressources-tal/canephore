@@ -1,0 +1,10 @@
+T1	Topic 30 45	miss Martinique
+T2	Aspect 3 11	coiffure
+T3	Aspect 18 26	discours
+T4	Negator 46 49	pas
+T5	Subjectiveme_positive 50 53	top
+R1	Negates Arg1:T4 Arg2:T5	
+R2	isAspectOf Arg1:T3 Arg2:T1	
+R3	isAspectOf Arg1:T2 Arg2:T1	
+R4	isPositiveOpinionOn Arg1:T5 Arg2:T3	
+R5	isPositiveOpinionOn Arg1:T5 Arg2:T2	

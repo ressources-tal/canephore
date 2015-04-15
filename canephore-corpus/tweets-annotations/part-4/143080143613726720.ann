@@ -1,0 +1,8 @@
+T1	Topic 51 73	Miss Champagne-Ardenne
+T2	Subjectiveme_negative 0 13	C'est quoi ce
+T3	Subjectiveme_negative 19 27	de merde
+T4	Subjectiveme_positive 74 80	mérite
+T5	Aspect 14 18	jury
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T5	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T5	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T1	

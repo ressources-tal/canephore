@@ -1,0 +1,5 @@
+T1	Topic 28 41	Midi Pyrénées
+T2	Aspect 10 16	accent
+T4	Subjectiveme_positive 5 9	joli
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

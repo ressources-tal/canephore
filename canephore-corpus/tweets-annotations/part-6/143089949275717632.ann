@@ -1,0 +1,7 @@
+T1	Aspect 35 42	sourire
+T2	Subjectiveme_negative 6 11	moche
+T3	Subjectiveme_negative 30 34	faux
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+T4	Topic 12 21	une fille
+R3	isAspectOf Arg1:T1 Arg2:T4	

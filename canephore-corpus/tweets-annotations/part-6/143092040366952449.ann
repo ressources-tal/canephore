@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 13 29	C'est quoi cette
+T2	Topic 4 9	Lorie
+T3	Aspect 30 34	robe
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T2	

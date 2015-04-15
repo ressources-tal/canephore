@@ -1,0 +1,5 @@
+R1	Negates Arg1:T0 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+T2	Topic 13 17	robe
+T0	Negator 5 8	pas
+T1	Subjectiveme_positive 0 4	Jaim

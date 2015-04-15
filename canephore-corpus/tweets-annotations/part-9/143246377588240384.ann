@@ -1,0 +1,11 @@
+T1	Subjectiveme_positive 52 57	belle
+T2	Topic 34 38	robe
+T4	Negator 45 48	pas
+R1	Negates Arg1:T4 Arg2:T1	
+R3	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+T3	Subjectiveme_positive 84 89	belle
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+T5	Subjectiveme_positive 101 115	extraordinaire
+T6	Negator 97 100	pas
+R4	Negates Arg1:T6 Arg2:T5	
+R5	isNegativeOpinionOn Arg1:T5 Arg2:T2	

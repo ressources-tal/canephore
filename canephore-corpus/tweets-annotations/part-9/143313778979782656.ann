@@ -1,0 +1,9 @@
+T1	Topic 50 61	Miss Alsace
+T2	Topic 32 43	Miss Tahiti
+T3	Subjectiveme_positive 66 73	pas mal
+T4	Subjectiveme_positive 18 23	belle
+T5	Subjectiveme_positive 77 81	aime
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R4	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+T6	Topic 87 98	les rousses
+R1	isPositiveOpinionOn Arg1:T5 Arg2:T6	

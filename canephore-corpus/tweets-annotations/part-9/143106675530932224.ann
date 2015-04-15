@@ -1,0 +1,13 @@
+T1	Topic 53 64	Miss Alsace
+T3	Subjectiveme_positive 31 36	jolie
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T2	Subjectiveme_positive 78 87	assurance
+T4	Subjectiveme_positive 92 100	charisme
+T6	Subjectiveme_positive 124 129	super
+R2	isPositiveOpinionOn Arg1:T6 Arg2:T1	
+R4	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R5	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T5	Subjectiveme_positive 107 111	sait
+T7	Aspect 112 118	parler
+R3	isAspectOf Arg1:T7 Arg2:T1	
+R6	isPositiveOpinionOn Arg1:T5 Arg2:T7	

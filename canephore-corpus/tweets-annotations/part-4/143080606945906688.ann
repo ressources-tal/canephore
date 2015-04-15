@@ -1,0 +1,7 @@
+T1	Topic 65 83	miss pays de Loire
+T2	Topic 87 103	miss cote d'azur
+T3	Topic 52 63	miss Alsace
+T4	Subjectiveme_positive 37 46	préférées
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T2	

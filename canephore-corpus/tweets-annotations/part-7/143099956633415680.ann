@@ -1,0 +1,9 @@
+T1	Aspect 46 51	coupe
+T2	Topic 58 62	robe
+T4	Subjectiveme_negative 34 37	bof
+T5	Aspect 25 29	rose
+T3	Subjectiveme_negative 63 78	H O R R I B L E
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R2	isAspectOf Arg1:T1 Arg2:T2	
+R3	isAspectOf Arg1:T5 Arg2:T2	
+R4	isNegativeOpinionOn Arg1:T4 Arg2:T5	

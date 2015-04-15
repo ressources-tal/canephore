@@ -1,0 +1,5 @@
+T2	Topic 20 31	Miss Alsace
+T1	Subjectiveme_positive 15 19	aime
+T3	Topic 35 49	Miss Rousillon
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T3	

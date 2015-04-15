@@ -1,0 +1,3 @@
+T1	Topic 0 11	Miss Guyane
+T2	Subjectiveme_negative 20 27	insulte
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	

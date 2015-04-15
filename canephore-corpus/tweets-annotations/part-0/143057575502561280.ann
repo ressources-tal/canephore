@@ -1,0 +1,5 @@
+T1	Aspect 21 25	robe
+T2	Subjectiveme_positive 3 14	lui va bien
+T3	Topic 34 43	Geneviève
+R1	isAspectOf Arg1:T1 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

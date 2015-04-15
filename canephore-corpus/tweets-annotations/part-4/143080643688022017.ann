@@ -1,0 +1,5 @@
+T1	Topic 12 25	miss Bretagne
+T3	Subjectiveme_negative 63 68	cheum
+T4	Subjectiveme_negative 31 52	ressemble a un avatar
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T1	

@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 19 24	bonne
+T2	Topic 0 13	Midi pyrénées
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

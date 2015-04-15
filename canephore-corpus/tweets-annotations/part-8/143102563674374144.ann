@@ -1,0 +1,5 @@
+T2	Subjectiveme_positive 9 15	belles
+T1	Topic 43 56	Sonia Rolland
+T3	Topic 64 78	Elodie Gossuin
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T3	

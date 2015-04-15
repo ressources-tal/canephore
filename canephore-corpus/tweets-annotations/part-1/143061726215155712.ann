@@ -1,0 +1,5 @@
+T1	Aspect 7 15	coiffure
+T2	Topic 19 24	Lorie
+R1	isAspectOf Arg1:T1 Arg2:T2	
+T3	Subjectiveme_negative 0 3	MDR
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

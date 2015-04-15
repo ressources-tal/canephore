@@ -1,0 +1,6 @@
+T1	Topic 38 51	présentations
+T2	Subjectiveme_positive 19 26	préfère
+T4	Topic 87 92	danse
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 93 100	pourrie
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T4	

@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 9 14	belle
+T2	Topic 15 43	la femme avec une robe verte
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

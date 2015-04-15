@@ -1,0 +1,8 @@
+R1	Negates Arg1:T3 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T2	Subjectiveme_positive 89 92	top
+T3	Negator 85 88	pas
+T1	Topic 50 70	les 12 miss retenues
+T4	Topic 124 137	Miss Bretagne
+T5	Subjectiveme_negative 114 120	laides
+R3	isNegativeOpinionOn Arg1:T5 Arg2:T4	

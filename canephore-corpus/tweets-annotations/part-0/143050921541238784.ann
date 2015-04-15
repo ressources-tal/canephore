@@ -1,0 +1,5 @@
+T1	Subjectiveme_positive 63 72	suis pour
+T2	Topic 91 100	Bourgogne
+T3	Topic 76 84	Provence
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T2	

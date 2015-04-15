@@ -1,0 +1,7 @@
+T1	Topic 25 40	les Miss France
+T3	Subjectiveme_negative 130 136	moches
+T4	Subjectiveme_negative 18 24	pourri
+R1	isNegativeOpinionOn Arg1:T4 Arg2:T1	
+T5	Subjectiveme_negative 45 56	sert à rien
+R2	isNegativeOpinionOn Arg1:T5 Arg2:T1	
+R3	isNegativeOpinionOn Arg1:T3 Arg2:T1	

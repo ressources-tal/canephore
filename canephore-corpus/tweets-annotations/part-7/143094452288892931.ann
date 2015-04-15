@@ -1,0 +1,3 @@
+T2	Topic 21 33	miss Réunion
+T3	Subjectiveme_positive 11 20	suis pour
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	

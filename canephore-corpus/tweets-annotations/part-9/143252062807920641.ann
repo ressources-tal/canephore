@@ -1,0 +1,15 @@
+T1	Aspect 99 107	sourires
+T2	Subjectiveme_negative 108 114	forcés
+T3	Subjectiveme_negative 85 91	moches
+T4	Aspect 58 63	dents
+T5	Aspect 79 84	robes
+T6	Subjectiveme_negative 14 17	nul
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+R3	isNegativeOpinionOn Arg1:T3 Arg2:T5	
+T7	Topic 30 45	les #MissFrance
+R2	isNegativeOpinionOn Arg1:T6 Arg2:T7	
+R4	isAspectOf Arg1:T4 Arg2:T7	
+R5	isAspectOf Arg1:T5 Arg2:T7	
+R6	isAspectOf Arg1:T1 Arg2:T7	
+T8	Subjectiveme_negative 64 73	flinguées
+R7	isNegativeOpinionOn Arg1:T8 Arg2:T4	

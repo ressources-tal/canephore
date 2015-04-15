@@ -1,0 +1,3 @@
+T1	Topic 0 22	Miss Champagne-Ardenne
+T2	Subjectiveme_positive 24 26	<3
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

@@ -1,0 +1,5 @@
+T1	Topic 9 32	les Miss de #MissFrance
+T3	Subjectiveme_negative 42 48	connes
+T2	Negator 49 63	est assez faux
+R1	Negates Arg1:T2 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

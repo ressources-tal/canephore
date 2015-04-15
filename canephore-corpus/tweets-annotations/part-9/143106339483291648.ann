@@ -1,0 +1,11 @@
+T1	Aspect 24 38	Miss Languedoc
+T2	Aspect 40 51	Miss France
+T3	Subjectiveme_positive 67 75	préférée
+T4	Topic 0 19	Alexandra Rosenfeld
+T5	Aspect 55 66	Miss France
+R1	isAspectOf Arg1:T1 Arg2:T4	
+R2	isAspectOf Arg1:T2 Arg2:T4	
+R3	isAspectOf Arg1:T5 Arg2:T4	
+R4	isPositiveOpinionOn Arg1:T3 Arg2:T5	
+R5	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R6	isPositiveOpinionOn Arg1:T3 Arg2:T1	

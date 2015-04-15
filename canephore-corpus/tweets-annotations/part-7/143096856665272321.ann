@@ -1,0 +1,5 @@
+T3	Subjectiveme_positive 35 39	sexy
+T2	Aspect 43 47	roux
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+T1	Topic 8 19	miss Alsace
+R2	isAspectOf Arg1:T2 Arg2:T1	

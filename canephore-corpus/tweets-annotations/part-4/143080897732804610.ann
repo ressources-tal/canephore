@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 0 2	Pô
+T2	Aspect 8 14	gueule
+T3	Topic 18 31	miss Bretagne
+R1	isAspectOf Arg1:T2 Arg2:T3	
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T2	

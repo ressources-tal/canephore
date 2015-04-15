@@ -1,0 +1,5 @@
+T1	Topic 0 18	Miss Midi-Pyrénées
+T2	Subjectiveme_negative 27 33	SALOPE
+T3	Subjectiveme_negative 49 59	Aguicheuse
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

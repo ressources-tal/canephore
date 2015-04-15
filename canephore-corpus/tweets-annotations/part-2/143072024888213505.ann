@@ -1,0 +1,8 @@
+T1	Aspect 50 58	coiffure
+T2	Topic 0 6	Sylvie
+T3	Aspect 59 63	robe
+R3	isAspectOf Arg1:T3 Arg2:T2	
+T4	Subjectiveme_negative 38 49	fashionfail
+R1	isAspectOf Arg1:T1 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T1	
+R4	isNegativeOpinionOn Arg1:T4 Arg2:T3	

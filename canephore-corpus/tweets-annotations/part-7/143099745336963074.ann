@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 15 21	moches
+T2	Topic 4 9	robes
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+T3	Subjectiveme_negative 26 42	fait gnian-gnian
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	

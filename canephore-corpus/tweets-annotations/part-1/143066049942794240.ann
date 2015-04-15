@@ -1,0 +1,16 @@
+T1	Topic 47 60	Pays de Loire
+T2	Topic 22 30	Picardie
+T3	Topic 78 85	Mayotte
+T4	Topic 12 18	Alsace
+T5	Subjectiveme_positive 2 6	aime
+T7	Subjectiveme_positive 31 35	mimi
+R2	isPositiveOpinionOn Arg1:T5 Arg2:T4	
+R1	isPositiveOpinionOn Arg1:T7 Arg2:T2	
+T6	Topic 63 70	Rhone-A
+T8	Topic 37 45	Limousin
+T9	Subjectiveme_negative 71 76	moyen
+R3	isNegativeOpinionOn Arg1:T9 Arg2:T6	
+R4	isNegativeOpinionOn Arg1:T9 Arg2:T1	
+R5	isNegativeOpinionOn Arg1:T9 Arg2:T8	
+T10	Subjectiveme_positive 88 97	a un truc
+R6	isPositiveOpinionOn Arg1:T10 Arg2:T3	

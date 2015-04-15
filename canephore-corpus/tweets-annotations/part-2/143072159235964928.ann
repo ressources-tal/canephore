@@ -1,0 +1,15 @@
+T1	Topic 0 21	Miss Pays de la Loire
+T2	Topic 23 37	Miss Normandie
+T3	Topic 44 55	Miss Alsace
+T4	Subjectiveme_positive 70 76	belles
+T5	Topic 84 89	Lorie
+T6	Aspect 104 108	robe
+T7	Subjectiveme_positive 92 96	aime
+T8	Negator 97 100	pas
+R4	isNegativeOpinionOn Arg1:T7 Arg2:T5	
+R5	Negates Arg1:T8 Arg2:T7	
+R7	isAspectOf Arg1:T6 Arg2:T5	
+R8	isNegativeOpinionOn Arg1:T7 Arg2:T6	
+R9	isPositiveOpinionOn Arg1:T4 Arg2:T3	
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T1	

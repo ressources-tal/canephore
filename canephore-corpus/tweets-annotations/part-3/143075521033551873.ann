@@ -1,0 +1,15 @@
+T1	Topic 36 51	poitou charente
+T2	Subjectiveme_positive 118 125	pas mal
+T3	Topic 0 12	Miss orleans
+T4	Topic 15 33	champagne ardennes
+T5	Topic 54 63	languedoc
+T6	Topic 65 73	lorraine
+T7	Topic 76 85	normandie
+T8	Topic 101 112	cote d'azur
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T8	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T7	
+R3	isPositiveOpinionOn Arg1:T2 Arg2:T6	
+R4	isPositiveOpinionOn Arg1:T2 Arg2:T5	
+R5	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R6	isPositiveOpinionOn Arg1:T2 Arg2:T4	
+R7	isPositiveOpinionOn Arg1:T2 Arg2:T3	

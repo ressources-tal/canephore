@@ -1,0 +1,5 @@
+T2	Subjectiveme_negative 42 50	vaut pas
+T3	Topic 51 66	Laury Thilleman
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+T1	Topic 0 41	La nouvelle #MissFrance Delphine Wespiser
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	

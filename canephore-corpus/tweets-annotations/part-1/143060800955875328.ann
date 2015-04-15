@@ -1,0 +1,3 @@
+T3	Subjectiveme_positive 30 35	beaux
+T1	Topic 36 72	guignols qui dansent devant les miss
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	

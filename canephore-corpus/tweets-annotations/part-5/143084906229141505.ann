@@ -1,0 +1,7 @@
+T1	Aspect 27 35	discours
+T2	Subjectiveme_positive 42 49	naturel
+T3	Topic 0 7	Réunion
+T4	Subjectiveme_positive 17 21	bien
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R3	isPositiveOpinionOn Arg1:T2 Arg2:T3	

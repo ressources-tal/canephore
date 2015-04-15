@@ -1,0 +1,10 @@
+T1	Topic 17 28	Miss Alsace
+T2	Aspect 39 45	visage
+T3	Aspect 60 65	corps
+T4	Subjectiveme_positive 34 38	joli
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	
+T5	Negator 47 56	Mais pour
+R3	Negates Arg1:T5 Arg2:T4	
+R4	isNegativeOpinionOn Arg1:T4 Arg2:T3	
+R5	isAspectOf Arg1:T3 Arg2:T1	

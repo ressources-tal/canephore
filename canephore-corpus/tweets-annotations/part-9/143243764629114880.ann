@@ -1,0 +1,3 @@
+T3	Subjectiveme_positive 20 25	belle
+T2	Topic 1 14	SylvieTellier
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	

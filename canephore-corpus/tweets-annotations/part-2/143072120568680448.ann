@@ -1,0 +1,9 @@
+T3	Aspect 81 85	tete
+T1	Topic 24 56	celle qui parle av sa robe verte
+T2	Subjectiveme_negative 86 99	de grenouille
+R1	isAspectOf Arg1:T3 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T3	
+T4	Aspect 105 109	vert
+R3	isAspectOf Arg1:T4 Arg2:T1	
+T5	Subjectiveme_positive 110 124	lui va a ravir
+R4	isPositiveOpinionOn Arg1:T5 Arg2:T4	

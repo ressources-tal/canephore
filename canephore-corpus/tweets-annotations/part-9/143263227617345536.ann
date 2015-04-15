@@ -1,0 +1,6 @@
+T1	Topic 1 11	MissAlsace
+T2	Subjectiveme_positive 67 72	belle
+T4	Subjectiveme_positive 17 24	déchire
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+T3	Topic 30 48	Notre ambassadrice
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T3	

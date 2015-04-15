@@ -1,0 +1,5 @@
+T1	Subjectiveme_positive 6 14	go go go
+T2	Topic 15 21	Alsace
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+T3	Subjectiveme_positive 44 47	FTW
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

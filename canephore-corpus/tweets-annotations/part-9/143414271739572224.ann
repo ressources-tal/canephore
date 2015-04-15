@@ -1,0 +1,5 @@
+T1	Topic 0 17	Delphine Wespiser
+T2	Topic 19 35	Miss France 2012
+T3	Subjectiveme_negative 45 58	fausse rousse
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

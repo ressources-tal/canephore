@@ -1,0 +1,5 @@
+T1	Topic 15 21	Alsace
+T2	Aspect 3 9	parles
+R1	isAspectOf Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 10 14	trop
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	

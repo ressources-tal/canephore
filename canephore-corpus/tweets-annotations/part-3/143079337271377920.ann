@@ -1,0 +1,10 @@
+T1	Topic 30 41	Côte d'Azur
+T4	Topic 86 94	Bretagne
+T5	Subjectiveme_negative 103 110	horreur
+T6	Topic 65 72	Réunion
+T7	Topic 19 25	Alsace
+R1	isNegativeOpinionOn Arg1:T5 Arg2:T4	
+T2	Subjectiveme_negative 45 52	Cagolin
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_positive 26 28	<3
+R3	isPositiveOpinionOn Arg1:T3 Arg2:T7	

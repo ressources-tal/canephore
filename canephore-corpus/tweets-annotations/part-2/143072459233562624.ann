@@ -1,0 +1,5 @@
+T1	Topic 5 7	DJ
+T2	Subjectiveme_positive 8 18	de qualité
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 36 44	de MERDE
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

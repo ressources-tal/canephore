@@ -1,0 +1,5 @@
+T1	Topic 37 50	miss bretagne
+T2	Subjectiveme_positive 21 26	beaux
+T3	Aspect 27 31	yeux
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T1	

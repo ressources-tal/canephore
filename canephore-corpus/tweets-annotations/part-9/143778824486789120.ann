@@ -1,0 +1,5 @@
+T1	Topic 11 22	Alain Delon
+T2	Subjectiveme_negative 36 42	gateux
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 47 56	Genevieve
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T3	

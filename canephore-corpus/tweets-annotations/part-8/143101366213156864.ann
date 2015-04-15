@@ -1,0 +1,7 @@
+T1	Topic 18 34	Miss Côte d'Azur
+T2	Aspect 73 79	bouche
+T3	Aspect 45 50	dents
+T4	Subjectiveme_negative 37 44	trop de
+R1	isNegativeOpinionOn Arg1:T4 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T2	
+R3	isAspectOf Arg1:T2 Arg2:T1	

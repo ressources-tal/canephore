@@ -1,0 +1,5 @@
+T1	Topic 0 11	Miss Tahiti
+T2	Aspect 36 41	parle
+R1	isAspectOf Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 25 35	savait pas
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	

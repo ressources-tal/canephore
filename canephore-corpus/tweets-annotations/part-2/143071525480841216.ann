@@ -1,0 +1,5 @@
+T2	Subjectiveme_negative 74 80	moches
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T1	Topic 10 18	Les miss
+T3	Subjectiveme_negative 19 53	ne savent pas marcher, pas défilés
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

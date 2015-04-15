@@ -1,0 +1,3 @@
+T1	Topic 15 26	Miss Tahiti
+T2	Subjectiveme_positive 68 76	méritait
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

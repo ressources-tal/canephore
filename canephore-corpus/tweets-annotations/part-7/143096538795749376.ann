@@ -1,0 +1,3 @@
+T3	Topic 37 43	Alsace
+T1	Subjectiveme_positive 44 58	a un ptit truc
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T3	

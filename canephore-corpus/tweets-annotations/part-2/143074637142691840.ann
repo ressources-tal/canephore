@@ -1,0 +1,5 @@
+T1	Topic 12 25	miss Bretagne
+T2	Aspect 79 82	nez
+T3	Subjectiveme_negative 28 64	une piste d'atterrissage pour mouche
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

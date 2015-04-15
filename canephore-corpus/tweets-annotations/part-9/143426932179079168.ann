@@ -1,0 +1,6 @@
+T1	Subjectiveme_positive 117 121	Vive
+T2	Topic 123 133	MissFrance
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+T3	Subjectiveme_positive 13 21	fidele a
+T4	Topic 23 36	SylvieTellier
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T4	

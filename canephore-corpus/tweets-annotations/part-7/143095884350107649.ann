@@ -1,0 +1,5 @@
+T1	Topic 74 89	miss Martinique
+T2	Topic 58 69	miss Guyane
+T3	Subjectiveme_positive 48 56	superbes
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

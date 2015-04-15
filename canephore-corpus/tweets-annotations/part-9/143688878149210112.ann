@@ -1,0 +1,7 @@
+T2	Subjectiveme_positive 43 48	mieux
+T5	Topic 4 32	portes paroles de Greenpeace
+T1	Negator 49 52	que
+T3	Topic 53 67	les Missfrance
+R1	Negates Arg1:T1 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T5	
+R3	isNegativeOpinionOn Arg1:T2 Arg2:T3	

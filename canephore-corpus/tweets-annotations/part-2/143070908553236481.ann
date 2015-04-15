@@ -1,0 +1,5 @@
+T1	Topic 7 22	Miss Guadeloupe
+T2	Subjectiveme_positive 39 49	magnifique
+T3	Aspect 28 34	bouche
+R1	isAspectOf Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T3	

@@ -1,0 +1,5 @@
+T2	Subjectiveme_negative 34 37	mal
+T3	Topic 7 22	Miss Martinique
+T1	Aspect 23 28	parle
+R1	isAspectOf Arg1:T1 Arg2:T3	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	

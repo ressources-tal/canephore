@@ -1,0 +1,7 @@
+T2	Aspect 12 16	robe
+T1	Subjectiveme_negative 0 11	C koi cette
+T3	Subjectiveme_negative 17 21	nape
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+T4	Topic 42 53	Miss France
+R3	isAspectOf Arg1:T2 Arg2:T4	

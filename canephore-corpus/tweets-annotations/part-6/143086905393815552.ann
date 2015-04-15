@@ -1,0 +1,5 @@
+T1	Topic 32 48	Miss Côte d'Azur
+T2	Subjectiveme_negative 9 14	moche
+T3	Negator 3 8	moins
+R1	Negates Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

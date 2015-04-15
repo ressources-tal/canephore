@@ -1,0 +1,8 @@
+T1	Topic 56 71	Miss Martinique
+T2	Subjectiveme_positive 96 101	belle
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 0 9	La France
+T4	Subjectiveme_negative 38 46	racistes
+T5	Negator 34 37	pas
+R1	Negates Arg1:T5 Arg2:T4	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T3	

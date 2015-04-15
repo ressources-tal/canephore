@@ -1,0 +1,9 @@
+T1	Topic 89 96	sourire
+T2	Subjectiveme_negative 125 132	à chier
+T4	Subjectiveme_negative 97 102	forcé
+R1	isNegativeOpinionOn Arg1:T4 Arg2:T1	
+T3	Topic 28 38	MissFrance
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T3	
+T5	Topic 69 81	fond d'teint
+T6	Subjectiveme_negative 58 65	blindée
+R3	isNegativeOpinionOn Arg1:T6 Arg2:T5	

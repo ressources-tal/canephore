@@ -1,0 +1,8 @@
+T1	Topic 12 26	Miss Languedoc
+T2	Topic 29 40	Miss Guyane
+T3	Subjectiveme_positive 3 11	soutiens
+T4	Subjectiveme_positive 60 66	belles
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R3	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R4	isPositiveOpinionOn Arg1:T4 Arg2:T1	

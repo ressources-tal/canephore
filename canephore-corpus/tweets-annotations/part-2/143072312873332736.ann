@@ -1,0 +1,5 @@
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T0	
+T2	Aspect 21 25	tête
+T0	Topic 0 14	Sylvie Tellier
+T1	Subjectiveme_negative 26 36	de poisson

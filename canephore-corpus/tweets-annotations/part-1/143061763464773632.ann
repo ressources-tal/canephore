@@ -1,0 +1,3 @@
+T1	Topic 0 13	Sofia Essaidi
+T2	Subjectiveme_positive 27 34	sublime
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

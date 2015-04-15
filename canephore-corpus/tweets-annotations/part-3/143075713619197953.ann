@@ -1,0 +1,5 @@
+T1	Topic 46 57	Linda Hardy
+T2	Aspect 87 92	Tétés
+T3	Subjectiveme_negative 75 82	refaire
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

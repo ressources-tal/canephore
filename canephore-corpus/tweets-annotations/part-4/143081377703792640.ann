@@ -1,0 +1,5 @@
+T1	Subjectiveme_positive 30 40	magnifique
+T2	Topic 3 7	robe
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+T3	Topic 13 20	collier
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T3	

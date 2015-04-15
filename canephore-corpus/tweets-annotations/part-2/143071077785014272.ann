@@ -1,0 +1,5 @@
+T1	Topic 17 28	Miss Alsace
+T2	Aspect 60 64	tête
+T3	Subjectiveme_negative 41 52	Flammekuech
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

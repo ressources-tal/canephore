@@ -1,0 +1,3 @@
+T1	Topic 14 25	Miss Tahiti
+T3	Subjectiveme_positive 9 13	joli
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	

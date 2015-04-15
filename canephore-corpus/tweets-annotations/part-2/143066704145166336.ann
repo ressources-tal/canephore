@@ -1,0 +1,5 @@
+T1	Subjectiveme_positive 10 14	aimé
+T2	Topic 15 26	Miss Centre
+T3	Subjectiveme_positive 43 47	mimi
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T2	

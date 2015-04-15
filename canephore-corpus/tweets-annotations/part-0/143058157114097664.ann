@@ -1,0 +1,7 @@
+T1	Topic 27 38	Alain Delon
+T2	Aspect 3 12	préambule
+T3	Subjectiveme_negative 13 21	kiss-ass
+T4	Subjectiveme_negative 46 53	useless
+R1	isAspectOf Arg1:T2 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T2	
+R3	isNegativeOpinionOn Arg1:T3 Arg2:T2	

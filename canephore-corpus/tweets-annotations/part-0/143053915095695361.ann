@@ -1,0 +1,6 @@
+T1	Topic 3 25	Miss Champagne-Ardenne
+T2	Subjectiveme_positive 72 78	belles
+T4	Topic 79 103	femmes dans notre région
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T4	
+T3	Subjectiveme_negative 30 51	c'est toujours pas ça
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

@@ -1,0 +1,3 @@
+T2	Topic 70 76	Guyane
+T1	Subjectiveme_positive 60 69	plus pour
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

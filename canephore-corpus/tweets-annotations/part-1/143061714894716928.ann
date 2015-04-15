@@ -1,0 +1,5 @@
+T2	Topic 38 42	jury
+T3	Aspect 25 34	publicité
+R1	isAspectOf Arg1:T3 Arg2:T2	
+T1	Subjectiveme_negative 6 18	on s'en fout
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T3	

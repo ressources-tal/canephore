@@ -1,0 +1,5 @@
+T1	Topic 14 28	miss normandie
+T2	Aspect 7 13	bouche
+T3	Subjectiveme_negative 0 6	Grande
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

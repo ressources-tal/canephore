@@ -1,0 +1,3 @@
+T1	Topic 45 62	poitoucharentaise
+T2	Subjectiveme_positive 69 81	se distingue
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

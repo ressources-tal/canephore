@@ -1,0 +1,6 @@
+T1	Topic 52 56	robe
+T2	Subjectiveme_positive 61 68	sublime
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 4 19	missfrance 2010
+T4	Subjectiveme_negative 26 43	pas trop mon truc
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T3	

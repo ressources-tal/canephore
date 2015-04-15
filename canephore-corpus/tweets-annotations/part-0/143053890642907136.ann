@@ -1,0 +1,3 @@
+T1	Topic 27 40	MissLanguedoc
+T3	Subjectiveme_positive 17 25	favorite
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	

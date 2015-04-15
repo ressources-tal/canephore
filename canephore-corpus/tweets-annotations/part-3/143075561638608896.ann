@@ -1,0 +1,3 @@
+T1	Topic 32 45	miss Lorraine
+T2	Subjectiveme_positive 50 57	pas mal
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

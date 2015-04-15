@@ -1,0 +1,8 @@
+T1	Topic 84 98	miss Languedoc
+T2	Topic 102 114	miss réunion
+T3	Topic 23 34	miss Alsace
+T5	Subjectiveme_positive 118 122	bien
+T7	Subjectiveme_negative 17 22	laide
+R1	isNegativeOpinionOn Arg1:T7 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T5 Arg2:T2	
+R3	isPositiveOpinionOn Arg1:T5 Arg2:T1	

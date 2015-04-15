@@ -1,0 +1,5 @@
+T1	Topic 16 28	miss Réunion
+T2	Subjectiveme_negative 32 39	fatigue
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 46 96	ne représentent jamais l'identite exact de mon île
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

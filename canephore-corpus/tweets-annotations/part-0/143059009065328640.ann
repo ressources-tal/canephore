@@ -1,0 +1,5 @@
+T1	Topic 0 15	Miss Guadeloupe
+T2	Subjectiveme_positive 30 35	belle
+T3	Negator 26 29	pas
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+R2	Negates Arg1:T3 Arg2:T2	

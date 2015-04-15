@@ -1,0 +1,9 @@
+T1	Topic 84 98	Sylvie Tellier
+T3	Topic 29 37	les miss
+T4	Subjectiveme_negative 107 112	MOCHE
+T5	Subjectiveme_positive 51 56	belle
+R1	isNegativeOpinionOn Arg1:T4 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T3	
+T2	Aspect 23 28	avant
+R3	isAspectOf Arg1:T2 Arg2:T3	
+R4	isPositiveOpinionOn Arg1:T5 Arg2:T2	

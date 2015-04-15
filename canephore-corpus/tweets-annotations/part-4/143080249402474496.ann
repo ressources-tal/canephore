@@ -1,0 +1,5 @@
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T0	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T2	Subjectiveme_positive 28 33	jolie
+T0	Topic 0 18	Miss Pays de Loire
+T1	Topic 35 47	miss Réunion

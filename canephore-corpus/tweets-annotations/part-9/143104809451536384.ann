@@ -1,0 +1,11 @@
+T1	Topic 0 15	Laury Thilleman
+T2	Topic 64 75	Miss Alsace
+T3	Subjectiveme_positive 56 63	superbe
+T5	Subjectiveme_positive 98 102	Vive
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+T4	Subjectiveme_positive 26 34	bien bel
+T6	Aspect 35 43	héritage
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T6	
+R3	isAspectOf Arg1:T6 Arg2:T1	
+T7	Topic 103 114	les rousses
+R4	isPositiveOpinionOn Arg1:T5 Arg2:T7	

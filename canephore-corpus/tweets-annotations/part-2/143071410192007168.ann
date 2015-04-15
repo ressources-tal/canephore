@@ -1,0 +1,7 @@
+T1	Aspect 3 23	costume traditionnel
+T2	Topic 46 58	miss réunion
+T4	Subjectiveme_positive 64 69	beaux
+T3	Topic 27 39	miss Mayotte
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R2	isAspectOf Arg1:T1 Arg2:T3	
+R3	isAspectOf Arg1:T1 Arg2:T2	

@@ -1,0 +1,5 @@
+T3	Topic 54 56	DJ
+T2	Subjectiveme_negative 7 19	faut abattre
+T1	Topic 23 47	type qui fait les tenues
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T3	

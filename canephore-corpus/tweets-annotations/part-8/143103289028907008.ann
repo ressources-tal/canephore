@@ -1,0 +1,5 @@
+T2	Topic 24 29	robes
+T1	Subjectiveme_negative 9 23	c'est quoi ces
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+T3	Subjectiveme_negative 30 55	on dirait des "meringues"
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	

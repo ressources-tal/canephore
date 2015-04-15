@@ -1,0 +1,5 @@
+T2	Subjectiveme_positive 45 50	belle
+T3	Negator 38 41	pas
+R3	Negates Arg1:T3 Arg2:T2	
+T1	Topic 4 29	candidates de Miss France
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	

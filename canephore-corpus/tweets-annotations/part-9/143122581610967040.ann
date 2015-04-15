@@ -1,0 +1,5 @@
+T1	Topic 24 35	Miss France
+T2	Subjectiveme_negative 41 47	pourri
+T3	Subjectiveme_negative 5 17	on s'en tape
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	

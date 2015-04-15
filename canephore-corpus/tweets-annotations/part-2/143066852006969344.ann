@@ -1,0 +1,3 @@
+T1	Topic 0 15	Mareva Galanter
+T3	Subjectiveme_positive 44 56	intelligente
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	

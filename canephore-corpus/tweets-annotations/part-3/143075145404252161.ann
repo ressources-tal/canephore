@@ -1,0 +1,5 @@
+T1	Topic 14 25	Miss Centre
+T3	Subjectiveme_positive 9 13	mimi
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T2	Subjectiveme_negative 38 50	trop blanche
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	

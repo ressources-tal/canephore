@@ -1,0 +1,5 @@
+T1	Topic 34 47	Miss Bretagne
+T3	Aspect 25 32	défiler
+T2	Subjectiveme_negative 16 24	sait pas
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T1	

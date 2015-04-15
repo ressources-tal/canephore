@@ -1,0 +1,3 @@
+T1	Topic 19 30	Miss Alsace
+T2	Subjectiveme_positive 10 18	supporte
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

@@ -1,0 +1,7 @@
+T1	Topic 0 12	Miss Réunion
+T2	Subjectiveme_negative 59 64	carré
+T3	Subjectiveme_positive 17 22	jolie
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T4	Aspect 38 46	mâchoire
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T4	
+R3	isAspectOf Arg1:T4 Arg2:T1	

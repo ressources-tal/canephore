@@ -1,0 +1,5 @@
+T1	Topic 12 25	missorléanais
+T2	Aspect 45 65	tenue d'entraînement
+T3	Subjectiveme_negative 26 41	devrait changer
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 0 11	Whouah quel
+T2	Topic 12 16	jury
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

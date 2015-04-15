@@ -1,0 +1,5 @@
+T1	Subjectiveme_positive 46 56	j'aimerais
+T2	Aspect 74 82	dauphine
+T3	Topic 34 45	miss guyane
+R1	isAspectOf Arg1:T2 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T2	

@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 29 34	belle
+T2	Topic 5 11	Guyane
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

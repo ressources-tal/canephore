@@ -1,0 +1,9 @@
+T1	Topic 25 39	Sylvie Tellier
+T2	Subjectiveme_negative 8 20	mal à croire
+T4	Aspect 47 63	être Miss France
+R1	isAspectOf Arg1:T4 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T4	
+T3	Aspect 88 92	tête
+R3	isAspectOf Arg1:T3 Arg2:T1	
+T5	Subjectiveme_negative 96 118	se fout de leur gueule
+R4	isNegativeOpinionOn Arg1:T5 Arg2:T3	

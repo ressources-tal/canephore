@@ -1,0 +1,7 @@
+T1	Topic 16 27	Miss Alsace
+T2	Subjectiveme_positive 32 40	mignonne
+T3	Subjectiveme_positive 69 75	charme
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T4	Subjectiveme_positive 42 52	bien foutu
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R3	isPositiveOpinionOn Arg1:T3 Arg2:T1	

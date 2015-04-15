@@ -1,0 +1,5 @@
+T1	Topic 11 22	miss alsace
+T2	Subjectiveme_positive 37 52	ca fait du bien
+T3	Aspect 29 36	hanches
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T1	

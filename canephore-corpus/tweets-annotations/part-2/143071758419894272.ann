@@ -1,0 +1,5 @@
+T2	Topic 31 46	Miss Martinique
+T1	Aspect 12 26	danse du robot
+T3	Subjectiveme_positive 0 7	Wouhaou
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isAspectOf Arg1:T1 Arg2:T2	

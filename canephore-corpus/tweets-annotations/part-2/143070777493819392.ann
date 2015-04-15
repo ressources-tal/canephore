@@ -1,0 +1,5 @@
+T1	Topic 21 26	robes
+T3	Subjectiveme_negative 0 20	C'est quoi que d'ces
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+T2	Subjectiveme_negative 45 50	honte
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	

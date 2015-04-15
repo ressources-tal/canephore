@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 23 29	blague
+T2	Topic 30 41	Miss Alsace
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+T4	Subjectiveme_positive 94 99	belle
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T2	

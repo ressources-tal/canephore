@@ -1,0 +1,5 @@
+T1	Topic 0 14	Sylvie Tellier
+T2	Aspect 25 32	cheveux
+T3	Subjectiveme_negative 33 45	en plastique
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

@@ -1,0 +1,9 @@
+T2	Topic 96 107	Miss Alsace
+T3	Subjectiveme_negative 3 9	débris
+T4	Subjectiveme_negative 14 20	déchet
+T1	Aspect 30 33	nez
+T5	Subjectiveme_negative 40 44	long
+R1	isNegativeOpinionOn Arg1:T5 Arg2:T1	
+R2	isAspectOf Arg1:T1 Arg2:T2	
+R3	isNegativeOpinionOn Arg1:T4 Arg2:T2	
+R4	isNegativeOpinionOn Arg1:T3 Arg2:T2	

@@ -1,0 +1,5 @@
+T1	Topic 3 20	miss de ma région
+T2	Topic 37 50	Midi-Pyrénées
+T3	Subjectiveme_negative 29 34	Moche
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	

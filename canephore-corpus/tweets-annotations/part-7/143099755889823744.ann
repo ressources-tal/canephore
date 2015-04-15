@@ -1,0 +1,5 @@
+T1	Topic 3 10	chanson
+T2	Subjectiveme_positive 25 30	super
+T3	Negator 21 24	pas
+R1	Negates Arg1:T3 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	

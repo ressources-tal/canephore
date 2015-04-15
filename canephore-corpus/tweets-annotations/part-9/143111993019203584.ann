@@ -1,0 +1,5 @@
+T1	Topic 53 64	miss alsace
+T2	Subjectiveme_negative 24 31	droguée
+T3	Subjectiveme_negative 32 42	anorexique
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	

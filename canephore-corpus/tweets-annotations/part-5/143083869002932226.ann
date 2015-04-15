@@ -1,0 +1,7 @@
+T1	Topic 53 66	Miss Bretagne
+T2	Subjectiveme_negative 114 120	louche
+T3	Aspect 83 87	tête
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T4	Subjectiveme_negative 88 104	en pièce détaché
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T3	
+R3	isAspectOf Arg1:T3 Arg2:T1	

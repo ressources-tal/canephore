@@ -1,0 +1,3 @@
+T1	Topic 0 10	MissAlsace
+T2	Subjectiveme_positive 14 25	Ma préférée
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

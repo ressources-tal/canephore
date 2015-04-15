@@ -1,0 +1,5 @@
+T1	Topic 0 7	Sourire
+T2	Subjectiveme_negative 12 17	force
+T3	Negator 8 11	pas
+R1	Negates Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

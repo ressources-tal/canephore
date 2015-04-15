@@ -1,0 +1,6 @@
+T3	Topic 43 47	yeux
+T5	Subjectiveme_negative 31 35	gros
+T2	Topic 36 39	pif
+R1	isNegativeOpinionOn Arg1:T5 Arg2:T2	
+T1	Subjectiveme_negative 48 57	globuleux
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T3	

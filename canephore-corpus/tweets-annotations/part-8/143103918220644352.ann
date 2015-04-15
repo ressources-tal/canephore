@@ -1,0 +1,5 @@
+T1	Topic 0 11	Miss Alsace
+T2	Subjectiveme_positive 41 43	<3
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_positive 44 48	Cool
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

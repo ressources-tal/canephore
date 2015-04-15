@@ -1,0 +1,3 @@
+T2	Topic 57 68	Miss Alsace
+T4	Subjectiveme_positive 78 86	mignonne
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T2	

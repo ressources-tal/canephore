@@ -1,0 +1,5 @@
+T1	Subjectiveme_positive 0 7	YEAAAAH
+T2	Topic 8 20	MISS REUNION
+T3	Topic 24 35	MISS ALSACE
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T3	

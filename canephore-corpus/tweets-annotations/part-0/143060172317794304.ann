@@ -1,0 +1,5 @@
+T2	Subjectiveme_positive 28 33	ça va
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T1	Topic 0 25	Miss St Pierre & Miquelon
+T3	Subjectiveme_positive 36 41	Jolie
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

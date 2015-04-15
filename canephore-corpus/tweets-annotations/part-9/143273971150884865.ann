@@ -1,0 +1,5 @@
+T1	Topic 53 67	LauryThilleman
+T2	Subjectiveme_positive 27 32	belle
+T5	Topic 0 19	Nouvelle MissFrance
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T5	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

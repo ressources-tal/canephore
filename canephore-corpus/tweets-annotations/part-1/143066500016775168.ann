@@ -1,0 +1,5 @@
+T1	Topic 27 38	Miss Centre
+T2	Aspect 11 15	yeux
+T3	Subjectiveme_negative 16 23	rikikis
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

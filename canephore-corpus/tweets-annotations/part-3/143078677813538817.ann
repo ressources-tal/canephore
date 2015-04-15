@@ -1,0 +1,7 @@
+T1	Topic 0 11	Miss Tahiti
+T2	Aspect 42 49	sourire
+T5	Subjectiveme_negative 17 30	fait une tete
+R1	isNegativeOpinionOn Arg1:T5 Arg2:T1	
+R2	isAspectOf Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 50 60	faussement
+R3	isNegativeOpinionOn Arg1:T3 Arg2:T2	

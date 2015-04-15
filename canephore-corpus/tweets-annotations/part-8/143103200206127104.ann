@@ -1,0 +1,9 @@
+T1	Topic 17 28	Alain Delon
+T2	Subjectiveme_negative 60 67	flasque
+T3	Subjectiveme_negative 49 54	vieux
+T5	Subjectiveme_positive 12 16	beau
+T6	Negator 3 11	se croit
+R1	Negates Arg1:T6 Arg2:T5	
+R2	isNegativeOpinionOn Arg1:T5 Arg2:T1	
+R3	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R4	isNegativeOpinionOn Arg1:T2 Arg2:T1	

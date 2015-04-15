@@ -1,0 +1,3 @@
+T1	Topic 4 10	tweets
+T2	Subjectiveme_positive 61 71	excellents
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

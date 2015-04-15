@@ -1,0 +1,5 @@
+T1	Topic 0 15	Miss Guadeloupe
+T2	Subjectiveme_positive 67 73	charme
+T4	Subjectiveme_positive 21 36	a un petit truc
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

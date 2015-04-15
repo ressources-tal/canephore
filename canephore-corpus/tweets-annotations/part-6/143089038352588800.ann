@@ -1,0 +1,6 @@
+T2	Topic 76 89	Miss Bretagne
+T3	Subjectiveme_positive 21 25	Vive
+T1	Topic 26 47	Miss Pays de la Loire
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T4	Subjectiveme_negative 97 103	boudin
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T2	

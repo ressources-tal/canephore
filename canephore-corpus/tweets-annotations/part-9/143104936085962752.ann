@@ -1,0 +1,7 @@
+T1	Topic 125 136	miss Alsace
+T2	Topic 37 47	martinique
+T3	Topic 54 60	guyane
+T4	Subjectiveme_positive 20 27	prefere
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T3	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T1	

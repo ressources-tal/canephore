@@ -1,0 +1,5 @@
+T1	Topic 56 67	miss Alsace
+T2	Subjectiveme_negative 14 21	bavarde
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 30 37	pourrir
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

@@ -1,0 +1,5 @@
+T1	Topic 8 19	Miss Tahiti
+T2	Subjectiveme_positive 23 28	kiffe
+T3	Subjectiveme_positive 0 7	Ouaiiis
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

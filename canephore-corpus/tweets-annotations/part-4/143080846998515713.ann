@@ -1,0 +1,7 @@
+T1	Aspect 28 35	sourire
+T2	Topic 1 12	MissGuyenne
+T3	Subjectiveme_negative 39 47	à revoir
+T4	Subjectiveme_negative 52 59	Bizarre
+R1	isNegativeOpinionOn Arg1:T4 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R3	isAspectOf Arg1:T1 Arg2:T2	

@@ -1,0 +1,3 @@
+T2	Topic 9 22	Miss Bretagne
+T1	Subjectiveme_negative 55 73	elleestdégueulasse
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	

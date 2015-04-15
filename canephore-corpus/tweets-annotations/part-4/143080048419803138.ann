@@ -1,0 +1,6 @@
+T1	Topic 0 16	Miss France 2012
+T2	Topic 81 93	MenardMalika
+T3	Subjectiveme_negative 29 33	pire
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T4	Subjectiveme_positive 61 79	du mal a remplacer
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T2	

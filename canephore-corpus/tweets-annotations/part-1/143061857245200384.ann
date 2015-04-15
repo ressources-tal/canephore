@@ -1,0 +1,7 @@
+T1	Aspect 46 52	bouche
+T2	Subjectiveme_negative 39 45	grosse
+T3	Subjectiveme_positive 22 27	belle
+T5	Topic 0 17	Miss Midi-Pyrénée
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T5	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+R3	isAspectOf Arg1:T1 Arg2:T5	

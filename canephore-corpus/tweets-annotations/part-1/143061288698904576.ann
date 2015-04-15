@@ -1,0 +1,3 @@
+T1	Topic 0 11	Miss France
+T2	Subjectiveme_negative 44 48	thon
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	

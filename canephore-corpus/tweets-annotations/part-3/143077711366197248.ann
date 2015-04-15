@@ -1,0 +1,11 @@
+T1	Topic 68 88	Miss Poitou Charente
+T2	Topic 35 50	Miss Roussillon
+T3	Topic 52 66	Miss Languedoc
+T4	Topic 90 102	Miss Réunion
+T5	Topic 105 116	Miss Alsace
+T6	Subjectiveme_positive 20 29	favorites
+R1	isPositiveOpinionOn Arg1:T6 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T6 Arg2:T3	
+R3	isPositiveOpinionOn Arg1:T6 Arg2:T1	
+R4	isPositiveOpinionOn Arg1:T6 Arg2:T4	
+R5	isPositiveOpinionOn Arg1:T6 Arg2:T5	

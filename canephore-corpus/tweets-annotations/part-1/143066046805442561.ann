@@ -1,0 +1,7 @@
+T1	Topic 39 49	Miss Gwada
+T2	Subjectiveme_negative 15 18	bof
+T3	Negator 32 38	a part
+R1	Negates Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T4	Subjectiveme_positive 59 67	so fresh
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T1	

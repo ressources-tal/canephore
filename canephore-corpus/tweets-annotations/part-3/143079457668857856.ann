@@ -1,0 +1,5 @@
+T1	Topic 0 14	Miss Languedoc
+T2	Topic 18 28	Roussillon
+T3	Subjectiveme_positive 29 47	sont dans la place
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

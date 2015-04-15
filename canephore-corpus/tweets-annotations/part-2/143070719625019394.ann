@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 11 16	forcé
+T2	Topic 3 10	sourire
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+T3	Subjectiveme_negative 37 42	moche
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	

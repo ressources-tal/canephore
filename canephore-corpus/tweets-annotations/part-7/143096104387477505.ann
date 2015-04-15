@@ -1,0 +1,5 @@
+T1	Negator 10 13	pas
+T2	Topic 14 19	chore
+T3	Subjectiveme_positive 5 9	aime
+R1	Negates Arg1:T1 Arg2:T3	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	

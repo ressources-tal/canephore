@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 10 17	préféré
+T2	Topic 20 49	Défilé en robe traditionnelle
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

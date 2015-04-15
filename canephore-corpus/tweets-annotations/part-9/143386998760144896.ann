@@ -1,0 +1,7 @@
+T1	Subjectiveme_positive 17 22	belle
+T2	Topic 23 34	Miss Alsace
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+T3	Subjectiveme_positive 59 68	originale
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+T4	Subjectiveme_positive 88 95	naturel
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T2	

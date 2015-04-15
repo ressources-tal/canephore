@@ -1,0 +1,9 @@
+T1	Topic 35 49	MissMartinique
+T2	Aspect 62 68	fesses
+T3	Subjectiveme_negative 55 61	grosse
+T4	Aspect 77 82	tétés
+T5	Subjectiveme_negative 72 76	gros
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T5 Arg2:T4	
+R3	isAspectOf Arg1:T2 Arg2:T1	
+R4	isAspectOf Arg1:T4 Arg2:T1	

@@ -1,0 +1,6 @@
+T1	Topic 0 15	Laury Thilleman
+T2	Subjectiveme_positive 20 30	magnifique
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 62 72	missfrance
+T4	Subjectiveme_positive 53 60	sublime
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T3	

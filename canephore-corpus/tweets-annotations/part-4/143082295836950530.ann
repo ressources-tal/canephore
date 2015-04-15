@@ -1,0 +1,5 @@
+T1	Subjectiveme_positive 68 74	jolies
+T2	Topic 35 54	la plupart des miss
+T3	Aspect 75 81	jambes
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T2	

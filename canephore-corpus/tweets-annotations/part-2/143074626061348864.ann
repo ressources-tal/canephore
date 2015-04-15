@@ -1,0 +1,5 @@
+T2	Negator 67 70	pas
+T3	Subjectiveme_positive 71 74	top
+T1	Topic 44 52	bretagne
+R1	Negates Arg1:T2 Arg2:T3	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

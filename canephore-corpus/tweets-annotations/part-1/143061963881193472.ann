@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 54 63	fait peur
+T2	Topic 34 42	sourires
+T3	Subjectiveme_negative 43 49	forcés
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T2	

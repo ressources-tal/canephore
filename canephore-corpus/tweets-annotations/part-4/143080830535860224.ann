@@ -1,0 +1,5 @@
+T1	Topic 0 14	Miss Bourgogne
+T2	Subjectiveme_negative 20 37	envie de la taper
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 72 85	tête à claque
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

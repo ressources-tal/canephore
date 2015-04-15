@@ -1,0 +1,5 @@
+T1	Aspect 15 23	coiffure
+T2	Topic 27 33	Laurie
+T3	Subjectiveme_negative 6 11	moche
+R1	isAspectOf Arg1:T1 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

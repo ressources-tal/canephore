@@ -1,0 +1,6 @@
+T1	Subjectiveme_positive 12 17	Aller
+T2	Topic 18 29	miss Guyane
+T3	Topic 40 55	miss Martinique
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+T4	Subjectiveme_positive 34 39	Aller
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T3	

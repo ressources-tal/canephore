@@ -1,0 +1,5 @@
+T1	Topic 15 28	Pays de Loire
+T2	Topic 5 11	Alsace
+T3	Subjectiveme_positive 34 38	cool
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

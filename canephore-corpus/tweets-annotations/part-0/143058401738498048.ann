@@ -1,0 +1,7 @@
+T1	Topic 39 44	Alain
+T2	Topic 48 55	Francis
+T3	Subjectiveme_negative 30 38	sla pète
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+T4	Topic 6 25	les copains acteurs
+R3	isNegativeOpinionOn Arg1:T3 Arg2:T4	

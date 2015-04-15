@@ -1,0 +1,5 @@
+T1	Topic 0 12	miss réunion
+T2	Subjectiveme_positive 26 34	ça passe
+T3	Topic 16 25	la rousse
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

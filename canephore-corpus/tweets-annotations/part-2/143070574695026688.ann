@@ -1,0 +1,5 @@
+T1	Aspect 5 12	costume
+T2	Topic 13 19	Tahiti
+T3	Subjectiveme_positive 0 4	Beau
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isAspectOf Arg1:T1 Arg2:T2	

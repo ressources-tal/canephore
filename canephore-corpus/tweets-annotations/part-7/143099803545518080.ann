@@ -1,0 +1,7 @@
+T2	Topic 6 11	robes
+T3	Subjectiveme_positive 17 25	SUPERBES
+T4	Subjectiveme_positive 27 37	MAGNIFIQUE
+T5	Subjectiveme_positive 39 48	SPLENDIDE
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+R3	isPositiveOpinionOn Arg1:T5 Arg2:T2	

@@ -1,0 +1,3 @@
+T1	Topic 3 18	Miss guadeloupe
+T2	Subjectiveme_positive 31 36	belle
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

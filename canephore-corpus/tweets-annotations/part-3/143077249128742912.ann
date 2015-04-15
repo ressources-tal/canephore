@@ -1,0 +1,7 @@
+T1	Topic 16 27	Miss Alsace
+T2	Topic 31 45	Miss Normandie
+T3	Subjectiveme_positive 55 64	préférées
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T4	Topic 0 14	Miss Aquitaine
+R3	isPositiveOpinionOn Arg1:T3 Arg2:T4	

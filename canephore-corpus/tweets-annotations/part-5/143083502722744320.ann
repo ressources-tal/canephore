@@ -1,0 +1,7 @@
+T2	Topic 15 24	Languedoc
+T3	Topic 28 36	Provence
+T4	Subjectiveme_positive 45 52	préfère
+T1	Topic 0 13	Pays de Loire
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T3	

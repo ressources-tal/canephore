@@ -1,0 +1,7 @@
+T1	Negator 36 39	pas
+T3	Subjectiveme_positive 40 48	terrible
+T2	Topic 4 16	miss univers
+R1	Negates Arg1:T1 Arg2:T3	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+T4	Subjectiveme_negative 65 92	ne sait pas parler Français
+R3	isNegativeOpinionOn Arg1:T4 Arg2:T2	

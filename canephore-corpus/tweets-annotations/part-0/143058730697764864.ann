@@ -1,0 +1,3 @@
+T1	Topic 19 33	Miss Languedoc
+T2	Subjectiveme_positive 13 18	belle
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

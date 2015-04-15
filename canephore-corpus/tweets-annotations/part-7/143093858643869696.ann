@@ -1,0 +1,3 @@
+T2	Topic 65 78	Pays de Loire
+T4	Subjectiveme_positive 110 117	potable
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T2	

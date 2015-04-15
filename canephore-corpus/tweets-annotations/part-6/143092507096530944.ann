@@ -1,0 +1,3 @@
+T1	Topic 55 70	Miss Martinique
+T2	Subjectiveme_positive 86 97	transsexuel
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	

@@ -1,0 +1,12 @@
+T1	Topic 38 50	miss reunion
+T2	Subjectiveme_positive 54 60	valide
+T3	Subjectiveme_negative 87 92	laide
+T5	Topic 12 18	tahiti
+T6	Topic 19 26	mayotte
+T7	Topic 27 37	guadeloupe
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T4	Topic 63 78	Miss martinique
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T4	
+R3	isPositiveOpinionOn Arg1:T2 Arg2:T7	
+R4	isPositiveOpinionOn Arg1:T2 Arg2:T6	
+R5	isPositiveOpinionOn Arg1:T2 Arg2:T5	

@@ -1,0 +1,3 @@
+T2	Topic 50 61	Miss Alsace
+T1	Subjectiveme_positive 0 3	YES
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

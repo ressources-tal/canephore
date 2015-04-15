@@ -1,0 +1,5 @@
+T1	Topic 29 39	Martinique
+T2	Topic 43 52	Languedoc
+T3	Subjectiveme_positive 61 70	bonnasses
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

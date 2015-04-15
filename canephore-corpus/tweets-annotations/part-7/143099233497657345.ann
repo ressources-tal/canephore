@@ -1,0 +1,5 @@
+T1	Topic 14 25	Miss Alsace
+T2	Subjectiveme_positive 40 47	déchire
+T3	Subjectiveme_positive 62 75	y'a pas photo
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

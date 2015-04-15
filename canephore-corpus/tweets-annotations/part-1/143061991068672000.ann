@@ -1,0 +1,3 @@
+T2	Subjectiveme_positive 5 10	passe
+T1	Topic 11 29	miss Midi Pyrénées
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

@@ -1,0 +1,13 @@
+T1	Topic 20 38	Nouvelle Calédonie
+T2	Topic 73 88	Poitou Charente
+T3	Topic 58 71	Ile de France
+T4	Topic 6 18	Miss Reunion
+T5	Topic 48 56	Picardie
+T6	Topic 40 46	Centre
+T7	Subjectiveme_positive 0 5	ALLEZ
+R1	isPositiveOpinionOn Arg1:T7 Arg2:T4	
+R2	isPositiveOpinionOn Arg1:T7 Arg2:T1	
+R3	isPositiveOpinionOn Arg1:T7 Arg2:T6	
+R4	isPositiveOpinionOn Arg1:T7 Arg2:T5	
+R5	isPositiveOpinionOn Arg1:T7 Arg2:T3	
+R6	isPositiveOpinionOn Arg1:T7 Arg2:T2	

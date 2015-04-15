@@ -1,0 +1,5 @@
+T2	Topic 25 37	miss réunion
+T1	Subjectiveme_positive 0 5	Jkiff
+T3	Aspect 19 24	parle
+R1	isAspectOf Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T3	

@@ -1,0 +1,5 @@
+R1	Negates Arg1:T3 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+T2	Topic 43 56	Miss des îles
+T3	Negator 62 65	pas
+T1	Subjectiveme_positive 66 72	belles

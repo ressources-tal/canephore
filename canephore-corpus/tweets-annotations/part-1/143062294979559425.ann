@@ -1,0 +1,5 @@
+T1	Topic 0 11	Miss Guyane
+T2	Subjectiveme_negative 17 21	gros
+T3	Aspect 22 25	nez
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T1	

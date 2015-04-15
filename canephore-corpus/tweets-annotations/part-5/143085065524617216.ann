@@ -1,0 +1,5 @@
+T1	Aspect 9 21	présentation
+T2	Topic 0 6	Alsace
+T3	Subjectiveme_negative 22 33	trop longue
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R2	isAspectOf Arg1:T1 Arg2:T2	

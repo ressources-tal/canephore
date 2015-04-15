@@ -1,0 +1,5 @@
+T1	Topic 12 25	Miss Provence
+T2	Aspect 39 43	robe
+T3	Subjectiveme_negative 44 54	à l'envers
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

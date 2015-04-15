@@ -1,0 +1,5 @@
+T2	Aspect 17 23	visage
+T3	Subjectiveme_positive 12 16	beau
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+T1	Topic 27 42	mises Languedoc
+R2	isAspectOf Arg1:T2 Arg2:T1	

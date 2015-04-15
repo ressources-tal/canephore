@@ -1,0 +1,5 @@
+T2	Subjectiveme_positive 71 76	adore
+T3	Subjectiveme_positive 42 47	Belle
+T1	Topic 4 21	robes de la final
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

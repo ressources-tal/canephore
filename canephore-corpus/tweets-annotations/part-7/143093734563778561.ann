@@ -1,0 +1,3 @@
+T1	Subjectiveme_negative 0 7	Boooouh
+T2	Topic 9 20	Miss Alsace
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	

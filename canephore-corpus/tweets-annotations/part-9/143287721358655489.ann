@@ -1,0 +1,5 @@
+T1	Topic 13 29	Miss France 2012
+T3	Subjectiveme_positive 35 39	love
+T2	Topic 0 11	Miss Alsace
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

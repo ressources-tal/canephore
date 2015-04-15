@@ -1,0 +1,3 @@
+T1	Topic 61 73	Miss Réunion
+T5	Subjectiveme_positive 49 54	jolie
+R1	isPositiveOpinionOn Arg1:T5 Arg2:T1	

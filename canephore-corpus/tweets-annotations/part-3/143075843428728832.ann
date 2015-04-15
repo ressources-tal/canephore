@@ -1,0 +1,3 @@
+T1	Topic 29 40	Linda Hardy
+T2	Subjectiveme_negative 13 28	pète l'ambiance
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	

@@ -1,0 +1,6 @@
+T1	Topic 0 5	Delon
+T2	Subjectiveme_negative 21 24	con
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_positive 76 90	impressionnant
+T4	Topic 94 100	niveau
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T4	

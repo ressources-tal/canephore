@@ -1,0 +1,4 @@
+T1	Subjectiveme_positive 12 18	aimais
+T2	Topic 29 47	Miss Pays de Loire
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+T3	Topic 51 61	MissFrance

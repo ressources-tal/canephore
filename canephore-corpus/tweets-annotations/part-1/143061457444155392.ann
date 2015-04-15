@@ -1,0 +1,3 @@
+T1	Subjectiveme_negative 26 32	laides
+T2	Topic 10 15	robes
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

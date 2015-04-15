@@ -1,0 +1,3 @@
+T1	Topic 31 42	miss Alsace
+T3	Subjectiveme_positive 26 30	Vive
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	

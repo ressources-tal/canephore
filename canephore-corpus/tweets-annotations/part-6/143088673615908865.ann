@@ -1,0 +1,6 @@
+T2	Subjectiveme_positive 39 44	super
+T1	Topic 45 51	soirée
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 56 78	MissFrance sur twitter
+T4	Subjectiveme_positive 91 96	drôle
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T3	

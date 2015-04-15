@@ -1,0 +1,7 @@
+T1	Topic 13 24	Miss Alsace
+T2	Subjectiveme_positive 3 12	suis pour
+T3	Aspect 38 45	cheveux
+T4	Subjectiveme_positive 28 33	adore
+R1	isAspectOf Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T3	

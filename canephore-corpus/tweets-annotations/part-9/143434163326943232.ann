@@ -1,0 +1,5 @@
+T1	Topic 18 21	TF1
+T2	Aspect 39 44	films
+T3	Subjectiveme_negative 35 38	bon
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

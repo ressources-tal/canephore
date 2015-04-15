@@ -1,0 +1,5 @@
+T1	Topic 19 27	musiques
+T2	Aspect 4 11	costume
+T3	Subjectiveme_negative 51 56	cheap
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

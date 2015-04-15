@@ -1,0 +1,5 @@
+T2	Aspect 19 24	robes
+T1	Topic 38 48	Laury truc
+T3	Subjectiveme_positive 25 35	de la mort
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

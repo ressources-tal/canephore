@@ -1,0 +1,5 @@
+T1	Negator 50 53	pas
+T2	Topic 0 25	Miss St Pierre & Miquelon
+T3	Subjectiveme_positive 60 80	gatéee par la nature
+R1	Negates Arg1:T1 Arg2:T3	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	

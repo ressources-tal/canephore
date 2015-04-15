@@ -1,0 +1,10 @@
+T1	Aspect 38 46	coiffure
+T2	Subjectiveme_negative 60 68	affreuse
+T3	Topic 17 22	Lorie
+T5	Aspect 3 13	maquillage
+T6	Subjectiveme_negative 27 33	hideux
+T7	Topic 50 55	Lorie
+R1	isNegativeOpinionOn Arg1:T6 Arg2:T5	
+R2	isAspectOf Arg1:T5 Arg2:T3	
+R3	isAspectOf Arg1:T1 Arg2:T7	
+R4	isNegativeOpinionOn Arg1:T2 Arg2:T1	

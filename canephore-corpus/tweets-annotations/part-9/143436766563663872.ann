@@ -1,0 +1,7 @@
+T1	Topic 22 27	robes
+T2	Subjectiveme_positive 5 15	Magnifique
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 34 40	tallon
+T4	Topic 49 52	sac
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R3	isPositiveOpinionOn Arg1:T2 Arg2:T4	

@@ -1,0 +1,3 @@
+T3	Topic 54 63	dauphines
+T4	Subjectiveme_negative 74 80	moches
+R1	isNegativeOpinionOn Arg1:T4 Arg2:T3	

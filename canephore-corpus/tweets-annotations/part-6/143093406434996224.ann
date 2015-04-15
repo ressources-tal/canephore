@@ -1,0 +1,3 @@
+T2	Topic 76 82	Alsace
+T1	Subjectiveme_positive 60 65	fière
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

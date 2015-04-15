@@ -1,0 +1,7 @@
+T1	Aspect 8 13	coupe
+T2	Topic 14 19	Lorie
+T3	Subjectiveme_negative 0 7	Paye ta
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R2	isAspectOf Arg1:T1 Arg2:T2	
+T4	Subjectiveme_negative 89 97	postiche
+R3	isNegativeOpinionOn Arg1:T4 Arg2:T1	

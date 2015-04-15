@@ -1,0 +1,7 @@
+T1	Topic 43 54	Miss Alsace
+T2	Topic 0 11	Miss Tahiti
+T4	Subjectiveme_positive 98 119	valent le coup d'oeil
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+T3	Subjectiveme_positive 25 36	super-jolie
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

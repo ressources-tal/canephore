@@ -1,0 +1,5 @@
+T2	Subjectiveme_positive 14 18	aime
+T3	Negator 19 22	pas
+T1	Topic 23 30	Réunion
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+R2	Negates Arg1:T3 Arg2:T2	

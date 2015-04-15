@@ -1,0 +1,6 @@
+T1	Topic 0 12	Miss Reunion
+T3	Subjectiveme_positive 26 30	Vive
+T2	Subjectiveme_positive 14 22	BELLEEEE
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T4	Topic 31 41	la reunion
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T4	

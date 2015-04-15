@@ -1,0 +1,3 @@
+T1	Topic 0 18	Miss Franche Comté
+T2	Subjectiveme_positive 33 36	HOT
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

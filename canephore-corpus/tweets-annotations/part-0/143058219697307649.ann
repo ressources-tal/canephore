@@ -1,0 +1,5 @@
+T1	Topic 1 14	LorieOfficiel
+T2	Topic 19 32	Sofia_Essaidi
+T3	Subjectiveme_positive 44 54	magnifique
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

@@ -1,0 +1,5 @@
+T2	Subjectiveme_negative 5 10	en PQ
+T3	Aspect 0 4	Robe
+T1	Topic 16 30	Laury Thillman
+R1	isAspectOf Arg1:T3 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T3	

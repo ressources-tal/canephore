@@ -1,0 +1,3 @@
+T2	Subjectiveme_positive 36 41	canon
+T1	Topic 0 19	Miss Languedoc 2010
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

@@ -1,0 +1,5 @@
+T1	Topic 9 20	Miss Guyane
+T2	Subjectiveme_negative 0 8	Hardcore
+T3	Aspect 36 65	montré qu'elle était contente
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T1	

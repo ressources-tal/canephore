@@ -1,0 +1,8 @@
+T1	Topic 9 21	Miss Réunion
+T2	Subjectiveme_negative 57 66	affreuses
+T4	Aspect 49 56	hanches
+T5	Subjectiveme_positive 28 33	mieux
+R1	isPositiveOpinionOn Arg1:T5 Arg2:T1	
+T3	Topic 40 44	miss
+R2	isAspectOf Arg1:T4 Arg2:T3	
+R3	isNegativeOpinionOn Arg1:T2 Arg2:T4	

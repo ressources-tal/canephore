@@ -1,0 +1,5 @@
+T1	Topic 12 24	Miss Réunion
+T2	Topic 27 47	Miss Poitou-Charente
+T3	Subjectiveme_positive 2 6	aime
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

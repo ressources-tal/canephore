@@ -1,0 +1,7 @@
+T2	Topic 0 6	Tahiti
+T1	Subjectiveme_positive 13 20	fraiche
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+T3	Aspect 30 36	accent
+T4	Subjectiveme_negative 37 42	awaaa
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T3	
+R3	isAspectOf Arg1:T3 Arg2:T2	

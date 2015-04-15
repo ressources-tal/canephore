@@ -1,0 +1,11 @@
+T2	Topic 0 11	Miss Alsace
+T3	Subjectiveme_negative 76 85	par coeur
+T4	Aspect 37 42	parle
+T5	Aspect 70 75	texte
+T7	Negator 55 58	pas
+R1	isAspectOf Arg1:T4 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T5	
+R3	Negates Arg1:T7 Arg2:T3	
+T1	Subjectiveme_positive 32 36	sait
+R4	isPositiveOpinionOn Arg1:T1 Arg2:T4	
+R5	isAspectOf Arg1:T5 Arg2:T2	

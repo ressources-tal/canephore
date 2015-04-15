@@ -1,0 +1,9 @@
+T1	Topic 0 13	Miss bretagne
+T2	Subjectiveme_negative 36 41	moche
+T3	Subjectiveme_negative 47 54	horreur
+T4	Subjectiveme_negative 63 70	laideur
+T5	Subjectiveme_negative 77 84	affreux
+R1	isNegativeOpinionOn Arg1:T5 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+R3	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R4	isNegativeOpinionOn Arg1:T4 Arg2:T1	

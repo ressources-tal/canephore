@@ -1,0 +1,5 @@
+T1	Aspect 14 21	cheveux
+T2	Topic 22 28	Alsace
+T3	Subjectiveme_negative 8 12	faux
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R2	isAspectOf Arg1:T1 Arg2:T2	

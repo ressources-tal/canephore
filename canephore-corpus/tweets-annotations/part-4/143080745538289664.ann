@@ -1,0 +1,3 @@
+T1	Topic 7 20	misslanguedoc
+T2	Subjectiveme_positive 0 5	Allez
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

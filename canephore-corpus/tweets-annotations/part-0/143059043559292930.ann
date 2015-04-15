@@ -1,0 +1,5 @@
+T1	Topic 0 15	Miss Guadeloupe
+T3	Subjectiveme_negative 37 40	bof
+T2	Topic 18 36	Nord Pas de Calais
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

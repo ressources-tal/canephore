@@ -1,0 +1,5 @@
+T1	Topic 0 15	Miss Guadeloupe
+T2	Subjectiveme_negative 45 59	manque un truc
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_positive 20 37	pas si mal que ça
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	

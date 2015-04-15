@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 12 23	on s'en fou
+T2	Aspect 27 33	ta vie
+T3	Topic 1 11	AlainDelon
+R1	isAspectOf Arg1:T2 Arg2:T3	
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T2	

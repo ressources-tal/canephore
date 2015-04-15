@@ -1,0 +1,5 @@
+T2	Topic 51 54	TF1
+T1	Subjectiveme_negative 23 36	cest pas bien
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+T3	Subjectiveme_negative 93 119	cest pas bien de leur part
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	

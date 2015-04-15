@@ -1,0 +1,3 @@
+T1	Topic 39 46	chanson
+T2	Subjectiveme_positive 25 32	kiffait
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

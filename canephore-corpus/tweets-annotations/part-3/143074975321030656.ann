@@ -1,0 +1,5 @@
+T1	Topic 0 13	Midi Pyrénées
+T2	Topic 17 24	Réunion
+T3	Subjectiveme_positive 28 33	garde
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

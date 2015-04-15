@@ -1,0 +1,5 @@
+T2	Topic 31 44	miss Bretagne
+T1	Subjectiveme_negative 0 14	C'est quoi cet
+T3	Aspect 15 25	engouement
+R1	isAspectOf Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T3	

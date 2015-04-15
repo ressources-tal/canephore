@@ -1,0 +1,6 @@
+T1	Topic 20 28	les miss
+T2	Subjectiveme_positive 42 48	belles
+T3	Topic 89 95	Alsace
+T4	Subjectiveme_negative 96 125	vient mettre son grain de sel
+R1	isNegativeOpinionOn Arg1:T4 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

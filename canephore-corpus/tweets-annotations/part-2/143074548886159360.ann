@@ -1,0 +1,7 @@
+T1	Topic 84 95	miss Tahiti
+T3	Negator 80 83	Pas
+T2	Aspect 57 65	foufoune
+T4	Subjectiveme_positive 43 53	bien épilé
+R1	Negates Arg1:T3 Arg2:T4	
+R2	isAspectOf Arg1:T2 Arg2:T1	
+R3	isNegativeOpinionOn Arg1:T4 Arg2:T2	

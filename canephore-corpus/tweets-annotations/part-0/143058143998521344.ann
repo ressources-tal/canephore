@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 18 29	degueulasse
+T2	Topic 11 16	Lorie
+T3	Aspect 3 7	robe
+R1	isAspectOf Arg1:T3 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T3	

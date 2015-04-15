@@ -1,0 +1,13 @@
+T1	Topic 37 50	miss Bretagne
+T2	Subjectiveme_positive 21 30	naturelle
+T5	Negator 17 20	pas
+T3	Aspect 57 69	lit un texte
+T6	Negator 84 87	pas
+T7	Subjectiveme_positive 88 97	naturelle
+R1	Negates Arg1:T6 Arg2:T7	
+R2	Negates Arg1:T5 Arg2:T2	
+T4	Subjectiveme_negative 108 112	vide
+R3	isNegativeOpinionOn Arg1:T4 Arg2:T1	
+R4	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+R5	isNegativeOpinionOn Arg1:T7 Arg2:T3	
+R6	isAspectOf Arg1:T3 Arg2:T1	

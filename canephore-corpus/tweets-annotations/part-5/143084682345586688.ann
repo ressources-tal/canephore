@@ -1,0 +1,7 @@
+T1	Subjectiveme_negative 18 26	horrible
+T2	Topic 7 15	Bretagne
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+T3	Aspect 31 38	sourrit
+T4	Subjectiveme_negative 48 58	niaisement
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T3	
+R3	isAspectOf Arg1:T3 Arg2:T2	

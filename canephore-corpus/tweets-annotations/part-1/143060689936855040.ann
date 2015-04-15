@@ -1,0 +1,5 @@
+T2	Topic 37 44	Réunion
+T3	Topic 48 53	Corse
+T1	Subjectiveme_positive 12 20	potables
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T3	

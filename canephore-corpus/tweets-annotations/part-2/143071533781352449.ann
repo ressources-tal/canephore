@@ -1,0 +1,5 @@
+T1	Aspect 16 36	costume traditionnel
+T2	Topic 38 48	MissTahiti
+R1	isAspectOf Arg1:T1 Arg2:T2	
+T3	Subjectiveme_positive 49 56	AWESOME
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

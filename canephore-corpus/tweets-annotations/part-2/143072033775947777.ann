@@ -1,0 +1,7 @@
+T1	Topic 0 14	Sylvie Tellier
+T2	Aspect 30 38	coiffure
+T4	Subjectiveme_negative 21 29	drôle de
+R1	isNegativeOpinionOn Arg1:T4 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 47 53	casque
+R3	isNegativeOpinionOn Arg1:T3 Arg2:T2	

@@ -1,0 +1,7 @@
+T1	Subjectiveme_negative 39 47	Horrible
+T2	Aspect 30 37	couleur
+T3	Topic 4 9	robes
+T4	Subjectiveme_positive 15 20	belle
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T3	
+R3	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+R4	isAspectOf Arg1:T2 Arg2:T3	

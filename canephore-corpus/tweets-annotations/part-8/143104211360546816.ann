@@ -1,0 +1,5 @@
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isAspectOf Arg1:T1 Arg2:T2	
+T2	Topic 48 59	Miss France
+T3	Subjectiveme_positive 24 32	contente
+T1	Aspect 36 44	résultat

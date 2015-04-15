@@ -1,0 +1,7 @@
+T1	Subjectiveme_positive 28 33	jolie
+T2	Topic 0 9	Languedoc
+T3	Subjectiveme_negative 11 17	Banale
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+T4	Subjectiveme_negative 39 48	sans plus
+R3	isNegativeOpinionOn Arg1:T4 Arg2:T2	

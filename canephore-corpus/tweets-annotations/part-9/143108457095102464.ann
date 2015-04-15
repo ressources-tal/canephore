@@ -1,0 +1,5 @@
+T1	Topic 23 34	Miss Alsace
+T3	Aspect 4 9	robes
+T4	Subjectiveme_negative 10 21	choucroutes
+R1	isNegativeOpinionOn Arg1:T4 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T1	

@@ -1,0 +1,6 @@
+T1	Topic 21 34	Miss Bretagne
+T2	Topic 57 65	Provence
+T3	Subjectiveme_negative 45 51	blague
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+T4	Subjectiveme_negative 84 91	travelo
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T2	

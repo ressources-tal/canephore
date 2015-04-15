@@ -1,0 +1,15 @@
+T1	Topic 0 15	Miss Guadeloupe
+T2	Topic 45 60	Miss Martinique
+T3	Aspect 92 99	cheveux
+T5	Aspect 109 112	nez
+R1	isAspectOf Arg1:T3 Arg2:T2	
+T6	Subjectiveme_positive 16 24	savaaaaa
+R2	isPositiveOpinionOn Arg1:T6 Arg2:T1	
+T7	Negator 31 44	par rapport a
+T4	Subjectiveme_positive 87 91	Beau
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T3	
+T8	Negator 100 104	mais
+R4	Negates Arg1:T8 Arg2:T4	
+R5	isNegativeOpinionOn Arg1:T4 Arg2:T5	
+R6	Negates Arg1:T7 Arg2:T6	
+R7	isNegativeOpinionOn Arg1:T6 Arg2:T2	

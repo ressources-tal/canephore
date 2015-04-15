@@ -1,0 +1,5 @@
+T1	Topic 28 54	Miss St Pierre et Miquelon
+T3	Aspect 5 10	parle
+T2	Subjectiveme_negative 11 27	comme une gamine
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T1	

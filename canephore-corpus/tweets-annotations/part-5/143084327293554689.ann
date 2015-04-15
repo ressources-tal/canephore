@@ -1,0 +1,3 @@
+T1	Topic 13 28	Miss Roussillon
+T3	Subjectiveme_positive 33 36	top
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	

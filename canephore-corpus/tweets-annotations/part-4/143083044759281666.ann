@@ -1,0 +1,10 @@
+T1	Aspect 79 87	sourires
+T2	Subjectiveme_negative 45 49	Fake
+T3	Subjectiveme_negative 51 55	Fake
+T4	Subjectiveme_negative 59 63	FAKE
+T5	Topic 23 33	MissFrance
+T6	Subjectiveme_negative 97 106	conneries
+R1	isNegativeOpinionOn Arg1:T6 Arg2:T5	
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T1	
+R3	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R4	isNegativeOpinionOn Arg1:T2 Arg2:T1	

@@ -1,0 +1,5 @@
+T2	Topic 35 41	Alsace
+T1	Topic 16 31	MissFrance 2012
+T3	Subjectiveme_positive 5 14	charmante
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

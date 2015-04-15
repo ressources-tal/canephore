@@ -1,0 +1,7 @@
+T3	Negator 54 57	pas
+T1	Subjectiveme_negative 58 65	communs
+T2	Topic 24 47	miss aux cheveux rouges
+T4	Topic 0 6	Alsace
+R1	Negates Arg1:T3 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+R3	isNegativeOpinionOn Arg1:T1 Arg2:T4	

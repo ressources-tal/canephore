@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 0 14	C'est quoi ces
+T3	Topic 24 38	robes blanches
+T2	Subjectiveme_negative 15 23	immondes
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T3	
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T3	

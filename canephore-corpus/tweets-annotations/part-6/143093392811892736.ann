@@ -1,0 +1,5 @@
+T1	Topic 0 11	Miss Alsace
+T2	Subjectiveme_positive 28 40	a le plus de
+T3	Aspect 41 47	formes
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T1	

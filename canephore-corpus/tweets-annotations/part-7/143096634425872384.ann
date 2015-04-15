@@ -1,0 +1,5 @@
+T1	Topic 47 59	Miss Réunion
+T2	Topic 32 43	Miss Alsace
+T3	Subjectiveme_positive 18 30	se détachent
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

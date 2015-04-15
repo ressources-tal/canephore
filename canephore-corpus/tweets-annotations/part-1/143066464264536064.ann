@@ -1,0 +1,9 @@
+T1	Topic 7 18	Miss Tahiti
+T2	Aspect 65 72	cheveux
+T3	Negator 56 60	Sauf
+T4	Subjectiveme_negative 39 53	ne me dis rien
+R1	isNegativeOpinionOn Arg1:T4 Arg2:T1	
+R2	Negates Arg1:T3 Arg2:T4	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+T5	Subjectiveme_positive 79 87	attirent
+R4	isPositiveOpinionOn Arg1:T5 Arg2:T2	

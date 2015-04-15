@@ -1,0 +1,7 @@
+T1	Topic 57 70	MissLanguedoc
+T2	Topic 41 52	MissRéunion
+T3	Subjectiveme_positive 4 13	favorites
+T4	Topic 20 38	MissPoitouCharente
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T4	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R3	isPositiveOpinionOn Arg1:T3 Arg2:T1	

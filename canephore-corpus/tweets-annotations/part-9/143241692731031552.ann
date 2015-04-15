@@ -1,0 +1,5 @@
+T1	Topic 0 13	Miss Bretagne
+T2	Topic 16 26	Martinique
+T4	Subjectiveme_negative 34 43	hommasses
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T1	

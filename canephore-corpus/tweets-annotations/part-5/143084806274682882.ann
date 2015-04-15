@@ -1,0 +1,5 @@
+T1	Topic 16 27	MissRéunion
+T2	Topic 0 11	Marie payet
+T3	Subjectiveme_positive 12 14	<3
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

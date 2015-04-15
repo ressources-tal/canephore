@@ -1,0 +1,5 @@
+T1	Topic 20 25	robes
+T2	Subjectiveme_negative 5 19	c'est quoi ces
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 26 31	berkk
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

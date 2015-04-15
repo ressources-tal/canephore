@@ -1,0 +1,14 @@
+T1	Topic 84 99	Miss Martinique
+T2	Topic 106 119	Miss Bretagne
+T3	Subjectiveme_positive 65 73	mignonne
+T4	Subjectiveme_negative 14 20	pourri
+T6	Topic 22 32	MissFrance
+R1	isNegativeOpinionOn Arg1:T4 Arg2:T6	
+T5	Topic 37 60	Miss Nord pas de calais
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T5	
+T7	Negator 74 83	comparé à
+R3	Negates Arg1:T7 Arg2:T3	
+R4	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R5	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+T8	Subjectiveme_negative 120 126	Louche
+R6	isNegativeOpinionOn Arg1:T8 Arg2:T2	

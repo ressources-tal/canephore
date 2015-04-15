@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 104 108	mimi
+T3	Topic 87 99	miss réunion
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T3	

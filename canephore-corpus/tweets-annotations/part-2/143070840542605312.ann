@@ -1,0 +1,3 @@
+T2	Topic 44 49	robes
+T1	Subjectiveme_positive 50 71	les mettent en valeur
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

@@ -1,0 +1,3 @@
+T2	Topic 25 34	Bourgogne
+T1	Subjectiveme_negative 57 60	bof
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	

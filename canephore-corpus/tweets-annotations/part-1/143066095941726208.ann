@@ -1,0 +1,5 @@
+T1	Topic 0 18	Miss Pays de Loire
+T5	Subjectiveme_negative 71 74	mal
+T2	Aspect 65 70	danse
+R1	isNegativeOpinionOn Arg1:T5 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

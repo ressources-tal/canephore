@@ -1,0 +1,8 @@
+T1	Topic 60 68	sourires
+T2	Subjectiveme_negative 69 74	figés
+T3	Subjectiveme_negative 45 49	fake
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T4	Topic 19 29	MissFrance
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T4	
+T5	Subjectiveme_negative 106 112	démodé
+R3	isNegativeOpinionOn Arg1:T5 Arg2:T4	

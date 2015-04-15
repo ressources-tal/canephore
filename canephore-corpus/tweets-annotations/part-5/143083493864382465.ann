@@ -1,0 +1,5 @@
+T1	Topic 13 25	Miss Réunion
+T2	Subjectiveme_negative 66 72	moches
+T3	Negator 35 40	seule
+R1	Negates Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

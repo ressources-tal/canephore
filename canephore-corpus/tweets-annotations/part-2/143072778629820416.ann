@@ -1,0 +1,5 @@
+T1	Topic 34 46	Miss Mayotte
+T2	Topic 18 30	miss Réunion
+T3	Subjectiveme_positive 8 12	aime
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

@@ -1,0 +1,5 @@
+T1	Topic 36 38	DJ
+T2	Subjectiveme_negative 7 16	bipolaire
+T3	Subjectiveme_negative 20 32	parkinsonien
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	

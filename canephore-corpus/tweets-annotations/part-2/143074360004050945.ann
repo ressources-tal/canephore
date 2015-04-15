@@ -1,0 +1,5 @@
+T1	Subjectiveme_positive 46 51	belle
+T2	Negator 37 40	pas
+R1	Negates Arg1:T2 Arg2:T1	
+T3	Topic 0 18	Miss Pas-de-Calais
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T3	

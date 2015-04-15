@@ -1,0 +1,5 @@
+T1	Topic 0 6	Laurie
+T2	Subjectiveme_positive 20 25	jolie
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_positive 38 45	embelie
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

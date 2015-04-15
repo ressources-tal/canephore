@@ -1,0 +1,7 @@
+T1	Subjectiveme_positive 3 12	suis pour
+T2	Topic 16 24	Bretagne
+T3	Topic 26 33	Mayotte
+T4	Topic 39 45	Alsace
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T3	
+R3	isPositiveOpinionOn Arg1:T1 Arg2:T4	

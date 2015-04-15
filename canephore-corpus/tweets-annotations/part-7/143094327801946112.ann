@@ -1,0 +1,6 @@
+T1	Topic 56 68	miss Réunion
+T2	Subjectiveme_positive 20 30	magnifique
+T3	Subjectiveme_positive 46 55	suis pour
+T4	Topic 1 15	Laurythilleman
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T4	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

@@ -1,0 +1,5 @@
+T1	Topic 0 13	Miss Bretagne
+T2	Subjectiveme_negative 23 31	scandale
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 69 90	un tableau de Picasso
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

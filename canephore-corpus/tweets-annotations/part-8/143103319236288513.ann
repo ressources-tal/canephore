@@ -1,0 +1,5 @@
+T1	Topic 0 13	Malika Ménard
+T2	Topic 17 30	Valérie Bègue
+T3	Subjectiveme_positive 36 42	bonnes
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

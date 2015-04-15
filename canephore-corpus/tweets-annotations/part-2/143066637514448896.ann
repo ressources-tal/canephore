@@ -1,0 +1,5 @@
+T1	Topic 24 35	miss Tahiti
+T2	Aspect 14 20	accent
+T4	Subjectiveme_positive 2 6	aime
+R1	isAspectOf Arg1:T2 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T2	

@@ -1,0 +1,7 @@
+T1	Topic 0 14	Sylvie Tellier
+T2	Aspect 51 57	gueule
+T3	Subjectiveme_negative 28 33	moche
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+T4	Subjectiveme_negative 41 47	dingue
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T2	
+R3	isAspectOf Arg1:T2 Arg2:T1	

@@ -1,0 +1,5 @@
+T1	Topic 32 45	Pays de Loire
+T2	Subjectiveme_positive 11 20	préférées
+T3	Topic 22 28	Alsace
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

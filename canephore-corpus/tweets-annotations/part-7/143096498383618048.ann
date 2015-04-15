@@ -1,0 +1,5 @@
+T1	Topic 1 14	LorieOfficiel
+T2	Subjectiveme_positive 30 37	superbe
+T3	Topic 16 29	LorieOfficiel
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

@@ -1,0 +1,5 @@
+T3	Topic 4 10	les 12
+T5	Subjectiveme_negative 26 31	trans
+R1	isNegativeOpinionOn Arg1:T5 Arg2:T3	
+T1	Subjectiveme_negative 40 48	dégueule
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T3	

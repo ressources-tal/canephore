@@ -1,0 +1,5 @@
+T1	Topic 0 13	Malika Ménard
+T2	Subjectiveme_positive 48 54	belles
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 17 30	Chloé Mortaud
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T3	

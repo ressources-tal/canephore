@@ -1,0 +1,7 @@
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R2	isAspectOf Arg1:T3 Arg2:T1	
+T2	Subjectiveme_positive 16 21	belle
+T3	Aspect 31 37	accent
+T1	Topic 0 6	Tahiti
+T4	Subjectiveme_negative 38 51	sa casse tout
+R3	isNegativeOpinionOn Arg1:T4 Arg2:T3	

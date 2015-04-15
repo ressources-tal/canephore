@@ -1,0 +1,3 @@
+T1	Topic 20 31	Miss France
+T3	Subjectiveme_positive 36 43	sublime
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

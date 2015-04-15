@@ -1,0 +1,5 @@
+T1	Subjectiveme_positive 14 19	jolie
+T2	Aspect 9 13	robe
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+T3	Topic 59 69	miss corse
+R2	isAspectOf Arg1:T2 Arg2:T3	

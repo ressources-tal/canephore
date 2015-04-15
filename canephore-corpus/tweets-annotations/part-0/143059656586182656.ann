@@ -1,0 +1,16 @@
+T1	Topic 76 86	Guadeloupe
+T2	Topic 0 9	Languedoc
+T4	Topic 88 96	Lorraine
+T5	Subjectiveme_negative 69 74	homme
+T7	Topic 12 18	Poitou
+T3	Subjectiveme_positive 19 28	mignonnes
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T7	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+T8	Topic 30 39	Champagne
+T9	Subjectiveme_positive 40 55	y a un ptit qqc
+R3	isPositiveOpinionOn Arg1:T9 Arg2:T8	
+T10	Topic 57 61	Nord
+R4	isNegativeOpinionOn Arg1:T5 Arg2:T10	
+T6	Subjectiveme_negative 102 106	bofs
+R5	isNegativeOpinionOn Arg1:T6 Arg2:T4	
+R6	isNegativeOpinionOn Arg1:T6 Arg2:T1	

@@ -1,0 +1,5 @@
+T1	Topic 2 22	élection Miss France
+T2	Subjectiveme_negative 24 38	ça ne vaut pas
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 39 71	Ma France a un Incroyable Talent
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T3	

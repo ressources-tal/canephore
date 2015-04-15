@@ -1,0 +1,7 @@
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T0	
+T4	Subjectiveme_positive 60 66	belles
+T2	Topic 34 45	Miss Alsace
+T0	Topic 0 14	Miss Languedoc
+T1	Topic 16 31	Miss Roussillon

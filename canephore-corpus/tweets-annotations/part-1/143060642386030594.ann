@@ -1,0 +1,16 @@
+T1	Topic 73 80	Réunion
+T2	Negator 66 71	moins
+T3	Subjectiveme_positive 30 35	sympa
+T5	Topic 0 4	Paca
+T6	Topic 8 26	St Pierre Miquelon
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T6	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T5	
+T7	Topic 37 42	Corse
+T8	Topic 45 58	Franche Comté
+R3	Negates Arg1:T2 Arg2:T3	
+R4	isPositiveOpinionOn Arg1:T3 Arg2:T7	
+R5	isPositiveOpinionOn Arg1:T3 Arg2:T8	
+T4	Aspect 99 104	têtes
+T9	Subjectiveme_negative 89 95	drôles
+R6	isPositiveOpinionOn Arg1:T9 Arg2:T4	
+R7	isAspectOf Arg1:T4 Arg2:T1	

@@ -1,0 +1,7 @@
+T1	Topic 0 15	Miss Guadeloupe
+T2	Topic 33 44	Miss Alsace
+T4	Subjectiveme_positive 55 59	aimé
+T3	Topic 17 31	miss Aquitaine
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T3	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T1	

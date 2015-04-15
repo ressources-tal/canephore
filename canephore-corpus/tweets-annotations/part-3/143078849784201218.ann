@@ -1,0 +1,7 @@
+T2	Topic 59 69	candidates
+T3	Subjectiveme_positive 45 50	jolie
+T4	Negator 51 54	que
+R1	Negates Arg1:T4 Arg2:T3	
+T1	Topic 13 30	miss univers 1953
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R3	isNegativeOpinionOn Arg1:T3 Arg2:T2	

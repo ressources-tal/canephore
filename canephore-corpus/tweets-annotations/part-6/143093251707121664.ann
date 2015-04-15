@@ -1,0 +1,5 @@
+T1	Topic 20 33	Miss Provence
+T2	Subjectiveme_negative 57 62	cheum
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 0 16	Miss Cote d'Azur
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T3	

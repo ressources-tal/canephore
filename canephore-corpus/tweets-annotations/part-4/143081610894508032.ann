@@ -1,0 +1,5 @@
+T1	Topic 0 11	Miss Alsace
+T2	Topic 15 26	miss Guyane
+T3	Subjectiveme_positive 36 45	préférées
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

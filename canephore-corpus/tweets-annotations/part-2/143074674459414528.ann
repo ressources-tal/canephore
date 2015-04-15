@@ -1,0 +1,7 @@
+T1	Subjectiveme_positive 20 28	terrible
+T2	Topic 0 8	Lorraine
+T3	Negator 13 16	pas
+T4	Subjectiveme_negative 30 33	Bof
+R1	Negates Arg1:T3 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+R3	isNegativeOpinionOn Arg1:T4 Arg2:T2	

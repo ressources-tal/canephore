@@ -1,0 +1,5 @@
+T1	Topic 64 77	Miss Provence
+T2	Topic 49 60	Miss Tahiti
+T3	Subjectiveme_positive 4 13	préférées
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

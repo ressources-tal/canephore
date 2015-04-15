@@ -1,0 +1,8 @@
+T2	Subjectiveme_negative 110 115	honte
+T1	Topic 118 121	tf1
+T3	Topic 43 54	Miss france
+T4	Subjectiveme_negative 32 42	pitoyables
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T3	
+T5	Aspect 73 109	diffuser en mme temps ke le téléthon
+R3	isAspectOf Arg1:T5 Arg2:T1	
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T5	

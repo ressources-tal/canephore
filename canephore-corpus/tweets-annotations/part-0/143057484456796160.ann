@@ -1,0 +1,8 @@
+T2	Aspect 4 9	robes
+T3	Negator 15 18	pas
+T1	Subjectiveme_negative 24 33	affreuses
+R1	Negates Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+T4	Topic 43 48	choré
+T5	Subjectiveme_negative 49 70	ressemble trop a rien
+R3	isNegativeOpinionOn Arg1:T5 Arg2:T4	

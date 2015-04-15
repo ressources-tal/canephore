@@ -1,0 +1,5 @@
+T1	Subjectiveme_positive 2 6	aime
+T2	Negator 7 10	pas
+T3	Topic 17 22	robes
+R1	Negates Arg1:T2 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T3	

@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 0 10	Magnifique
+T2	Topic 15 20	robes
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

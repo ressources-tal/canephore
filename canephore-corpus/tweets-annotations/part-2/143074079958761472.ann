@@ -1,0 +1,5 @@
+T1	Topic 0 10	Miss Gwada
+T2	Aspect 44 51	cheveux
+T4	Subjectiveme_positive 11 28	marque des points
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

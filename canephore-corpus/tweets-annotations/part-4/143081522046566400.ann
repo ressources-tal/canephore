@@ -1,0 +1,3 @@
+T1	Topic 1 15	LauryThilleman
+T2	Subjectiveme_positive 41 46	canon
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

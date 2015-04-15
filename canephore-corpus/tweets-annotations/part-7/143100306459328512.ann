@@ -1,0 +1,3 @@
+T2	Topic 27 31	robe
+T3	Subjectiveme_positive 9 14	envie
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	

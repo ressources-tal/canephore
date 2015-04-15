@@ -1,0 +1,10 @@
+T1	Topic 53 65	miss reunion
+T3	Topic 100 106	alsace
+T4	Subjectiveme_positive 94 99	allez
+T5	Subjectiveme_positive 47 52	belle
+T7	Negator 43 46	pas
+R1	Negates Arg1:T7 Arg2:T5	
+R2	isNegativeOpinionOn Arg1:T5 Arg2:T1	
+T2	Topic 110 123	pays de loire
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T3	
+R4	isPositiveOpinionOn Arg1:T4 Arg2:T2	

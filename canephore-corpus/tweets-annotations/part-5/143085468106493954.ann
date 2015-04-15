@@ -1,0 +1,5 @@
+T1	Topic 33 43	MissAlsace
+T2	Aspect 59 68	presenter
+T3	Subjectiveme_positive 54 58	mieu
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

@@ -1,0 +1,5 @@
+T1	Topic 0 14	Miss Bourgogne
+T2	Negator 19 22	pas
+T3	Subjectiveme_positive 23 32	beeeeelle
+R1	Negates Arg1:T2 Arg2:T3	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

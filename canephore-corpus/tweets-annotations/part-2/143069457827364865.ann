@@ -1,0 +1,7 @@
+T1	Topic 0 12	Miss Réunion
+T2	Subjectiveme_positive 14 23	naturelle
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_positive 25 34	souriante
+T4	Subjectiveme_positive 39 47	adorable
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T1	

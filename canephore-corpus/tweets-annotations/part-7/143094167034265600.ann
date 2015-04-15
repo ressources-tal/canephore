@@ -1,0 +1,3 @@
+T4	Subjectiveme_positive 81 85	bien
+T1	Topic 13 29	miss côte d'azur
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	

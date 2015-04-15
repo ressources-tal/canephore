@@ -1,0 +1,9 @@
+T1	Subjectiveme_positive 7 16	suis pour
+T2	Topic 17 26	Languedoc
+T3	Topic 106 112	Alsace
+T4	Subjectiveme_positive 92 97	jolie
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T3	
+T5	Topic 117 126	Rousillon
+R4	isPositiveOpinionOn Arg1:T4 Arg2:T5	

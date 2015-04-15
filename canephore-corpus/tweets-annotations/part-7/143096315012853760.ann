@@ -1,0 +1,5 @@
+T1	Topic 24 30	Alsace
+T2	Subjectiveme_positive 61 66	jolie
+T3	Negator 49 52	pas
+R2	Negates Arg1:T3 Arg2:T2	
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	

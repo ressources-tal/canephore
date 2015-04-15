@@ -1,0 +1,7 @@
+T1	Topic 27 42	Miss Martinique
+T2	Aspect 16 23	costume
+T4	Subjectiveme_negative 60 67	décousu
+T3	Subjectiveme_negative 49 56	déchiré
+R1	isAspectOf Arg1:T2 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T2	

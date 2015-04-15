@@ -1,0 +1,9 @@
+T1	Topic 0 11	Miss Alsace
+T2	Subjectiveme_positive 14 19	beaux
+T3	Negator 34 37	pas
+T4	Subjectiveme_positive 38 45	naturel
+T5	Aspect 20 27	cheveux
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T5	
+R2	isAspectOf Arg1:T5 Arg2:T1	
+R3	Negates Arg1:T3 Arg2:T4	
+R4	isNegativeOpinionOn Arg1:T4 Arg2:T1	

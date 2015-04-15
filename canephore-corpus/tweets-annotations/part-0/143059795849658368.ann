@@ -1,0 +1,3 @@
+T2	Subjectiveme_positive 21 28	potable
+T1	Topic 0 16	Miss Côte d'azur
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

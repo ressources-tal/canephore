@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 38 48	magnifique
+T2	Topic 5 17	miss #Alsace
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

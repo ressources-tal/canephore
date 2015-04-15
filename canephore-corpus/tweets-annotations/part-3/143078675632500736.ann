@@ -1,0 +1,5 @@
+T1	Topic 0 5	Lorie
+T2	Aspect 10 18	postiche
+T3	Subjectiveme_negative 28 43	fait trop falch
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

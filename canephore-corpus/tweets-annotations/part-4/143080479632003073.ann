@@ -1,0 +1,5 @@
+T1	Topic 47 69	Miss Champagne-Ardenne
+T2	Topic 31 42	Miss Centre
+T3	Subjectiveme_positive 74 83	préférées
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R3	isPositiveOpinionOn Arg1:T3 Arg2:T2	

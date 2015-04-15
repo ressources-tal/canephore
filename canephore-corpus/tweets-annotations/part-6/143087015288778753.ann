@@ -1,0 +1,9 @@
+T1	Topic 50 63	Pays de Loire
+T2	Topic 12 23	miss Alsace
+T3	Topic 36 46	Martinique
+T4	Topic 25 34	Languedoc
+T5	Subjectiveme_positive 2 6	aime
+R1	isPositiveOpinionOn Arg1:T5 Arg2:T4	
+R2	isPositiveOpinionOn Arg1:T5 Arg2:T2	
+R3	isPositiveOpinionOn Arg1:T5 Arg2:T3	
+R4	isPositiveOpinionOn Arg1:T5 Arg2:T1	

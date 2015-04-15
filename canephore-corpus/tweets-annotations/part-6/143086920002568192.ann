@@ -1,0 +1,7 @@
+T1	Subjectiveme_negative 18 26	ridicule
+T2	Aspect 36 43	sourire
+T3	Topic 0 13	Miss Pyrénées
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T3	
+T4	Subjectiveme_negative 44 51	Colgate
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T2	
+R3	isAspectOf Arg1:T2 Arg2:T3	

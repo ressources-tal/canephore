@@ -1,0 +1,7 @@
+T1	Subjectiveme_positive 42 48	belles
+T2	Topic 18 24	Malika
+T3	Topic 10 15	Laury
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T3	
+T4	Topic 0 7	Valérie
+R3	isPositiveOpinionOn Arg1:T1 Arg2:T4	

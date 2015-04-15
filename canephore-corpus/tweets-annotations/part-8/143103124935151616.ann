@@ -1,0 +1,8 @@
+T1	Subjectiveme_positive 54 61	potable
+T2	Topic 41 47	Malika
+T3	Topic 28 33	Laury
+T4	Subjectiveme_positive 19 23	aime
+T5	Negator 24 27	pas
+R1	Negates Arg1:T5 Arg2:T4	
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T3	
+R3	isPositiveOpinionOn Arg1:T1 Arg2:T2	

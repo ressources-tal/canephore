@@ -1,0 +1,7 @@
+T1	Topic 58 74	Pays de la Loire
+T2	Subjectiveme_positive 18 27	préférées
+T3	Topic 47 54	Réunion
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T4	Topic 30 46	Miss côté d'Azur
+R3	isPositiveOpinionOn Arg1:T2 Arg2:T4	

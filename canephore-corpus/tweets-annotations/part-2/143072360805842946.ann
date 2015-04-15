@@ -1,0 +1,5 @@
+R1	isPositiveOpinionOn Arg1:T0 Arg2:T1	
+R2	isAspectOf Arg1:T1 Arg2:T2	
+T2	Topic 27 39	MalikaMenard
+T0	Subjectiveme_positive 0 10	Magnifique
+T1	Aspect 11 15	robe

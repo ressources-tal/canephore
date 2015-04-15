@@ -1,0 +1,5 @@
+T1	Topic 4 42	Téléthon et Miss France en concurrence
+T2	Negator 50 53	pas
+T3	Subjectiveme_positive 54 63	équitable
+R1	Negates Arg1:T2 Arg2:T3	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

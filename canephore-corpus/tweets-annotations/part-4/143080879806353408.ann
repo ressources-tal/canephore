@@ -1,0 +1,7 @@
+T2	Negator 23 26	pas
+T3	Aspect 38 45	sourire
+T4	Subjectiveme_negative 46 51	forcé
+T1	Topic 0 18	Miss Midi Pyrénées
+R1	isNegativeOpinionOn Arg1:T4 Arg2:T3	
+R2	Negates Arg1:T2 Arg2:T4	
+R3	isAspectOf Arg1:T3 Arg2:T1	

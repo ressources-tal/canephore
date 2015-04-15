@@ -1,0 +1,7 @@
+T2	Subjectiveme_positive 27 37	magnifique
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T1	Topic 16 21	robes
+T3	Subjectiveme_negative 82 99	ça ne le fait pas
+T4	Aspect 43 81	portées pas des vachettes d'interville
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T4	
+R3	isAspectOf Arg1:T4 Arg2:T1	

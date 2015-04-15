@@ -1,0 +1,5 @@
+T2	Subjectiveme_positive 55 64	préférées
+T4	Topic 91 97	Alsace
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T4	
+T1	Topic 78 89	paysdeloire
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

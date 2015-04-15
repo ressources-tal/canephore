@@ -1,0 +1,3 @@
+T1	Topic 12 26	Miss Champagne
+T2	Subjectiveme_positive 29 37	ca passe
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

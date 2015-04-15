@@ -1,0 +1,8 @@
+R1	isAspectOf Arg1:T1 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R3	isPositiveOpinionOn Arg1:T5 Arg2:T4	
+T4	Topic 68 73	laury
+T5	Subjectiveme_positive 63 67	aime
+T2	Topic 24 38	LauryThilleman
+T3	Subjectiveme_positive 44 56	merveilleuse
+T1	Aspect 15 19	robe

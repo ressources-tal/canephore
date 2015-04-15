@@ -1,0 +1,3 @@
+T1	Topic 50 65	Miss Roussillon
+T2	Subjectiveme_positive 44 49	belle
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

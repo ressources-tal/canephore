@@ -1,0 +1,9 @@
+T1	Topic 85 96	Miss Centre
+T2	Subjectiveme_negative 61 67	moches
+T3	Subjectiveme_positive 18 24	jolies
+T4	Subjectiveme_positive 71 75	aime
+T5	Topic 0 12	Quelques-une
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T5	
+T6	Topic 31 41	la plupart
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T6	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T1	

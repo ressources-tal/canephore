@@ -1,0 +1,7 @@
+T2	Subjectiveme_positive 29 34	belle
+T3	Topic 11 16	Lorie
+T4	Aspect 3 7	robe
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T4	
+R5	isAspectOf Arg1:T4 Arg2:T3	
+T1	Subjectiveme_negative 44 89	voyait pas presque la totalité de sa poitrine
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T4	

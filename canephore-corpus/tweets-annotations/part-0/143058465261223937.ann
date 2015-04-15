@@ -1,0 +1,5 @@
+T1	Topic 13 18	Lorie
+T2	Aspect 27 31	juré
+T3	Subjectiveme_negative 37 48	CATASTROPHE
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

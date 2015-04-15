@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 39 50	dégueulasse
+T2	Topic 0 5	Lorie
+T3	Subjectiveme_negative 17 28	dévergondée
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T2	

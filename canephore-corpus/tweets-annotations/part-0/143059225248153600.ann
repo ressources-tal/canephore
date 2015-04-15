@@ -1,0 +1,5 @@
+T1	Topic 20 41	Miss Poitou Charentes
+T2	Aspect 15 19	voix
+T3	Subjectiveme_positive 2 6	aime
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

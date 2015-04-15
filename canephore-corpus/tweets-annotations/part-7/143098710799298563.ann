@@ -1,0 +1,7 @@
+T4	Negator 43 46	pas
+T1	Topic 0 11	Miss Alsace
+T2	Topic 15 26	miss rousse
+T3	Subjectiveme_positive 29 33	aime
+R1	Negates Arg1:T4 Arg2:T3	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R3	isNegativeOpinionOn Arg1:T3 Arg2:T1	

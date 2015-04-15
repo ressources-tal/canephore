@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 0 14	C'est quoi ces
+T2	Aspect 15 20	robes
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+T3	Topic 25 33	ex- miss
+R2	isAspectOf Arg1:T2 Arg2:T3	

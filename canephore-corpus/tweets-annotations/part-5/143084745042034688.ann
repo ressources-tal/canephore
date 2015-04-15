@@ -1,0 +1,3 @@
+T1	Topic 0 38	Telethon et Miss France au même moment
+T2	Subjectiveme_positive 47 51	bien
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

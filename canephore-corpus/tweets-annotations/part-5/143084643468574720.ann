@@ -1,0 +1,7 @@
+T1	Topic 12 24	Miss Réunion
+T2	Subjectiveme_negative 41 47	fausse
+T3	Negator 35 40	moins
+T4	Subjectiveme_positive 2 6	aime
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R2	Negates Arg1:T3 Arg2:T2	
+R3	isPositiveOpinionOn Arg1:T2 Arg2:T1	

@@ -1,0 +1,5 @@
+T2	Subjectiveme_negative 110 114	faux
+T3	Topic 41 49	les Miss
+T1	Aspect 79 86	sourire
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+R2	isAspectOf Arg1:T1 Arg2:T3	

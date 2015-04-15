@@ -1,0 +1,5 @@
+T1	Topic 17 30	Miss Bretagne
+T2	Subjectiveme_negative 45 53	Missthon
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 8 16	moucheté
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

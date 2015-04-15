@@ -1,0 +1,5 @@
+T1	Topic 0 14	Miss Normandie
+T2	Subjectiveme_positive 16 21	jolie
+T3	Aspect 22 40	marque de bronzage
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T1	

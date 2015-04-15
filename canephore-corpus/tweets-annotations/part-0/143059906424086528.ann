@@ -1,0 +1,5 @@
+T2	Aspect 60 67	musique
+T1	Subjectiveme_positive 15 19	bien
+T3	Topic 28 54	présentation de cette miss
+R1	isAspectOf Arg1:T2 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T2	

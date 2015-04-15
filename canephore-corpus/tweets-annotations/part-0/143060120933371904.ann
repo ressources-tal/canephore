@@ -1,0 +1,9 @@
+T1	Topic 0 10	Miss Corse
+T2	Subjectiveme_negative 51 59	horrible
+T3	Aspect 26 32	visage
+T5	Subjectiveme_positive 21 25	beau
+T6	Aspect 41 44	nez
+R1	isPositiveOpinionOn Arg1:T5 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T1	
+R3	isNegativeOpinionOn Arg1:T2 Arg2:T6	
+R4	isAspectOf Arg1:T6 Arg2:T1	

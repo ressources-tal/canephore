@@ -1,0 +1,9 @@
+T1	Topic 0 12	Miss Réunion
+T2	Subjectiveme_positive 17 22	belle
+T3	Aspect 60 64	yeux
+T4	Subjectiveme_positive 45 49	aime
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T5	Subjectiveme_positive 34 41	fraiche
+R2	isPositiveOpinionOn Arg1:T5 Arg2:T1	
+R4	isPositiveOpinionOn Arg1:T4 Arg2:T3	
+R3	isAspectOf Arg1:T3 Arg2:T1	

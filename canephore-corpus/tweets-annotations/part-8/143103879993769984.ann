@@ -1,0 +1,7 @@
+T1	Topic 12 23	Miss Alsace
+T2	Subjectiveme_negative 24 29	moche
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Negator 30 40	a coter de
+R1	Negates Arg1:T3 Arg2:T2	
+T4	Topic 41 51	la réunion
+R3	isPositiveOpinionOn Arg1:T2 Arg2:T4	

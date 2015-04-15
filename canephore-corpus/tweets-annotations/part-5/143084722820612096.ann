@@ -1,0 +1,5 @@
+T1	Topic 36 48	Miss Reunion
+T2	Subjectiveme_negative 7 18	fais pitier
+T3	Aspect 21 26	crier
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T1	

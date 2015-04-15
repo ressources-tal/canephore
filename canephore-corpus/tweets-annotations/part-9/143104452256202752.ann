@@ -1,0 +1,5 @@
+T3	Subjectiveme_negative 6 12	jaunes
+T4	Aspect 0 5	Dents
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T4	
+T1	Topic 34 54	Miss France nouvelle
+R2	isAspectOf Arg1:T4 Arg2:T1	

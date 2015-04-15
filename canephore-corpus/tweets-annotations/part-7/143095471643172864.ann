@@ -1,0 +1,5 @@
+T1	Topic 37 53	Miss Côte d'Azur
+T2	Topic 0 12	Miss Réunion
+T3	Subjectiveme_positive 22 27	mieux
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

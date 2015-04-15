@@ -1,0 +1,3 @@
+T1	Topic 15 40	miss Langudeoc Roussillon
+T2	Subjectiveme_positive 45 52	POTABLE
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

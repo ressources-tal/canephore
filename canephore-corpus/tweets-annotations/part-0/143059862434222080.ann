@@ -1,0 +1,3 @@
+T1	Topic 67 78	Côte d'Azur
+T2	Subjectiveme_negative 60 66	banale
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	

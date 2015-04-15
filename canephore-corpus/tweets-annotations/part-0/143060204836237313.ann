@@ -1,0 +1,3 @@
+T1	Topic 10 28	Miss Midi-Pyrénées
+T3	Subjectiveme_positive 0 9	Tous avec
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	

@@ -1,0 +1,7 @@
+T1	Topic 20 32	Miss Réunion
+T2	Aspect 48 53	tenue
+T3	Subjectiveme_positive 54 58	sexy
+T5	Subjectiveme_negative 0 11	Favoritisme
+R1	isNegativeOpinionOn Arg1:T5 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R3	isAspectOf Arg1:T2 Arg2:T1	

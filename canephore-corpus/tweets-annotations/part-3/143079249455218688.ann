@@ -1,0 +1,5 @@
+T1	Aspect 44 51	sourire
+T2	Topic 14 26	non nominées
+T3	Subjectiveme_negative 34 41	forcent
+R1	isAspectOf Arg1:T1 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

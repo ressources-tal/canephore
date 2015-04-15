@@ -1,0 +1,3 @@
+T1	Topic 16 26	MariePayet
+T2	Subjectiveme_positive 34 47	tous avec toi
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

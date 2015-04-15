@@ -1,0 +1,5 @@
+T1	Topic 0 11	Miss Centre
+T2	Aspect 18 22	tête
+T3	Subjectiveme_negative 23 32	de poupée
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

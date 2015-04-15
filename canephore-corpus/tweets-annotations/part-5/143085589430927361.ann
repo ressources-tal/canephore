@@ -1,0 +1,5 @@
+T1	Topic 0 13	Miss Provence
+T2	Aspect 53 61	oreilles
+T3	Subjectiveme_negative 20 37	feuilles de choux
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

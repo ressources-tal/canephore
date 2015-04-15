@@ -1,0 +1,5 @@
+T1	Topic 51 63	Miss Réunion
+T2	Subjectiveme_positive 5 10	adoré
+T3	Aspect 14 43	ralentie que la caméra a fait
+R1	isAspectOf Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T3	

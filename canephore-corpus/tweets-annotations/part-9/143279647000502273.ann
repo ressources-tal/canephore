@@ -1,0 +1,9 @@
+T1	Topic 29 39	MissAlsace
+T3	Subjectiveme_positive 68 73	Belle
+T4	Subjectiveme_positive 94 101	fraîche
+T2	Subjectiveme_positive 75 79	vive
+T5	Subjectiveme_positive 81 90	spontanée
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R3	isPositiveOpinionOn Arg1:T5 Arg2:T1	
+R4	isPositiveOpinionOn Arg1:T4 Arg2:T1	

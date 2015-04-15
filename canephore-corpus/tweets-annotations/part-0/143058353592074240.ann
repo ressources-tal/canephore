@@ -1,0 +1,5 @@
+T1	Topic 0 4	jury
+T2	Subjectiveme_positive 5 11	de ouf
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_positive 25 39	ça donne envie
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

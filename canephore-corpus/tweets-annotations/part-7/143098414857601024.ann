@@ -1,0 +1,5 @@
+T1	Topic 17 29	Miss Réunion
+T2	Subjectiveme_positive 49 54	belle
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_positive 12 16	veux
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

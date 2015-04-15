@@ -1,0 +1,9 @@
+T2	Subjectiveme_positive 45 50	adore
+T3	Aspect 59 63	robe
+T4	Topic 67 81	Sylvie Tellier
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T4	
+T1	Aspect 11 18	couleur
+R3	isAspectOf Arg1:T1 Arg2:T3	
+T5	Subjectiveme_negative 30 41	trop voyant
+R4	isNegativeOpinionOn Arg1:T5 Arg2:T1	

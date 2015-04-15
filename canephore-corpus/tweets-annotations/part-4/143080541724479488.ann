@@ -1,0 +1,5 @@
+T1	Topic 8 23	Miss Guadeloupe
+T2	Topic 27 38	Miss Tahiti
+T4	Subjectiveme_positive 93 99	belles
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T2	

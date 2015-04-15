@@ -1,0 +1,7 @@
+T1	Topic 0 16	Laurie Thilleman
+T2	Subjectiveme_positive 21 31	magnifique
+T3	Aspect 44 48	robe
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R1	isAspectOf Arg1:T3 Arg2:T1	
+T4	Subjectiveme_positive 36 40	veux
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T3	

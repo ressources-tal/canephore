@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 62 70	ridicule
+T2	Aspect 3 18	montage musical
+T3	Topic 22 40	défilé folklorique
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T3	

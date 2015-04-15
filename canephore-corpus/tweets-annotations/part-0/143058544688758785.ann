@@ -1,0 +1,7 @@
+T1	Topic 0 15	Miss Guadeloupe
+T2	Topic 17 29	Miss Réunion
+T3	Topic 31 42	Miss Tahiti
+T4	Subjectiveme_positive 66 72	belles
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T3	

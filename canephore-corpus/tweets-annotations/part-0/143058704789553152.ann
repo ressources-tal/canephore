@@ -1,0 +1,7 @@
+T1	Subjectiveme_positive 47 52	mieux
+T2	Topic 0 5	Lorie
+T3	Aspect 16 20	jury
+R1	isAspectOf Arg1:T3 Arg2:T2	
+T4	Negator 36 46	pu choisir
+R2	Negates Arg1:T4 Arg2:T1	
+R3	isNegativeOpinionOn Arg1:T1 Arg2:T3	

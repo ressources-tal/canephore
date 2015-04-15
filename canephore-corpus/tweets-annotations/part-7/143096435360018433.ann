@@ -1,0 +1,7 @@
+T2	Topic 2 12	Eurovision
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+T1	Subjectiveme_positive 33 47	plus de gueule
+T3	Negator 48 51	que
+T4	Topic 52 63	Miss France
+R2	Negates Arg1:T3 Arg2:T1	
+R3	isNegativeOpinionOn Arg1:T1 Arg2:T4	

@@ -1,0 +1,5 @@
+T1	Aspect 3 8	coupe
+T2	Subjectiveme_negative 18 23	gâche
+T3	Topic 12 17	Lorie
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+R2	isAspectOf Arg1:T1 Arg2:T3	

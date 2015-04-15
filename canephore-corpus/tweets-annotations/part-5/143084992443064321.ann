@@ -1,0 +1,5 @@
+T1	Topic 31 44	Miss Bretagne
+T2	Aspect 3 11	discours
+T3	Subjectiveme_negative 12 27	appris par cœur
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

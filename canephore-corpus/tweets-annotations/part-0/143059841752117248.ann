@@ -1,0 +1,5 @@
+T1	Topic 0 11	Côte d'Azur
+T2	Subjectiveme_negative 23 31	horrible
+T3	Aspect 18 22	voix
+R4	isAspectOf Arg1:T3 Arg2:T1	
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T3	

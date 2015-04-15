@@ -1,0 +1,6 @@
+T2	Topic 39 50	Côte d'Azur
+T3	Topic 85 93	Provence
+T6	Subjectiveme_negative 53 58	beurk
+R1	isNegativeOpinionOn Arg1:T6 Arg2:T2	
+T1	Subjectiveme_negative 101 106	beurk
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T3	

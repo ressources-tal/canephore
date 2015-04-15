@@ -1,0 +1,3 @@
+T3	Subjectiveme_positive 6 10	aime
+T1	Topic 11 20	ma Région
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	

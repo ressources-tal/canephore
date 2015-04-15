@@ -1,0 +1,5 @@
+T1	Topic 3 9	Alsace
+T2	Subjectiveme_positive 0 2	GO
+T3	Topic 13 15	RH
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T3	

@@ -1,0 +1,3 @@
+T2	Subjectiveme_positive 7 11	vive
+T1	Topic 16 44	robes des créateurs Mexicain
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

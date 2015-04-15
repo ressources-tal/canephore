@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 2 6	aime
+T2	Topic 12 25	pays de Loire
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

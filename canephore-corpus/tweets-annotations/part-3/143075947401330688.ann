@@ -1,0 +1,5 @@
+T1	Topic 15 38	les miss de cette année
+T2	Subjectiveme_positive 57 63	belles
+T3	Negator 47 50	pas
+R1	Negates Arg1:T3 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	

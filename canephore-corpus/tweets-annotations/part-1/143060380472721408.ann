@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 36 48	Rien ne vaut
+T2	Topic 53 70	soirée MissFrance
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

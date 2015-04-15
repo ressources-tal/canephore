@@ -1,0 +1,9 @@
+T2	Aspect 111 119	sourires
+T3	Subjectiveme_negative 120 126	forcés
+T4	Subjectiveme_negative 130 134	gros
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+T5	Aspect 135 139	pifs
+T1	Topic 17 27	finalistes
+R2	isAspectOf Arg1:T5 Arg2:T1	
+R3	isAspectOf Arg1:T2 Arg2:T1	
+R4	isNegativeOpinionOn Arg1:T4 Arg2:T5	

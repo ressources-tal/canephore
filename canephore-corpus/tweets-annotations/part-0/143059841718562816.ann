@@ -1,0 +1,5 @@
+T1	Aspect 0 7	Sourire
+T2	Subjectiveme_negative 8 16	faux cul
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 17 28	cote d'azur
+R2	isAspectOf Arg1:T1 Arg2:T3	

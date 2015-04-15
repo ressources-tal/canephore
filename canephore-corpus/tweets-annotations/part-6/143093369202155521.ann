@@ -1,0 +1,3 @@
+T1	Topic 23 38	Miss Martinique
+T2	Subjectiveme_negative 46 61	Vincent Mc Doom
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	

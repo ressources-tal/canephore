@@ -1,0 +1,6 @@
+T1	Topic 32 47	Miss Guadeloupe
+T2	Topic 13 24	Miss Guyane
+T3	Subjectiveme_positive 3 12	suis pour
+T4	Subjectiveme_negative 52 57	moche
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T1	

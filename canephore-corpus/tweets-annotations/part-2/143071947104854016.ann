@@ -1,0 +1,9 @@
+T2	Topic 8 15	Mayotte
+T3	Topic 17 23	Centre
+T4	Topic 0 6	Tahiti
+T5	Topic 25 37	Midi-pyrénée
+T1	Subjectiveme_positive 52 60	soutient
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T5	
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T3	
+R3	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+R4	isPositiveOpinionOn Arg1:T1 Arg2:T4	

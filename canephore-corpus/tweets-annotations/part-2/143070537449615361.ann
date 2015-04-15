@@ -1,0 +1,5 @@
+T1	Topic 36 50	LauryThilleman
+T5	Subjectiveme_positive 26 30	bien
+R1	isPositiveOpinionOn Arg1:T5 Arg2:T1	
+T2	Subjectiveme_positive 121 126	fière
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

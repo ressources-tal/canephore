@@ -1,0 +1,3 @@
+T2	Subjectiveme_positive 14 18	vive
+T1	Topic 19 26	mon île
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

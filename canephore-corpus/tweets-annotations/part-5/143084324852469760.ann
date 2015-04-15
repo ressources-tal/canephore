@@ -1,0 +1,7 @@
+T1	Topic 0 11	Linda Hardy
+T2	Subjectiveme_positive 26 31	mieux
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Negator 32 35	que
+R2	Negates Arg1:T3 Arg2:T2	
+T4	Topic 36 53	Françoise de Suza
+R3	isNegativeOpinionOn Arg1:T2 Arg2:T4	

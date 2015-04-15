@@ -1,0 +1,8 @@
+T1	Subjectiveme_positive 24 32	terrible
+T2	Subjectiveme_positive 49 54	mieux
+T3	Topic 15 19	robe
+T4	Negator 20 23	pas
+R1	Negates Arg1:T4 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T3	
+T5	Topic 33 42	cléopatre
+R3	isPositiveOpinionOn Arg1:T2 Arg2:T5	

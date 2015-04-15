@@ -1,0 +1,11 @@
+T1	Subjectiveme_positive 24 30	valide
+T2	Negator 31 34	pas
+T3	Topic 56 68	Miss Réunion
+T4	Subjectiveme_positive 93 98	sympa
+T5	Aspect 78 86	discours
+T6	Aspect 46 52	visage
+R1	isAspectOf Arg1:T6 Arg2:T3	
+R2	isAspectOf Arg1:T5 Arg2:T3	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T5	
+R4	Negates Arg1:T2 Arg2:T1	
+R5	isNegativeOpinionOn Arg1:T1 Arg2:T6	

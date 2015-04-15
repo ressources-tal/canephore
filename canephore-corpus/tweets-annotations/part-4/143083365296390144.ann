@@ -1,0 +1,5 @@
+T1	Topic 22 35	Miss Bretagne
+T2	Aspect 0 4	Tete
+T3	Subjectiveme_negative 5 19	de merlan frit
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

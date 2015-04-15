@@ -1,0 +1,5 @@
+T1	Negator 19 22	pas
+T2	Subjectiveme_positive 23 28	belle
+T3	Topic 91 106	Miss Martinique
+R1	Negates Arg1:T1 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T3	

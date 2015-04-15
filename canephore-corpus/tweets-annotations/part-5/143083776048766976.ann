@@ -1,0 +1,6 @@
+T1	Topic 4 7	son
+T2	Subjectiveme_positive 0 3	bOn
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 34 39	robes
+T4	Subjectiveme_negative 48 53	beurk
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T3	

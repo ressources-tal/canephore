@@ -1,0 +1,5 @@
+T1	Topic 6 16	MariePayet
+T2	Subjectiveme_positive 97 101	aime
+T3	Subjectiveme_negative 28 36	arnaqués
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

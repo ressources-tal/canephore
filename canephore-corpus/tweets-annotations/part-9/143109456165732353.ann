@@ -1,0 +1,7 @@
+T2	Topic 108 121	Valérie Bègue
+T3	Subjectiveme_positive 28 34	belles
+T4	Topic 90 104	Elodie Gossuin
+T5	Topic 75 88	Sonia Rolland
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T5	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T4	
+R3	isPositiveOpinionOn Arg1:T3 Arg2:T2	

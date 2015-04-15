@@ -1,0 +1,5 @@
+T1	Topic 21 38	miss midi-pyrenes
+T2	Aspect 61 68	sourire
+T3	Subjectiveme_negative 55 60	vieux
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

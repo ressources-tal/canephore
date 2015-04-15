@@ -1,0 +1,9 @@
+T1	Topic 14 24	MissAlsace
+T4	Subjectiveme_positive 34 39	belle
+T5	Subjectiveme_negative 8 12	déçu
+T6	Negator 4 7	pas
+R1	Negates Arg1:T6 Arg2:T5	
+R2	isPositiveOpinionOn Arg1:T5 Arg2:T1	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+T2	Subjectiveme_positive 45 51	mérite
+R4	isPositiveOpinionOn Arg1:T2 Arg2:T1	

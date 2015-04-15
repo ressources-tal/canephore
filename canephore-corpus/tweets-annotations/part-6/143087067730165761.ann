@@ -1,0 +1,3 @@
+T1	Topic 82 98	Miss France 1958
+T2	Subjectiveme_positive 105 121	paraît pas 70ans
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

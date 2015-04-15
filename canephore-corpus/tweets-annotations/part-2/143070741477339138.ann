@@ -1,0 +1,6 @@
+T1	Subjectiveme_negative 22 25	nul
+T2	Topic 46 54	chansons
+T3	Subjectiveme_negative 55 63	pourries
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+T4	Topic 3 5	dj
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T4	

@@ -1,0 +1,5 @@
+T1	Topic 38 51	miss bretagne
+T2	Aspect 33 37	yeux
+T3	Subjectiveme_negative 8 23	fait archi peur
+R1	isAspectOf Arg1:T2 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	

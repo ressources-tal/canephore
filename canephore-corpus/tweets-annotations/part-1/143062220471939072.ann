@@ -1,0 +1,5 @@
+T1	Topic 0 13	Midi pyrénées
+T2	Topic 17 26	Normandie
+T3	Subjectiveme_positive 29 33	aime
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

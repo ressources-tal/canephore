@@ -1,0 +1,6 @@
+T1	Topic 64 70	Alsace
+T2	Subjectiveme_negative 56 63	austère
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 98 103	Loire
+T4	Subjectiveme_negative 92 97	douce
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T3	

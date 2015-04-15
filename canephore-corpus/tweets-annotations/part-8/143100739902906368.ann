@@ -1,0 +1,5 @@
+T1	Topic 13 19	Alsace
+T2	Subjectiveme_negative 6 12	jaunes
+T3	Aspect 0 5	Dents
+R1	isAspectOf Arg1:T3 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T3	

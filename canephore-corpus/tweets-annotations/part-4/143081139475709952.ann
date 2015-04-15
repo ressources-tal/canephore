@@ -1,0 +1,6 @@
+T1	Topic 23 35	Miss Reunion
+T2	Subjectiveme_positive 17 22	adore
+T3	Subjectiveme_positive 89 93	aime
+R3	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T4	Topic 103 117	pornos de miss
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T4	

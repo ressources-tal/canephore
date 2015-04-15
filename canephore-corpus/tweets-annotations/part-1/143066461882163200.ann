@@ -1,0 +1,7 @@
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T3	
+R3	isAspectOf Arg1:T3 Arg2:T1	
+T4	Subjectiveme_positive 44 50	mignon
+T2	Subjectiveme_positive 2 6	aime
+T3	Aspect 32 38	visage
+T1	Topic 12 23	Miss Centre

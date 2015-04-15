@@ -1,0 +1,8 @@
+T1	Topic 77 92	Miss Guadeloupe
+T3	Subjectiveme_positive 101 106	sympa
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T2	Topic 0 23	Miss Nord-Pas-De-Calais
+T4	Aspect 51 57	parler
+T5	Subjectiveme_negative 28 48	va falloir apprendre
+R2	isNegativeOpinionOn Arg1:T5 Arg2:T4	
+R3	isAspectOf Arg1:T4 Arg2:T2	

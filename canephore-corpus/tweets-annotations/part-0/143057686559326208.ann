@@ -1,0 +1,5 @@
+T1	Aspect 3 7	robe
+T3	Topic 11 25	sylvie tellier
+R1	isAspectOf Arg1:T1 Arg2:T3	
+T2	Subjectiveme_negative 29 47	donne mal aux yeux
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	

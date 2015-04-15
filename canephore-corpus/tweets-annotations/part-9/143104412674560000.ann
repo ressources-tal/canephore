@@ -1,0 +1,3 @@
+T2	Topic 26 37	Miss Alsace
+T4	Subjectiveme_positive 44 51	pas mal
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T2	

@@ -1,0 +1,6 @@
+T1	Topic 21 32	miss alsace
+T2	Subjectiveme_negative 14 20	banale
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 66 73	pourrit
+T4	Topic 34 44	missfrance
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T4	

@@ -1,0 +1,3 @@
+T1	Topic 0 9	Languedoc
+T3	Subjectiveme_positive 12 19	pas mal
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	

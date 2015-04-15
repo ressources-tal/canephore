@@ -1,0 +1,3 @@
+T2	Subjectiveme_negative 30 35	moche
+T1	Topic 0 16	Miss France 1965
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	

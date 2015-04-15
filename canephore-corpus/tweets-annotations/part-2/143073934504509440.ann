@@ -1,0 +1,3 @@
+T1	Topic 31 39	chansons
+T2	Subjectiveme_positive 40 51	de l'époque
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

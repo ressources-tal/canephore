@@ -1,0 +1,5 @@
+T1	Topic 0 16	Miss cote d'azur
+T2	Aspect 68 73	joues
+T3	Subjectiveme_negative 74 83	tte rouge
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

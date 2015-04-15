@@ -1,0 +1,7 @@
+T1	Negator 17 23	aucune
+T2	Aspect 3 7	robe
+T3	Subjectiveme_positive 12 14	va
+R1	Negates Arg1:T1 Arg2:T3	
+T4	Topic 28 34	filles
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R3	isAspectOf Arg1:T2 Arg2:T4	

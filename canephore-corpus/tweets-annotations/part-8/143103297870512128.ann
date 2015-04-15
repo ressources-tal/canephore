@@ -1,0 +1,3 @@
+T1	Subjectiveme_negative 39 48	ridicules
+T2	Topic 20 25	robes
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

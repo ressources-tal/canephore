@@ -1,0 +1,8 @@
+T1	Aspect 23 34	Miss France
+T3	Subjectiveme_positive 65 69	beau
+T4	Subjectiveme_positive 51 55	veux
+T6	Subjectiveme_negative 11 19	m'en fou
+R1	isPositiveOpinionOn Arg1:T6 Arg2:T1	
+T2	Topic 70 83	danseur métis
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T2	

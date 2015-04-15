@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 34 39	mieux
+T2	Topic 14 27	Pays de loire
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

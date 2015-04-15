@@ -1,0 +1,8 @@
+T1	Topic 52 70	Miss Pays De Loire
+T2	Subjectiveme_positive 91 95	bien
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 21 32	Miss Alsace
+T4	Aspect 0 16	Miss France 2012
+R2	isAspectOf Arg1:T4 Arg2:T3	
+T5	Subjectiveme_negative 47 51	déçu
+R3	isNegativeOpinionOn Arg1:T5 Arg2:T4	

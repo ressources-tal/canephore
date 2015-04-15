@@ -1,0 +1,5 @@
+T1	Topic 29 45	Pays de la Loire
+T2	Subjectiveme_positive 9 18	suis pour
+T3	Topic 19 25	Alsace
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

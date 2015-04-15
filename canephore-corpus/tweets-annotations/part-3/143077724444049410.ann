@@ -1,0 +1,8 @@
+T1	Topic 39 54	Miss Guadeloupe
+T3	Subjectiveme_positive 58 62	cute
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T4	Topic 18 28	MissFrance
+T2	Subjectiveme_positive 0 4	Nice
+T5	Aspect 5 9	show
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T5	
+R3	isAspectOf Arg1:T5 Arg2:T4	

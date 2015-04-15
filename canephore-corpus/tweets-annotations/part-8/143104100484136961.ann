@@ -1,0 +1,13 @@
+T3	Subjectiveme_positive 31 38	sublime
+T4	Aspect 69 73	robe
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T4	
+T1	Subjectiveme_negative 74 84	choucroute
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T4	
+T5	Subjectiveme_positive 61 68	sublime
+R3	isPositiveOpinionOn Arg1:T5 Arg2:T4	
+T2	Topic 18 29	miss Alsace
+R4	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R5	isAspectOf Arg1:T4 Arg2:T2	
+T6	Topic 1 16	MissFrance 2012
+R6	isAspectOf Arg1:T4 Arg2:T6	
+R7	isPositiveOpinionOn Arg1:T3 Arg2:T6	

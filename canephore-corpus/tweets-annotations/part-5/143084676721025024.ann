@@ -1,0 +1,5 @@
+T1	Topic 23 36	Miss Bretagne
+T2	Subjectiveme_negative 81 87	louche
+T3	Subjectiveme_positive 17 22	jolie
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	

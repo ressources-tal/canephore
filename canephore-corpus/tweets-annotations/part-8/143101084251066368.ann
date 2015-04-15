@@ -1,0 +1,9 @@
+T1	Topic 0 12	Miss Réunion
+T2	Subjectiveme_positive 63 74	se démarque
+T4	Subjectiveme_positive 46 54	charisme
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+T3	Subjectiveme_positive 18 23	sacré
+T5	Aspect 24 30	bagout
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T5	
+R4	isAspectOf Arg1:T5 Arg2:T1	

@@ -1,0 +1,9 @@
+T1	Topic 12 23	miss alsace
+T2	Subjectiveme_negative 70 75	moche
+T3	Subjectiveme_negative 44 48	déçu
+T4	Negator 40 43	pas
+T5	Negator 66 69	pas
+R1	Negates Arg1:T5 Arg2:T2	
+R2	Negates Arg1:T4 Arg2:T3	
+R3	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R4	isPositiveOpinionOn Arg1:T2 Arg2:T1	

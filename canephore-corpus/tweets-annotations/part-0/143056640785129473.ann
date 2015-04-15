@@ -1,0 +1,5 @@
+T1	Topic 0 16	Miss Côte d'Azur
+T2	Subjectiveme_negative 28 40	à la ramasse
+T3	Aspect 48 53	choré
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T1	

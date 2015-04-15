@@ -1,0 +1,5 @@
+T2	Subjectiveme_positive 9 14	belle
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T1	Topic 15 26	Miss Alsace
+T3	Subjectiveme_negative 32 54	faut pas qu'elle parle
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

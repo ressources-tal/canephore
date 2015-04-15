@@ -1,0 +1,5 @@
+T1	Topic 17 25	les Miss
+T2	Negator 9 12	pas
+T3	Subjectiveme_positive 13 16	Top
+R1	Negates Arg1:T2 Arg2:T3	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

@@ -1,0 +1,6 @@
+T1	Topic 1 11	MariePayet
+T2	Subjectiveme_positive 29 38	meilleure
+T3	Topic 102 109	Réunion
+T4	Subjectiveme_positive 99 101	Go
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T3	

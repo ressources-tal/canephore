@@ -1,0 +1,5 @@
+T1	Topic 0 23	Miss Nouvelle-Calédonie
+T2	Topic 27 39	Miss Réunion
+T3	Subjectiveme_positive 49 59	meilleures
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

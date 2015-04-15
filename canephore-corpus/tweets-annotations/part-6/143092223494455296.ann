@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 34 39	génie
+T2	Topic 3 26	mec qui fait la musique
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

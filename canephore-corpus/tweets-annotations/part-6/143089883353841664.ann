@@ -1,0 +1,5 @@
+T1	Topic 0 12	Miss Réunion
+T2	Topic 16 27	Miss Guyane
+T4	Subjectiveme_positive 42 48	belles
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T2	

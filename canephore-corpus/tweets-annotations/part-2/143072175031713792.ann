@@ -1,0 +1,3 @@
+T2	Topic 22 30	chansons
+T3	Subjectiveme_negative 13 21	vieilles
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	

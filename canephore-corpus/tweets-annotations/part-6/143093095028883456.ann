@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 0 4	Yeah
+T2	Topic 6 17	Miss Alsace
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

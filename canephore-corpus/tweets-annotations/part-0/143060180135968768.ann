@@ -1,0 +1,5 @@
+T1	Topic 25 33	les Miss
+T2	Subjectiveme_negative 39 45	moches
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 79 85	cruche
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

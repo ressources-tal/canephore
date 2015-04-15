@@ -1,0 +1,5 @@
+T2	Aspect 12 16	robe
+T3	Subjectiveme_positive 0 11	Magnifiique
+T1	Topic 27 40	laurie machin
+R1	isAspectOf Arg1:T2 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

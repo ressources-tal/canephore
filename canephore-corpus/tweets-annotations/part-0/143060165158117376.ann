@@ -1,0 +1,5 @@
+T1	Topic 0 10	Miss Corse
+T2	Subjectiveme_positive 28 33	beaux
+T3	Aspect 34 39	chivé
+R1	isAspectOf Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T3	

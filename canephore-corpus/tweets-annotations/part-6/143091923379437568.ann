@@ -1,0 +1,5 @@
+T1	Topic 70 75	Lorie
+T2	Aspect 62 66	robe
+R1	isAspectOf Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 24 58	n'arrive toujours pas à me faire à
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	

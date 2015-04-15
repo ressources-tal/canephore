@@ -1,0 +1,9 @@
+T2	Subjectiveme_positive 64 70	belles
+T3	Negator 60 63	pas
+R1	Negates Arg1:T3 Arg2:T2	
+T1	Topic 4 16	5 finalistes
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T4	Aspect 100 109	vêtements
+T5	Subjectiveme_positive 83 95	portent bien
+R3	isPositiveOpinionOn Arg1:T5 Arg2:T4	
+R4	isAspectOf Arg1:T4 Arg2:T1	

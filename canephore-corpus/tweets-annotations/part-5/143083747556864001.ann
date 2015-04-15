@@ -1,0 +1,5 @@
+T2	Subjectiveme_positive 30 35	belle
+T1	Topic 12 23	miss guyane
+T3	Aspect 36 44	cambrure
+R1	isAspectOf Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T3	

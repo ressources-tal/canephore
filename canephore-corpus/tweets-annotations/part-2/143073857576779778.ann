@@ -1,0 +1,7 @@
+T1	Topic 33 49	Miss Côte d'Azur
+T2	Topic 0 14	Miss Languedoc
+T3	Topic 16 29	Miss Provence
+T4	Subjectiveme_positive 59 68	préférées
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T3	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T2	

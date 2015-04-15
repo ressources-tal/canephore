@@ -1,0 +1,5 @@
+T1	Topic 1 6	Lorie
+T3	Subjectiveme_positive 16 20	sexy
+T4	Aspect 10 15	tenue
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T4	
+R2	isAspectOf Arg1:T4 Arg2:T1	

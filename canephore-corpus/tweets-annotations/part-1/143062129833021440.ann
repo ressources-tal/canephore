@@ -1,0 +1,10 @@
+T1	Topic 0 13	Miss Lorraine
+T2	Aspect 42 47	dents
+T3	Subjectiveme_negative 18 23	moche
+T4	Subjectiveme_positive 29 33	aime
+T5	Negator 34 37	pas
+R1	Negates Arg1:T5 Arg2:T4	
+R2	Negates Arg1:T5 Arg2:T3	
+R3	isAspectOf Arg1:T2 Arg2:T1	
+R4	isNegativeOpinionOn Arg1:T4 Arg2:T2	
+R5	isNegativeOpinionOn Arg1:T3 Arg2:T1	

@@ -1,0 +1,7 @@
+T1	Topic 57 72	Miss Guadeloupe
+T2	Topic 44 55	miss Centre
+T4	Subjectiveme_positive 32 39	preferé
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+T3	Topic 74 88	Miss Roussilon
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T3	

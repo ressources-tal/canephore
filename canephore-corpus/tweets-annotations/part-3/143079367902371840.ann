@@ -1,0 +1,3 @@
+T1	Topic 5 19	Miss Languedoc
+T4	Subjectiveme_positive 0 4	Yeah
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	

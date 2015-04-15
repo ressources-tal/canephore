@@ -1,0 +1,7 @@
+T1	Topic 12 23	Miss Alsace
+T2	Subjectiveme_positive 59 65	classe
+T3	Aspect 35 50	poignet d'amour
+T4	Subjectiveme_positive 26 30	bien
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R3	isAspectOf Arg1:T3 Arg2:T1	

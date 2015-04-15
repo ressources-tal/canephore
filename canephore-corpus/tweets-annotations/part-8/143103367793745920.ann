@@ -1,0 +1,7 @@
+T1	Topic 17 29	Miss Réunion
+T2	Aspect 71 78	couleur
+T3	Subjectiveme_positive 65 70	belle
+T4	Aspect 82 86	robe
+R2	isAspectOf Arg1:T2 Arg2:T4	
+R4	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R1	isAspectOf Arg1:T4 Arg2:T1	

@@ -1,0 +1,5 @@
+T1	Topic 0 14	Sylvie Tellier
+T2	Aspect 15 23	poitrine
+T3	Subjectiveme_negative 24 31	refaite
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

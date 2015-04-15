@@ -1,0 +1,3 @@
+T1	Topic 0 18	Miss Midi Pyrénées
+T2	Subjectiveme_negative 28 34	sketch
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	

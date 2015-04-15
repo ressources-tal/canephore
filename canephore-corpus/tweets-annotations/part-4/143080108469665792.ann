@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 16 26	de chiotte
+T3	Aspect 10 15	goûts
+T4	Topic 35 39	jury
+R1	isAspectOf Arg1:T3 Arg2:T4	
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T3	

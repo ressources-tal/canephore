@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 31 45	C'est quoi ces
+T2	Topic 46 51	choix
+T3	Subjectiveme_negative 52 60	de MERDE
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T2	

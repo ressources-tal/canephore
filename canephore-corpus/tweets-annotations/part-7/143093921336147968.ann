@@ -1,0 +1,6 @@
+T1	Topic 20 34	Miss Languedoc
+T2	Topic 70 83	Pays de Loire
+T3	Subjectiveme_positive 53 58	jolie
+T4	Subjectiveme_positive 65 69	vive
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T2	

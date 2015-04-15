@@ -1,0 +1,3 @@
+T3	Topic 12 18	Guyane
+T1	Subjectiveme_positive 33 38	tuait
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T3	

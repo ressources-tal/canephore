@@ -1,0 +1,5 @@
+T1	Topic 3 7	jury
+T2	Aspect 48 53	têtes
+T3	Subjectiveme_positive 54 70	de gens investis
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 0 5	Allez
+T2	Topic 8 14	Alsace
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

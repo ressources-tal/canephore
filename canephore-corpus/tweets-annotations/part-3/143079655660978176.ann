@@ -1,0 +1,3 @@
+T1	Topic 0 13	Miss Provence
+T3	Subjectiveme_positive 14 29	yeeeeeeeeeeeeah
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	

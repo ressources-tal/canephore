@@ -1,0 +1,3 @@
+T1	Topic 35 42	sourire
+T3	Subjectiveme_negative 43 54	de vicelard
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	

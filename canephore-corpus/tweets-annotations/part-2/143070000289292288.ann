@@ -1,0 +1,7 @@
+T1	Topic 85 97	Miss Mayotte
+T2	Topic 101 111	Miss Gwada
+T3	Subjectiveme_positive 65 71	valide
+T4	Topic 72 83	Miss Guyana
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T4	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R3	isPositiveOpinionOn Arg1:T3 Arg2:T2	

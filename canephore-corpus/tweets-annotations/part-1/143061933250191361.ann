@@ -1,0 +1,9 @@
+T2	Subjectiveme_positive 38 42	aime
+T3	Aspect 51 54	nez
+T4	Negator 43 46	pas
+R1	Negates Arg1:T4 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T3	
+T1	Topic 0 18	Miss midi pyrénées
+T5	Subjectiveme_positive 20 26	Mouais
+R3	isPositiveOpinionOn Arg1:T5 Arg2:T1	
+R4	isAspectOf Arg1:T3 Arg2:T1	

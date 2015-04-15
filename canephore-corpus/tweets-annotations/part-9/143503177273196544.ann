@@ -1,0 +1,5 @@
+T3	Subjectiveme_positive 89 95	mérite
+T1	Topic 124 138	MissMartinique
+T2	Topic 0 16	Charlène Civault
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

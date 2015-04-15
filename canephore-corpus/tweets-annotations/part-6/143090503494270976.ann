@@ -1,0 +1,7 @@
+T1	Topic 33 46	Miss Bretagne
+T4	Negator 29 32	que
+T2	Subjectiveme_positive 18 28	mieux rasé
+T3	Topic 0 13	Pascal Obispo
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R2	Negates Arg1:T4 Arg2:T2	
+R3	isNegativeOpinionOn Arg1:T2 Arg2:T1	

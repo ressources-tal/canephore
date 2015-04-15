@@ -1,0 +1,5 @@
+T1	Topic 0 12	Miss Réunion
+T2	Subjectiveme_positive 20 28	préférée
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_positive 50 54	aime
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

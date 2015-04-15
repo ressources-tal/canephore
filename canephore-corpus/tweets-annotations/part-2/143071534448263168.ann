@@ -1,0 +1,5 @@
+T1	Topic 0 12	Miss Réunion
+T2	Subjectiveme_positive 51 57	belles
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 16 28	Midi-Pyrénée
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T3	

@@ -1,0 +1,8 @@
+T1	Topic 36 49	miss Bretagne
+T2	Aspect 11 15	yeux
+T3	Aspect 22 25	nez
+T4	Subjectiveme_positive 26 32	de fou
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T3	
+R3	isAspectOf Arg1:T3 Arg2:T1	
+R4	isAspectOf Arg1:T2 Arg2:T1	

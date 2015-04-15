@@ -1,0 +1,6 @@
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T3	
+T4	Subjectiveme_negative 94 100	manque
+T2	Subjectiveme_negative 133 138	forcé
+T3	Topic 104 111	naturel
+T1	Topic 125 132	sourire

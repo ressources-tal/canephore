@@ -1,0 +1,5 @@
+T1	Topic 68 80	miss Réunion
+T2	Subjectiveme_positive 28 40	se détachent
+T3	Topic 46 64	miss pays-de-loire
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

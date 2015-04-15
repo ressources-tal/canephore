@@ -1,0 +1,7 @@
+T1	Topic 0 13	Sofia Essaidi
+T2	Subjectiveme_positive 19 24	belle
+T3	Negator 25 28	que
+R1	Negates Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T4	Topic 36 51	les #missfrance
+R3	isNegativeOpinionOn Arg1:T2 Arg2:T4	

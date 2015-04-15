@@ -1,0 +1,3 @@
+T3	Subjectiveme_positive 134 139	jolie
+T1	Topic 77 106	MissREUNION alias @MariePayet
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	

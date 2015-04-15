@@ -1,0 +1,5 @@
+T1	Aspect 12 17	robes
+T2	Topic 22 32	finalistes
+T3	Subjectiveme_negative 39 43	vomi
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R2	isAspectOf Arg1:T1 Arg2:T2	

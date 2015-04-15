@@ -1,0 +1,5 @@
+T1	Topic 0 13	Miss lorraine
+T2	Subjectiveme_positive 30 37	pas mal
+T3	Aspect 14 28	fait de la pub
+R1	isAspectOf Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T3	

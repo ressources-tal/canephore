@@ -1,0 +1,5 @@
+R3	isPositiveOpinionOn Arg1:T2 Arg2:T4	
+T4	Topic 56 74	miss Pays de Loire
+T2	Subjectiveme_negative 19 38	charme d'une huître
+T1	Negator 39 55	à l'exception de
+R1	Negates Arg1:T1 Arg2:T2	

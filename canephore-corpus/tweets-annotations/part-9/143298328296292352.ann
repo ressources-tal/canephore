@@ -1,0 +1,3 @@
+T1	Topic 0 31	Ceux que critique la MissAlsace
+T2	Subjectiveme_negative 49 55	rageux
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	

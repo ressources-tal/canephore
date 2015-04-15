@@ -1,0 +1,6 @@
+T1	Topic 63 74	miss guyane
+T2	Subjectiveme_positive 49 59	magnifique
+T3	Subjectiveme_negative 97 105	horrible
+T4	Topic 14 27	miss lorraine
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T4	

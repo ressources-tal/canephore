@@ -1,0 +1,5 @@
+T2	Topic 3 10	musique
+T3	Subjectiveme_positive 67 73	valide
+T5	Subjectiveme_positive 15 20	bonne
+R1	isPositiveOpinionOn Arg1:T5 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

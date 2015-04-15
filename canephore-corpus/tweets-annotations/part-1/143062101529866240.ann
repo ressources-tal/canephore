@@ -1,0 +1,6 @@
+T1	Topic 6 20	miss normandie
+T2	Subjectiveme_negative 0 5	cheum
+T3	Subjectiveme_negative 26 31	honte
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T4	Topic 35 44	ma région
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T4	

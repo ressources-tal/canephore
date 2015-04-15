@@ -1,0 +1,4 @@
+T2	Topic 108 114	Alsace
+T1	Topic 96 106	alsacienne
+T3	Subjectiveme_negative 89 95	kitsch
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	

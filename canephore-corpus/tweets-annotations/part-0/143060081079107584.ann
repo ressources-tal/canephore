@@ -1,0 +1,3 @@
+T1	Topic 6 20	Miss Languedoc
+T3	Subjectiveme_positive 0 5	Allez
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	

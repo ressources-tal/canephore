@@ -1,0 +1,5 @@
+T1	Topic 13 19	Alsace
+T2	Subjectiveme_positive 34 40	jolies
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 0 9	Aquitaine
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T3	

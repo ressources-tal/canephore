@@ -1,0 +1,6 @@
+T1	Topic 28 40	miss réunion
+T2	Subjectiveme_positive 47 52	mieux
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 9 27	choix des français
+T4	Subjectiveme_negative 0 5	Déçut
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T3	

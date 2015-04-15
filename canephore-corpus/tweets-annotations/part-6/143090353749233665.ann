@@ -1,0 +1,5 @@
+T1	Topic 22 35	Pays de Loire
+T2	Topic 39 46	Réunion
+T3	Subjectiveme_positive 9 16	potable
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

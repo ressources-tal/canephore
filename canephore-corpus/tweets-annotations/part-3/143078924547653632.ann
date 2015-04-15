@@ -1,0 +1,6 @@
+T2	Subjectiveme_negative 34 42	pourries
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T1	Topic 11 19	les miss
+T3	Topic 47 59	miss univers
+T4	Subjectiveme_negative 64 80	racontent sa vie
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T3	

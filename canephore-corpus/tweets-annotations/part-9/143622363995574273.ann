@@ -1,0 +1,5 @@
+T1	Topic 17 31	LauryThilleman
+T2	Topic 1 13	MenardMalika
+T4	Subjectiveme_positive 48 55	préféré
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T2	

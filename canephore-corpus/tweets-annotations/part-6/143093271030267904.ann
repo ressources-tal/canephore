@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 30 39	fait peur
+T3	Subjectiveme_negative 101 118	VraimentFlippante
+T2	Topic 0 26	La nana avec la robe verte
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T2	

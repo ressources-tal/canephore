@@ -1,0 +1,5 @@
+T1	Topic 67 77	MissAlsace
+T2	Subjectiveme_positive 44 51	voulais
+T4	Subjectiveme_positive 14 21	content
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T1	

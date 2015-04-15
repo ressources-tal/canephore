@@ -1,0 +1,5 @@
+T2	Subjectiveme_positive 47 52	jolie
+T3	Topic 0 12	Miss mayotte
+T4	Aspect 16 38	habille traditionnelle
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T4	
+R2	isAspectOf Arg1:T4 Arg2:T3	

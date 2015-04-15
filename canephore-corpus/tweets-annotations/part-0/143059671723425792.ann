@@ -1,0 +1,3 @@
+T1	Topic 4 22	Champagne Ardennes
+T3	Subjectiveme_positive 26 31	plaît
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	

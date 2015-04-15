@@ -1,0 +1,7 @@
+T1	Topic 31 49	Miss Pays de Loire
+T2	Subjectiveme_positive 73 81	adorable
+T4	Subjectiveme_positive 59 71	intelligente
+T3	Subjectiveme_positive 90 103	joliiiiiiiiie
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R3	isPositiveOpinionOn Arg1:T3 Arg2:T1	

@@ -1,0 +1,3 @@
+T2	Subjectiveme_positive 57 61	beau
+T1	Topic 62 67	temps
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

@@ -1,0 +1,5 @@
+T3	Subjectiveme_negative 0 6	atroce
+T4	Topic 7 27	le choix du styliste
+T5	Subjectiveme_negative 49 59	rien ne va
+R1	isNegativeOpinionOn Arg1:T5 Arg2:T4	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T4	

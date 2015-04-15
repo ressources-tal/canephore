@@ -1,0 +1,5 @@
+T1	Topic 25 37	miss Reunion
+T2	Aspect 10 16	visage
+T3	Subjectiveme_negative 17 24	bizzard
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

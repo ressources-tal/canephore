@@ -1,0 +1,6 @@
+T1	Topic 30 42	miss réunion
+T2	Subjectiveme_positive 43 49	mérite
+T3	Subjectiveme_positive 64 69	bonne
+T4	Topic 53 61	riesling
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T4	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

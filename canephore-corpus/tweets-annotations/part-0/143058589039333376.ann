@@ -1,0 +1,5 @@
+T1	Topic 0 14	Sylvie Tellier
+T2	Subjectiveme_negative 35 44	fais peur
+T3	Subjectiveme_negative 21 27	froide
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	

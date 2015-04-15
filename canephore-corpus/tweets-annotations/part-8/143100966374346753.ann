@@ -1,0 +1,3 @@
+T1	Topic 0 12	miss réunion
+T2	Subjectiveme_negative 17 22	cheum
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	

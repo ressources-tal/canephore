@@ -1,0 +1,5 @@
+T2	Subjectiveme_positive 26 41	d'yeux que pour
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T1	Topic 43 53	MariePayet
+T3	Topic 68 79	MissReunion
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T3	

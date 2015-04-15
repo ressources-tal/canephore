@@ -1,0 +1,5 @@
+T1	Topic 0 9	Normandie
+T2	Subjectiveme_positive 29 35	belles
+T3	Topic 12 18	Centre
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

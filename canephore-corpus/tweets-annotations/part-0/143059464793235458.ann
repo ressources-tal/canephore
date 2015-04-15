@@ -1,0 +1,5 @@
+T1	Topic 0 13	Miss Lorraine
+T2	Aspect 20 27	cheveux
+T3	Subjectiveme_negative 28 40	synthétiques
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

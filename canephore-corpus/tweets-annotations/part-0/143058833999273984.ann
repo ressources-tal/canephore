@@ -1,0 +1,5 @@
+T1	Aspect 8 16	coiffure
+T2	Subjectiveme_positive 0 4	Vive
+T3	Topic 17 40	Miss Nord Pas De Calais
+R1	isAspectOf Arg1:T1 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

@@ -1,0 +1,5 @@
+T3	Subjectiveme_positive 21 26	sympa
+T1	Aspect 33 36	nom
+T2	Topic 45 66	soirée d'inauguration
+R1	isAspectOf Arg1:T1 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

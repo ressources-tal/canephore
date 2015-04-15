@@ -1,0 +1,9 @@
+T1	Topic 14 26	Miss Reunion
+T2	Subjectiveme_positive 31 36	jolie
+T3	Aspect 124 128	tête
+T5	Subjectiveme_positive 80 84	aime
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T4	Negator 85 88	pas
+R2	Negates Arg1:T4 Arg2:T5	
+R3	isNegativeOpinionOn Arg1:T5 Arg2:T1	
+R4	isNegativeOpinionOn Arg1:T5 Arg2:T3	

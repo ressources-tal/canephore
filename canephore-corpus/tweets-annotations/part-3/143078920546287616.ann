@@ -1,0 +1,5 @@
+T1	Aspect 0 48	Mettre Miss France en même temps que le Téléthon
+T3	Topic 77 80	TF1
+T2	Subjectiveme_negative 55 62	minable
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+R2	isAspectOf Arg1:T1 Arg2:T3	

@@ -1,0 +1,5 @@
+T1	Topic 10 23	Miss Picardie
+T2	Subjectiveme_positive 24 32	en force
+T3	Subjectiveme_positive 67 73	classe
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

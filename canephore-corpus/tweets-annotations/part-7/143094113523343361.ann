@@ -1,0 +1,6 @@
+T2	Topic 64 70	niveau
+T3	Subjectiveme_positive 46 51	belle
+T1	Topic 15 36	Miss France 2010-2011
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T4	Subjectiveme_negative 79 86	baisser
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T2	

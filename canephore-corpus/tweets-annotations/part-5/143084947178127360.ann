@@ -1,0 +1,9 @@
+T1	Topic 26 37	miss Alsace
+T3	Aspect 3 10	couleur
+T4	Subjectiveme_positive 40 44	aime
+T5	Negator 45 48	pas
+R1	Negates Arg1:T5 Arg2:T4	
+T2	Aspect 15 22	cheveux
+R2	isAspectOf Arg1:T3 Arg2:T2	
+R3	isAspectOf Arg1:T2 Arg2:T1	
+R4	isNegativeOpinionOn Arg1:T4 Arg2:T3	

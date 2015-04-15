@@ -1,0 +1,8 @@
+T1	Subjectiveme_positive 7 16	suis pour
+T3	Topic 45 52	Reunion
+T4	Topic 37 43	Alsace
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T4	
+T7	Topic 17 33	Pays De La Loire
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T7	
+T5	Subjectiveme_positive 59 67	ca passe
+R3	isPositiveOpinionOn Arg1:T5 Arg2:T3	

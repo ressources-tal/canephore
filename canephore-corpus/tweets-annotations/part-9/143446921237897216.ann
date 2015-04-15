@@ -1,0 +1,3 @@
+T1	Topic 62 85	élection de #missfrance
+T2	Subjectiveme_negative 54 59	bouse
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	

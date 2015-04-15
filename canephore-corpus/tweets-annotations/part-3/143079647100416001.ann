@@ -1,0 +1,7 @@
+T1	Topic 39 54	Laury Thilleman
+T2	Topic 0 13	Miss Bretagne
+T3	Subjectiveme_negative 74 80	blague
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+T4	Negator 29 38	à côté de
+R2	Negates Arg1:T4 Arg2:T3	
+R3	isPositiveOpinionOn Arg1:T3 Arg2:T1	

@@ -1,0 +1,5 @@
+T1	Topic 69 81	Miss Réunion
+T2	Aspect 20 42	costumes traditionnels
+T3	Subjectiveme_positive 53 61	contente
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

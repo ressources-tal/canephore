@@ -1,0 +1,7 @@
+T1	Topic 22 35	miss Bretagne
+T2	Subjectiveme_negative 54 59	moche
+T3	Subjectiveme_positive 2 7	adore
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T4	Aspect 12 16	cris
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T4	
+R3	isAspectOf Arg1:T4 Arg2:T1	

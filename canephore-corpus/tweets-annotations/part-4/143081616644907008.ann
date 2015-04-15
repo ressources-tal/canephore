@@ -1,0 +1,8 @@
+T1	Negator 18 21	pas
+T2	Subjectiveme_positive 30 35	belle
+T3	Topic 4 9	Laury
+R1	Negates Arg1:T1 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T3	
+T4	Negator 55 70	mais quand même
+R3	Negates Arg1:T4 Arg2:T2	
+R4	isPositiveOpinionOn Arg1:T2 Arg2:T3	

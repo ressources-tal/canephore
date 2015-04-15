@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 32 40	mignonne
+T2	Topic 15 21	Tahiti
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

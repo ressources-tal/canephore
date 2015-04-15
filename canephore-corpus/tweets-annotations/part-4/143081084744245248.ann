@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 28 33	jolie
+T2	Topic 8 21	Miss Picardie
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

@@ -1,0 +1,5 @@
+T1	Topic 76 89	Sofia_Essaidi
+T2	Subjectiveme_positive 95 97	<3
+T3	Topic 99 111	SofiaEssaidi
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T3	

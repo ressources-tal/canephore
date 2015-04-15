@@ -1,0 +1,5 @@
+T1	Aspect 24 32	coiffure
+T2	Subjectiveme_negative 33 41	de merde
+T3	Topic 0 5	Lorie
+R1	isAspectOf Arg1:T1 Arg2:T3	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	

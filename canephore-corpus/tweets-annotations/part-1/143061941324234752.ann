@@ -1,0 +1,5 @@
+T1	Topic 0 18	Miss Midi-Pyrénées
+T2	Subjectiveme_positive 23 28	jolie
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 66 69	non
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

@@ -1,0 +1,5 @@
+T1	Topic 24 34	finalistes
+T2	Subjectiveme_positive 47 53	jolies
+T3	Negator 43 46	pas
+R1	Negates Arg1:T3 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	

@@ -1,0 +1,5 @@
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+T2	Topic 21 36	poitou charente
+T3	Subjectiveme_positive 2 6	love
+T1	Topic 7 19	miss Reunion

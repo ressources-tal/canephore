@@ -1,0 +1,7 @@
+T1	Topic 24 30	les 12
+T2	Subjectiveme_positive 52 57	belle
+T3	Topic 63 77	missFrance2011
+T4	Negator 37 43	aucune
+R1	Negates Arg1:T4 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R3	isNegativeOpinionOn Arg1:T2 Arg2:T1	

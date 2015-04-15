@@ -1,0 +1,11 @@
+T1	Aspect 14 21	sourire
+T2	Subjectiveme_negative 63 68	forcé
+T3	Subjectiveme_negative 55 59	faux
+T4	Subjectiveme_positive 2 6	aime
+T5	Negator 7 10	pas
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+R3	Negates Arg1:T5 Arg2:T4	
+R4	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R5	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+T6	Topic 26 37	miss france
+R6	isAspectOf Arg1:T1 Arg2:T6	

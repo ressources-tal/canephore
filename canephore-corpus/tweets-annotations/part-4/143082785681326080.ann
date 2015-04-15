@@ -1,0 +1,3 @@
+T2	Subjectiveme_positive 65 76	beau moment
+T3	Topic 3 50	reportage sur l'année écoulée de Laury Tilleman
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	

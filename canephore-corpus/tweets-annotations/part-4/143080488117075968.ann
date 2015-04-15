@@ -1,0 +1,9 @@
+T1	Topic 29 47	Miss Pays de Loire
+T2	Topic 66 82	Miss Côte d'Azur
+T3	Topic 13 27	Miss Languedoc
+T4	Topic 49 62	Miss Provence
+T5	Subjectiveme_positive 3 12	suis pour
+R1	isPositiveOpinionOn Arg1:T5 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T5 Arg2:T1	
+R3	isPositiveOpinionOn Arg1:T5 Arg2:T4	
+R4	isPositiveOpinionOn Arg1:T5 Arg2:T2	

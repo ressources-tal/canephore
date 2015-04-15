@@ -1,0 +1,5 @@
+T1	Subjectiveme_positive 2 7	adore
+T2	Aspect 11 15	robe
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+T3	Topic 20 35	MissFrance 2011
+R2	isAspectOf Arg1:T2 Arg2:T3	

@@ -1,0 +1,3 @@
+T1	Subjectiveme_negative 8 16	de merde
+T2	Topic 3 7	robe
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	

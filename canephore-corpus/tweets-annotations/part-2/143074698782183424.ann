@@ -1,0 +1,5 @@
+T1	Topic 28 39	Miss Alsace
+T2	Aspect 20 27	sourire
+T3	Subjectiveme_positive 15 19	beau
+R1	isAspectOf Arg1:T2 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

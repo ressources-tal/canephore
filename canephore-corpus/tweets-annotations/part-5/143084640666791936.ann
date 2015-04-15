@@ -1,0 +1,5 @@
+T1	Topic 42 57	miss Martinique
+T2	Topic 25 38	miss Bretagne
+T3	Subjectiveme_negative 65 70	honte
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

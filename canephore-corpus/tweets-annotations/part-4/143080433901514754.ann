@@ -1,0 +1,9 @@
+T1	Topic 44 54	Roussillon
+T2	Topic 56 64	Provence
+T4	Topic 66 77	Cote d'Azur
+T5	Topic 0 28	Les Miss du Sud de la France
+T6	Subjectiveme_positive 41 43	<3
+R1	isPositiveOpinionOn Arg1:T6 Arg2:T5	
+R2	isPositiveOpinionOn Arg1:T6 Arg2:T1	
+R3	isPositiveOpinionOn Arg1:T6 Arg2:T2	
+R4	isPositiveOpinionOn Arg1:T6 Arg2:T4	

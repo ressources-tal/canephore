@@ -1,0 +1,5 @@
+T1	Topic 45 59	LauryThilleman
+T3	Subjectiveme_positive 69 78	meilleure
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T2	Subjectiveme_positive 10 43	pas une qui était à la hauteur de
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

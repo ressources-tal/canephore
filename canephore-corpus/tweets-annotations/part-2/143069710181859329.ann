@@ -1,0 +1,7 @@
+T1	Aspect 102 110	coiffure
+T2	Topic 20 25	Lorie
+T3	Subjectiveme_negative 32 58	tiens droite kom un piquet
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+T4	Subjectiveme_negative 112 118	irreel
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T1	
+R3	isAspectOf Arg1:T1 Arg2:T2	

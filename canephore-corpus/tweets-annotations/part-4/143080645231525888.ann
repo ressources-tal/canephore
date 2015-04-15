@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 31 37	blague
+T2	Topic 44 57	miss Bretagne
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+T3	Subjectiveme_negative 68 80	miss cotorep
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	

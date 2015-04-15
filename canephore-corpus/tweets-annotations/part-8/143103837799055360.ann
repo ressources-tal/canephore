@@ -1,0 +1,5 @@
+T1	Topic 15 26	miss Alsace
+T2	Subjectiveme_positive 31 39	préférée
+T3	Subjectiveme_positive 0 14	Yeaaaaaaaaaaah
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

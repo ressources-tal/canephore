@@ -1,0 +1,7 @@
+T1	Topic 33 44	Miss Centre
+T2	Subjectiveme_negative 16 20	gros
+T3	Aspect 21 24	cul
+R1	isAspectOf Arg1:T3 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T3	
+T4	Subjectiveme_negative 46 55	Déception
+R3	isNegativeOpinionOn Arg1:T4 Arg2:T1	

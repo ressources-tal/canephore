@@ -1,0 +1,13 @@
+T1	Topic 29 42	Malika Menard
+T5	Topic 14 27	Valerie Begue
+T6	Topic 44 58	Rachel Legrain
+T2	Topic 62 76	Laury Tilleman
+T4	Topic 101 111	Alsacienne
+T3	Subjectiveme_negative 82 98	baisse le niveau
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T4	
+T7	Negator 0 13	Par rapport a
+R2	Negates Arg1:T7 Arg2:T3	
+R3	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R4	isPositiveOpinionOn Arg1:T3 Arg2:T6	
+R5	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R6	isPositiveOpinionOn Arg1:T3 Arg2:T5	

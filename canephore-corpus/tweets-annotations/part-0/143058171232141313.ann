@@ -1,0 +1,3 @@
+T2	Topic 49 53	jury
+T1	Subjectiveme_positive 26 35	bombasses
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

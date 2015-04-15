@@ -1,0 +1,5 @@
+T2	Topic 17 28	miss guyane
+T1	Topic 0 13	Miss Bretagne
+T3	Subjectiveme_positive 29 44	ont mes faveurs
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

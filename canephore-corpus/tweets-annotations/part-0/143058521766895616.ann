@@ -1,0 +1,7 @@
+T1	Topic 12 25	Sofia Essaidi
+T2	Topic 51 59	les miss
+T3	Subjectiveme_positive 41 46	belle
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T4	Negator 47 50	que
+R2	Negates Arg1:T4 Arg2:T3	
+R3	isNegativeOpinionOn Arg1:T3 Arg2:T2	

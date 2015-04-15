@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 15 22	Pas mal
+T2	Topic 0 14	Midi-Pyrénées.
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

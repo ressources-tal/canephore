@@ -1,0 +1,5 @@
+T1	Topic 32 52	nouvelle Miss France
+T2	Aspect 57 63	rousse
+R1	isAspectOf Arg1:T2 Arg2:T1	
+T3	Subjectiveme_positive 20 27	bonheur
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

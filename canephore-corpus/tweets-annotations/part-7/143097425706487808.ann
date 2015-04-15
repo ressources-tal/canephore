@@ -1,0 +1,5 @@
+T2	Negator 5 8	pas
+T4	Subjectiveme_positive 9 17	généreux
+T5	Topic 22 30	sponsors
+R1	Negates Arg1:T2 Arg2:T4	
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T5	

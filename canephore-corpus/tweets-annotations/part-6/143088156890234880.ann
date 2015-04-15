@@ -1,0 +1,5 @@
+T1	Topic 0 11	miss alsace
+T3	Topic 15 31	miss côte d'azur
+T2	Subjectiveme_positive 41 51	meilleures
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

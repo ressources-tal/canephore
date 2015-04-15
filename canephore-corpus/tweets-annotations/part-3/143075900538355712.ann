@@ -1,0 +1,7 @@
+T1	Topic 0 11	Linda Hardy
+T3	Subjectiveme_positive 21 26	belle
+T4	Negator 27 30	que
+R1	Negates Arg1:T4 Arg2:T3	
+T2	Topic 31 66	certaines candidates de #missfrance
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R3	isNegativeOpinionOn Arg1:T3 Arg2:T2	

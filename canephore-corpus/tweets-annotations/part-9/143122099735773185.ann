@@ -1,0 +1,3 @@
+T2	Topic 0 11	Miss Alsace
+T4	Subjectiveme_positive 127 132	belle
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T2	

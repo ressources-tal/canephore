@@ -1,0 +1,9 @@
+T1	Negator 28 31	pas
+T2	Subjectiveme_positive 37 42	belle
+T4	Topic 48 62	LauryThilleman
+T3	Topic 0 19	La #MissFrance 2012
+R1	Negates Arg1:T1 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T3	
+T5	Negator 43 46	que
+R3	Negates Arg1:T5 Arg2:T2	
+R4	isPositiveOpinionOn Arg1:T2 Arg2:T4	

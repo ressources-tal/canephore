@@ -1,0 +1,9 @@
+T1	Topic 0 11	Miss Alsace
+T2	Subjectiveme_positive 48 57	préférées
+T3	Topic 13 22	Languedoc
+T4	Topic 24 33	Rousillon
+T5	Topic 37 43	Guyane
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T5	
+R3	isPositiveOpinionOn Arg1:T2 Arg2:T4	
+R4	isPositiveOpinionOn Arg1:T2 Arg2:T3	

@@ -1,0 +1,5 @@
+T1	Topic 17 33	Miss Cote d'Azur
+T2	Topic 0 13	Miss Provence
+T3	Subjectiveme_positive 40 58	OUAAAAAAAAAAAAAAIS
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

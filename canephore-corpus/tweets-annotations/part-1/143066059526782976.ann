@@ -1,0 +1,5 @@
+T1	Topic 0 18	Miss Pays de Loire
+T2	Subjectiveme_negative 62 67	cheum
+T3	Aspect 53 61	sourcils
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T1	

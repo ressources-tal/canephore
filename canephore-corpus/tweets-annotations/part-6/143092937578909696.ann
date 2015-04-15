@@ -1,0 +1,5 @@
+T1	Topic 29 42	Pays de Loire
+T2	Topic 17 25	Provence
+T4	Subjectiveme_positive 3 7	veux
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T1	

@@ -1,0 +1,3 @@
+T1	Topic 56 70	Miss Languedoc
+T2	Subjectiveme_positive 92 104	vend du rêve
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

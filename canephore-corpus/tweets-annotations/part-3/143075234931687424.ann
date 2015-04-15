@@ -1,0 +1,5 @@
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	
+T2	Aspect 7 13	fesses
+T3	Subjectiveme_positive 33 41	tropfort
+T1	Topic 20 31	Miss Centre

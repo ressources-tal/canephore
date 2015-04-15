@@ -1,0 +1,7 @@
+T1	Topic 57 73	Miss France 2011
+T3	Negator 41 46	moins
+T4	Subjectiveme_positive 47 52	jolie
+T6	Topic 20 35	missfrance 2012
+R2	Negates Arg1:T3 Arg2:T4	
+R1	isNegativeOpinionOn Arg1:T4 Arg2:T6	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T1	

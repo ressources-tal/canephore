@@ -1,0 +1,7 @@
+T1	Topic 41 54	Miss Bretagne
+T2	Aspect 33 37	tête
+R1	isAspectOf Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 64 69	Drame
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+T4	Subjectiveme_negative 0 14	Eclats de rire
+R3	isNegativeOpinionOn Arg1:T4 Arg2:T2	

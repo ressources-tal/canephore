@@ -1,0 +1,7 @@
+T1	Topic 1 11	MissFrance
+T2	Subjectiveme_negative 12 23	on s'en fou
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 43 54	Alain Delon
+T4	Negator 34 38	mais
+R2	Negates Arg1:T4 Arg2:T2	
+R3	isPositiveOpinionOn Arg1:T2 Arg2:T3	

@@ -1,0 +1,7 @@
+T1	Topic 1 14	Sofia_Essaidi
+T3	Subjectiveme_positive 19 26	Sublime
+T4	Subjectiveme_positive 29 39	Ravissante
+T2	Subjectiveme_positive 41 55	Touteenbeautée
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R3	isPositiveOpinionOn Arg1:T2 Arg2:T1	

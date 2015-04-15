@@ -1,0 +1,3 @@
+T1	Topic 103 122	nouvelle MissFrance
+T2	Subjectiveme_negative 129 140	j'm'en tape
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	

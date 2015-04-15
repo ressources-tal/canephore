@@ -1,0 +1,7 @@
+T1	Subjectiveme_positive 5 9	aime
+T2	Topic 10 15	Lorie
+T3	Topic 29 34	Laury
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T3	
+T4	Negator 24 27	non
+R2	Negates Arg1:T4 Arg2:T1	
+R3	isNegativeOpinionOn Arg1:T1 Arg2:T2	

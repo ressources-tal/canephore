@@ -1,0 +1,6 @@
+T2	Subjectiveme_negative 63 72	horribles
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T1	Topic 77 87	finalistes
+T3	Topic 39 50	cette année
+T4	Subjectiveme_negative 29 38	Ça craint
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T3	

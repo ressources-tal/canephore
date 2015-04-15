@@ -1,0 +1,8 @@
+T1	Subjectiveme_positive 24 29	jolie
+T2	Topic 37 43	Tahiti
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+T3	Topic 0 7	Mayotte
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T3	
+T4	Topic 59 72	miss bretagne
+T5	Subjectiveme_negative 90 97	erreure
+R3	isNegativeOpinionOn Arg1:T5 Arg2:T4	

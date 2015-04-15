@@ -1,0 +1,7 @@
+T1	Topic 28 39	Miss guyane
+T2	Topic 0 12	Miss reunion
+T3	Topic 15 26	Miss alsace
+T4	Subjectiveme_positive 42 47	Jaime
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T3	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T2	

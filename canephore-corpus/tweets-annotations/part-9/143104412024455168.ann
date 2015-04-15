@@ -1,0 +1,5 @@
+T1	Subjectiveme_positive 3 10	préfère
+T2	Aspect 40 56	cheveux attachés
+T3	Topic 17 33	Miss France 2012
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T3	

@@ -1,0 +1,5 @@
+T1	Topic 0 14	Miss Champagne
+T2	Subjectiveme_positive 20 25	beaux
+T3	Aspect 26 30	yeux
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T1	

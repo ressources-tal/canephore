@@ -1,0 +1,5 @@
+T1	Topic 24 28	robe
+T3	Subjectiveme_negative 7 20	mauvais choix
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+T2	Subjectiveme_negative 31 45	ça les grossit
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	

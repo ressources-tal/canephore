@@ -1,0 +1,5 @@
+T1	Topic 0 11	Miss france
+T2	Aspect 28 46	aventure de la vie
+T3	Subjectiveme_positive 22 27	belle
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

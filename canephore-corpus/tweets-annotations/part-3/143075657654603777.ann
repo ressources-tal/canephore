@@ -1,0 +1,9 @@
+T1	Topic 54 66	miss Réunion
+T2	Topic 70 81	Miss Alsace
+T3	Subjectiveme_positive 12 16	aime
+T4	Topic 17 39	miss Champagne-Ardenne
+T5	Topic 41 52	miss Centre
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T4	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T5	
+R3	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R4	isPositiveOpinionOn Arg1:T3 Arg2:T2	

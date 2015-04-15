@@ -1,0 +1,8 @@
+T1	Topic 1 12	LauraTreves
+T2	Subjectiveme_positive 15 19	LOVE
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 54 69	Laury Thilleman
+T4	Subjectiveme_positive 49 53	love
+T5	Subjectiveme_positive 87 93	pretty
+R2	isPositiveOpinionOn Arg1:T5 Arg2:T3	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T3	

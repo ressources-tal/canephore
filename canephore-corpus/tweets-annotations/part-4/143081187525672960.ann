@@ -1,0 +1,5 @@
+T1	Subjectiveme_positive 15 23	préférée
+T2	Topic 33 39	rousse
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+T3	Topic 47 58	Miss Alsace
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T3	

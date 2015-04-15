@@ -1,0 +1,5 @@
+T2	Topic 36 51	miss Martinique
+T1	Aspect 12 20	discours
+T3	Subjectiveme_negative 28 32	gras
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R2	isAspectOf Arg1:T1 Arg2:T2	

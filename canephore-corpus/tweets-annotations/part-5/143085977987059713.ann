@@ -1,0 +1,3 @@
+T3	Subjectiveme_positive 61 70	suis pour
+T1	Topic 24 38	miss Bourgogne
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	

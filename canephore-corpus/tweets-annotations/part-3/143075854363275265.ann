@@ -1,0 +1,5 @@
+T1	Topic 6 17	miss Alsace
+T4	Subjectiveme_positive 0 5	Go go
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+T2	Subjectiveme_positive 43 65	elleestbellecetteannée
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

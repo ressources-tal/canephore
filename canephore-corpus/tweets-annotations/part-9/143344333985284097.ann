@@ -1,0 +1,7 @@
+T2	Subjectiveme_negative 91 98	fadasse
+T1	Topic 79 89	MissAlsace
+T3	Topic 37 57	nouvelle #MissFrance
+T4	Aspect 26 30	tête
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T4	
+R1	isAspectOf Arg1:T4 Arg2:T1	
+R3	isNegativeOpinionOn Arg1:T2 Arg2:T1	

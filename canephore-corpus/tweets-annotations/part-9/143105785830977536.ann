@@ -1,0 +1,5 @@
+T1	Subjectiveme_positive 43 50	sublime
+T2	Subjectiveme_positive 8 13	belle
+T3	Topic 20 33	Valerie Bègue
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T3	

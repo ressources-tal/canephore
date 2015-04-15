@@ -1,0 +1,3 @@
+T1	Topic 5 25	Jean-Pierre Foucault
+T2	Subjectiveme_positive 0 4	Viva
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

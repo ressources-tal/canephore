@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 21 31	magnifique
+T2	Topic 5 20	Miss Guadeloupe
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

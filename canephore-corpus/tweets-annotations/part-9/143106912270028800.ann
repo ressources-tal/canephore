@@ -1,0 +1,5 @@
+T1	Subjectiveme_positive 42 52	magnifique
+T2	Aspect 53 61	parcours
+T3	Topic 1 11	MariePayet
+R1	isAspectOf Arg1:T2 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T2	

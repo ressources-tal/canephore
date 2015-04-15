@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 17 23	fausse
+T2	Aspect 24 28	robe
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+T3	Topic 40 58	Miss Franche Comté
+R2	isAspectOf Arg1:T2 Arg2:T3	

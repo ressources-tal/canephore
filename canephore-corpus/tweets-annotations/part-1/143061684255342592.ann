@@ -1,0 +1,9 @@
+T1	Subjectiveme_negative 22 28	moches
+T3	Negator 30 34	sauf
+R1	Negates Arg1:T3 Arg2:T1	
+T2	Topic 35 49	Miss Languedoc
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+T4	Topic 15 21	toutes
+R3	isNegativeOpinionOn Arg1:T1 Arg2:T4	
+T5	Subjectiveme_positive 67 79	bien foutues
+R4	isPositiveOpinionOn Arg1:T5 Arg2:T4	

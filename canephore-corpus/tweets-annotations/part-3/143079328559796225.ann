@@ -1,0 +1,5 @@
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+T2	Subjectiveme_positive 25 33	mignonne
+T3	Topic 46 58	miss reunion
+T1	Topic 6 20	miss languedoc

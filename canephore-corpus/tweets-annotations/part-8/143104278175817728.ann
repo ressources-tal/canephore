@@ -1,0 +1,9 @@
+T5	Subjectiveme_negative 83 88	laide
+T1	Topic 61 72	Miss France
+R1	isNegativeOpinionOn Arg1:T5 Arg2:T1	
+T2	Aspect 104 109	dents
+T3	Subjectiveme_negative 110 116	jaunes
+T4	Subjectiveme_negative 127 133	blague
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T1	
+R3	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R4	isAspectOf Arg1:T2 Arg2:T1	

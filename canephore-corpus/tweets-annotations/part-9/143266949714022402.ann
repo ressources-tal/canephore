@@ -1,0 +1,7 @@
+T3	Subjectiveme_positive 73 77	beau
+T5	Subjectiveme_positive 103 105	<3
+T1	Topic 99 102	TF1
+T2	Aspect 78 83	geste
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	
+R3	isPositiveOpinionOn Arg1:T5 Arg2:T1	

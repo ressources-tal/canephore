@@ -1,0 +1,6 @@
+T1	Subjectiveme_negative 25 30	honte
+T2	Subjectiveme_negative 18 23	moche
+T3	Topic 0 13	Miss lorraine
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T3	
+T4	Topic 33 41	ma ville
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T4	

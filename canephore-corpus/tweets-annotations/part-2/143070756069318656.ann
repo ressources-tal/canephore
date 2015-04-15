@@ -1,0 +1,5 @@
+T1	Topic 16 30	miss Languedoc
+T3	Topic 34 42	Picardie
+T4	Subjectiveme_positive 2 6	aime
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T3	

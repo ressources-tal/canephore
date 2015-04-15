@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 29 38	suis pour
+T2	Topic 39 50	Miss Guyane
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

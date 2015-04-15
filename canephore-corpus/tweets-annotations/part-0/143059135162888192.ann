@@ -1,0 +1,5 @@
+T1	Topic 0 15	Miss Guadeloupe
+T2	Subjectiveme_positive 20 27	mignone
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 34 43	y'a mieux
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	

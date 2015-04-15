@@ -1,0 +1,5 @@
+T1	Topic 44 60	Pays de la Loire
+T3	Topic 64 75	Côte d'Azur
+T2	Subjectiveme_positive 14 20	belles
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T3	

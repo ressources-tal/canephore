@@ -1,0 +1,6 @@
+T1	Topic 16 29	Miss Bretagne
+T2	Subjectiveme_positive 77 83	jolies
+T3	Subjectiveme_negative 0 12	On s'en tape
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+T4	Topic 84 93	bretonnes
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T4	

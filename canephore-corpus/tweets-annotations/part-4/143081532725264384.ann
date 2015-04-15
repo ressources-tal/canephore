@@ -1,0 +1,8 @@
+T2	Subjectiveme_positive 15 20	belle
+T3	Subjectiveme_positive 98 103	super
+T4	Topic 0 5	Laury
+T5	Negator 94 97	pas
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T4	
+R1	Negates Arg1:T5 Arg2:T3	
+T1	Topic 32 50	les nouvelles miss
+R3	isNegativeOpinionOn Arg1:T3 Arg2:T1	

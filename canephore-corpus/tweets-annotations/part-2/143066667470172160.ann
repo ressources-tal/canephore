@@ -1,0 +1,5 @@
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T1	Topic 13 26	présentations
+T2	Subjectiveme_positive 32 42	naturelles
+T3	Negator 44 49	OuPas
+R2	Negates Arg1:T3 Arg2:T2	

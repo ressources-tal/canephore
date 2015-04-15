@@ -1,0 +1,3 @@
+T2	Subjectiveme_positive 63 65	Go
+T1	Topic 67 78	MissRéunion
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

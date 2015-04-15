@@ -1,0 +1,5 @@
+T1	Topic 28 41	Miss Provence
+T2	Subjectiveme_negative 18 24	blague
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 77 85	laiiiide
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

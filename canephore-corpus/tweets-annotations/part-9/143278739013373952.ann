@@ -1,0 +1,3 @@
+T3	Subjectiveme_positive 61 68	pas mal
+T1	Topic 36 54	Miss Ile-de-France
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	

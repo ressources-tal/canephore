@@ -1,0 +1,3 @@
+T1	Topic 15 29	LauryThilleman
+T3	Subjectiveme_positive 58 63	belle
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	

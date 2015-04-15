@@ -1,0 +1,7 @@
+T1	Aspect 20 27	sourire
+T2	Subjectiveme_negative 28 33	forcé
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 0 14	Miss bourgogne
+R2	isAspectOf Arg1:T1 Arg2:T3	
+T4	Subjectiveme_negative 34 44	sa menerve
+R3	isNegativeOpinionOn Arg1:T4 Arg2:T3	

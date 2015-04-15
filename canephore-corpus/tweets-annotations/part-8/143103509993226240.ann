@@ -1,0 +1,5 @@
+T1	Topic 15 29	Sylvie Tellier
+T2	Aspect 4 11	cheveux
+T5	Subjectiveme_negative 74 79	moche
+R3	isAspectOf Arg1:T2 Arg2:T1	
+R1	isNegativeOpinionOn Arg1:T5 Arg2:T2	

@@ -1,0 +1,7 @@
+T1	Topic 21 33	miss reunion
+T2	Aspect 3 10	sourire
+T3	Subjectiveme_negative 11 17	forcer
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+T4	Subjectiveme_negative 34 41	bof bof
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T1	
+R3	isAspectOf Arg1:T2 Arg2:T1	

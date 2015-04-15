@@ -1,0 +1,7 @@
+T1	Topic 15 29	Miss Languedoc
+T2	Subjectiveme_positive 9 14	belle
+T5	Negator 43 46	pas
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 47 60	superficielle
+R2	Negates Arg1:T5 Arg2:T3	
+R3	isPositiveOpinionOn Arg1:T3 Arg2:T1	

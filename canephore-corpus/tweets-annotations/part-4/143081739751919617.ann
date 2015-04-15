@@ -1,0 +1,6 @@
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T3	
+T4	Subjectiveme_positive 106 111	mieux
+T2	Subjectiveme_positive 20 27	sublime
+T3	Topic 77 90	Malika Ménard
+T1	Topic 0 15	Laury Thilleman

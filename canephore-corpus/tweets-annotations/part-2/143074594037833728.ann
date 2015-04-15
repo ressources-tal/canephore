@@ -1,0 +1,3 @@
+T2	Subjectiveme_negative 35 44	pitoyable
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T1	Topic 3 5	DJ

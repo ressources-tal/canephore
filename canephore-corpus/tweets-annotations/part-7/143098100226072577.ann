@@ -1,0 +1,5 @@
+T1	Topic 58 63	robes
+T2	Negator 80 83	pas
+T3	Subjectiveme_positive 90 93	top
+R1	Negates Arg1:T2 Arg2:T3	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

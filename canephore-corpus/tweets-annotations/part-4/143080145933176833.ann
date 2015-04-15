@@ -1,0 +1,5 @@
+T1	Topic 29 43	miss Languedoc
+T2	Topic 13 25	Miss Réunion
+T3	Subjectiveme_positive 3 12	suis pour
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

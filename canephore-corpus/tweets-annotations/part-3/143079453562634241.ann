@@ -1,0 +1,5 @@
+T1	Topic 19 28	Languedoc
+T2	Subjectiveme_positive 0 3	Yes
+T3	Topic 32 41	Rousillon
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T3	

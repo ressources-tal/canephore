@@ -1,0 +1,6 @@
+T1	Topic 61 71	MissAlsace
+T2	Subjectiveme_positive 31 41	a fond sur
+T3	Topic 42 45	TF1
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+T4	Subjectiveme_positive 49 59	a fond sur
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T1	

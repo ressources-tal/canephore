@@ -1,0 +1,5 @@
+T1	Topic 35 45	Roussillon
+T2	Topic 23 31	Picardie
+T3	Subjectiveme_positive 17 22	Aller
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

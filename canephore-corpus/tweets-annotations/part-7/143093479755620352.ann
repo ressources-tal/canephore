@@ -1,0 +1,8 @@
+T1	Topic 38 54	Miss Côte d'Azur
+T3	Subjectiveme_positive 0 4	Yeah
+T2	Topic 56 69	miss Provence
+T5	Topic 10 22	miss de PACA
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T5	
+T4	Subjectiveme_positive 90 99	avec vous
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T1	

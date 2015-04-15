@@ -1,0 +1,8 @@
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T4	Topic 63 71	les Miss
+T2	Subjectiveme_positive 51 55	bien
+T3	Topic 22 30	chansons
+T1	Topic 9 16	musique
+T5	Subjectiveme_negative 73 90	c'est pas trop ça
+R3	isNegativeOpinionOn Arg1:T5 Arg2:T4	

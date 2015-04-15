@@ -1,0 +1,7 @@
+T1	Topic 22 39	les 12 candidates
+T3	Subjectiveme_negative 60 64	Eurk
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+T4	Negator 66 72	À pars
+R2	Negates Arg1:T4 Arg2:T3	
+T2	Topic 73 82	la rousse
+R3	isPositiveOpinionOn Arg1:T3 Arg2:T2	

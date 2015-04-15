@@ -1,0 +1,5 @@
+T1	Topic 0 13	Miss Lorraine
+T2	Subjectiveme_negative 26 34	pourries
+T3	Aspect 20 25	dents
+R1	isAspectOf Arg1:T3 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T3	

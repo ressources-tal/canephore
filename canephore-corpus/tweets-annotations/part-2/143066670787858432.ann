@@ -1,0 +1,5 @@
+T1	Topic 65 79	Miss Languedoc
+T2	Topic 83 89	Centre
+T3	Subjectiveme_positive 37 42	belle
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

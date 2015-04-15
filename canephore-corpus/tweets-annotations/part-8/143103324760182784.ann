@@ -1,0 +1,3 @@
+T1	Subjectiveme_negative 16 23	pourris
+T2	Topic 5 15	jeu de mot
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	

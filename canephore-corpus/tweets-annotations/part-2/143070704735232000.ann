@@ -1,0 +1,5 @@
+T1	Aspect 18 38	costume traditionnel
+T2	Topic 40 51	miss Tahiti
+T3	Subjectiveme_positive 52 69	marque des points
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isAspectOf Arg1:T1 Arg2:T2	

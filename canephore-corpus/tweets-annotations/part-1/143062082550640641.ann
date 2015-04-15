@@ -1,0 +1,7 @@
+T1	Topic 7 21	Miss Normandie
+T2	Subjectiveme_negative 22 40	on dirait ma tante
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Aspect 59 64	voter
+T4	Subjectiveme_negative 101 119	faire un truc sale
+R2	isAspectOf Arg1:T3 Arg2:T1	
+R3	isNegativeOpinionOn Arg1:T4 Arg2:T3	

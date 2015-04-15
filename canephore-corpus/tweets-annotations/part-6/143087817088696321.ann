@@ -1,0 +1,3 @@
+T1	Topic 28 39	Miss France
+T3	Subjectiveme_positive 101 106	belle
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	

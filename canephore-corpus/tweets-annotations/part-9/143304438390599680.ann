@@ -1,0 +1,5 @@
+T2	Topic 81 91	MissAlsace
+T4	Subjectiveme_positive 4 9	fière
+T1	Topic 24 64	Miss France une rouquine venant d'Alsace
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T2	

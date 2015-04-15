@@ -1,0 +1,5 @@
+T2	Topic 8 22	maire de Brest
+T3	Subjectiveme_negative 40 49	déglingué
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+T1	Subjectiveme_negative 79 106	était toujours rouge pinard
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T2	

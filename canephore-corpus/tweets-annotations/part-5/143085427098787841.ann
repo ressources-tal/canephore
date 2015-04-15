@@ -1,0 +1,3 @@
+T1	Topic 19 32	miss Bretagne
+T2	Subjectiveme_negative 0 18	Trop de bigorneaux
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	

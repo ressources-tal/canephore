@@ -1,0 +1,11 @@
+T1	Subjectiveme_positive 39 44	jolie
+T2	Topic 5 19	miss Languedoc
+T3	Aspect 50 62	présentation
+T4	Negator 63 66	pas
+T5	Subjectiveme_positive 67 75	terrible
+T6	Subjectiveme_positive 22 26	aime
+R1	isPositiveOpinionOn Arg1:T6 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+R3	isAspectOf Arg1:T3 Arg2:T2	
+R4	Negates Arg1:T4 Arg2:T5	
+R5	isNegativeOpinionOn Arg1:T5 Arg2:T3	

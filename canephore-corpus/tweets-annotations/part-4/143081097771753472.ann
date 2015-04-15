@@ -1,0 +1,5 @@
+T1	Topic 10 16	Laurie
+T2	Subjectiveme_positive 0 9	Yeeesssss
+T3	Subjectiveme_positive 29 43	une vraie miss
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

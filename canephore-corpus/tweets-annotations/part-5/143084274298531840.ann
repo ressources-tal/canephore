@@ -1,0 +1,7 @@
+T1	Topic 16 34	Miss Pays de Loire
+T2	Negator 51 54	Pas
+T3	Aspect 63 70	poteaux
+T4	Subjectiveme_positive 55 58	bon
+R1	Negates Arg1:T2 Arg2:T4	
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T3	
+R3	isAspectOf Arg1:T3 Arg2:T1	

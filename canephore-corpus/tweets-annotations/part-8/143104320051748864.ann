@@ -1,0 +1,8 @@
+T1	Aspect 24 42	couleur de cheveux
+T4	Subjectiveme_negative 55 61	dingue
+T5	Topic 6 17	Miss alsace
+R1	isAspectOf Arg1:T1 Arg2:T5	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+T2	Topic 123 133	missfrance
+T3	Subjectiveme_negative 108 121	ai horreur de
+R3	isNegativeOpinionOn Arg1:T3 Arg2:T2	

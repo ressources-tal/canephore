@@ -1,0 +1,5 @@
+T1	Topic 0 11	Miss Guyane
+T3	Aspect 31 39	démarche
+R2	isAspectOf Arg1:T3 Arg2:T1	
+T2	Subjectiveme_positive 12 30	a vraiment tapé la
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	

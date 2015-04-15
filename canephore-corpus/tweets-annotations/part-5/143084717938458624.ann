@@ -1,0 +1,7 @@
+T1	Topic 27 40	miss Bretagne
+T2	Subjectiveme_positive 10 19	putain de
+T3	Aspect 20 23	nez
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T3	
+T4	Subjectiveme_negative 48 52	trop
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T3	
+R3	isAspectOf Arg1:T3 Arg2:T1	

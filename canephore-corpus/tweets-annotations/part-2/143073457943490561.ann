@@ -1,0 +1,5 @@
+T1	Topic 3 9	Tahiti
+T2	Aspect 25 32	fessier
+T3	Subjectiveme_negative 14 21	gonflée
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

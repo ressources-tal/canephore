@@ -1,0 +1,6 @@
+T2	Subjectiveme_negative 82 93	catastrophe
+T3	Subjectiveme_positive 121 126	belle
+T5	Topic 97 102	Laury
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T5	
+T1	Topic 60 71	cette année
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	

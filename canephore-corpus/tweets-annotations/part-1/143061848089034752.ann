@@ -1,0 +1,3 @@
+T1	Topic 0 29	Miss saint pierre et miquelon
+T2	Subjectiveme_negative 44 71	femme de ménage colombienne
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	

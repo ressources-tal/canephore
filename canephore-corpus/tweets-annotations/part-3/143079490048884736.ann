@@ -1,0 +1,5 @@
+T1	Topic 0 15	Miss Roussillon
+T2	Topic 17 31	Miss Languedoc
+T4	Subjectiveme_positive 32 44	yeeeeeeeeeah
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T1	

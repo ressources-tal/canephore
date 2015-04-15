@@ -1,0 +1,5 @@
+T1	Aspect 20 27	cheveux
+T2	Topic 30 35	Lorie
+R1	isAspectOf Arg1:T1 Arg2:T2	
+T3	Subjectiveme_negative 6 19	pas ses vrais
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

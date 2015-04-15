@@ -1,0 +1,10 @@
+T1	Topic 0 22	Miss Champagne-Ardenne
+T2	Topic 80 94	Miss Languedoc
+T3	Subjectiveme_positive 67 77	magnifique
+T4	Subjectiveme_positive 37 42	belle
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+T5	Aspect 50 56	prénom
+R3	isAspectOf Arg1:T5 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T5	
+T6	Subjectiveme_positive 99 104	belle
+R4	isPositiveOpinionOn Arg1:T6 Arg2:T2	

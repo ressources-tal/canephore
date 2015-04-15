@@ -1,0 +1,5 @@
+T1	Subjectiveme_positive 37 46	beautiful
+T2	Topic 20 27	Réunion
+T3	Topic 0 16	Poitou charentes
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T3	

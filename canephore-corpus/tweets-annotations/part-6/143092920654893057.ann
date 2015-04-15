@@ -1,0 +1,3 @@
+T2	Subjectiveme_negative 75 81	moches
+T1	Topic 60 69	les tenus
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	

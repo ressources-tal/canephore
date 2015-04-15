@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 0 10	Pathétique
+T2	Aspect 15 28	présentations
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+T3	Topic 33 46	12 finalistes
+R2	isAspectOf Arg1:T2 Arg2:T3	

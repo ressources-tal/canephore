@@ -1,0 +1,8 @@
+T1	Topic 18 31	Pays de Loire
+T3	Topic 8 14	Alsace
+T4	Subjectiveme_positive 0 7	wooohoo
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+T2	Subjectiveme_positive 55 64	tropforte
+R3	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R4	isPositiveOpinionOn Arg1:T2 Arg2:T1	

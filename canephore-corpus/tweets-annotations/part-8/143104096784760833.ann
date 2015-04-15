@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 5 14	le mérite
+T2	Topic 20 30	missAlsace
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

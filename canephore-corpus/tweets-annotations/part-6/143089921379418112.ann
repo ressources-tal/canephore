@@ -1,0 +1,3 @@
+T1	Topic 0 27	les Miss en maillot de bain
+T2	Subjectiveme_positive 46 58	grand moment
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

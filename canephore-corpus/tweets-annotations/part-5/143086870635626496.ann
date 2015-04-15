@@ -1,0 +1,5 @@
+T1	Subjectiveme_positive 21 32	beau moment
+T2	Topic 59 65	Laurie
+T3	Aspect 51 55	robe
+R1	isAspectOf Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T3	

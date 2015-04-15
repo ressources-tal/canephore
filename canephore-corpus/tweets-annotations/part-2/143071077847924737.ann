@@ -1,0 +1,5 @@
+T1	Topic 22 33	Miss Alsace
+T2	Aspect 38 45	costume
+T3	Subjectiveme_positive 4 18	ça lui va bien
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

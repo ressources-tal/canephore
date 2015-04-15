@@ -1,0 +1,5 @@
+T1	Aspect 29 32	Cul
+T2	Topic 9 17	les Miss
+T3	Subjectiveme_negative 22 28	pas de
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R2	isAspectOf Arg1:T1 Arg2:T2	

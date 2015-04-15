@@ -1,0 +1,3 @@
+T1	Topic 32 45	12 finalistes
+T2	Subjectiveme_negative 0 23	Mon chien est plus beau
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	

@@ -1,0 +1,5 @@
+T1	Topic 0 11	Miss Centre
+T3	Subjectiveme_positive 42 46	mimi
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T2	Subjectiveme_negative 70 97	aussi pale qu'un dolipranne
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	

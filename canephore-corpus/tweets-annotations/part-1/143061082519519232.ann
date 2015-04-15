@@ -1,0 +1,7 @@
+T2	Topic 23 31	les miss
+T3	Subjectiveme_positive 14 22	mignones
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+T1	Negator 47 50	pas
+T4	Subjectiveme_positive 57 62	Belle
+R2	Negates Arg1:T1 Arg2:T4	
+R3	isNegativeOpinionOn Arg1:T4 Arg2:T2	

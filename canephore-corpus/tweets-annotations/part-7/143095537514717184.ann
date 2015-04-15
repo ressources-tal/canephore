@@ -1,0 +1,6 @@
+T3	Subjectiveme_positive 17 23	jolies
+T1	Topic 24 47	les Miss de cette année
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T2	Topic 65 75	classement
+T4	Subjectiveme_negative 56 61	déçue
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T2	

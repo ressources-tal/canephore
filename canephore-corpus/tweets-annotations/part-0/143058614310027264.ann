@@ -1,0 +1,7 @@
+T3	Aspect 26 30	jury
+T2	Topic 12 17	Lorie
+T1	Subjectiveme_positive 40 50	légitimité
+T4	Negator 33 39	aucune
+R1	Negates Arg1:T4 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T3	
+R3	isAspectOf Arg1:T3 Arg2:T2	

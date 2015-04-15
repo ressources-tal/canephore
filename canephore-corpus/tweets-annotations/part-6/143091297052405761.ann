@@ -1,0 +1,5 @@
+T2	Topic 18 36	miss Pays de Loire
+T1	Subjectiveme_positive 12 17	aller
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+T3	Subjectiveme_positive 87 98	la soutiens
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

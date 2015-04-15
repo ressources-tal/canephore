@@ -1,0 +1,9 @@
+T1	Topic 3 14	Miss Alsace
+T2	Subjectiveme_negative 17 23	DEHORS
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Aspect 38 44	parler
+T4	Subjectiveme_positive 29 33	sais
+T5	Negator 34 37	pas
+R2	Negates Arg1:T5 Arg2:T4	
+R3	isNegativeOpinionOn Arg1:T4 Arg2:T3	
+R4	isAspectOf Arg1:T3 Arg2:T1	

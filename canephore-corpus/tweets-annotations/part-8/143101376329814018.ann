@@ -1,0 +1,6 @@
+T1	Topic 16 28	miss Réunion
+T4	Subjectiveme_positive 2 6	aime
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+T2	Aspect 33 48	façon de parler
+R2	isAspectOf Arg1:T2 Arg2:T1	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T2	

@@ -1,0 +1,5 @@
+T1	Topic 49 56	sourire
+T2	Subjectiveme_negative 57 61	fixe
+T3	Subjectiveme_negative 65 75	inquiétant
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	

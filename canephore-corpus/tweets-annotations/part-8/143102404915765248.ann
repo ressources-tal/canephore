@@ -1,0 +1,5 @@
+T1	Topic 81 83	JP
+T2	Subjectiveme_positive 102 106	doué
+T3	Negator 91 101	plus aussi
+R1	Negates Arg1:T3 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	

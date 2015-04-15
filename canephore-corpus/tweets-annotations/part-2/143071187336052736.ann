@@ -1,0 +1,11 @@
+T1	Subjectiveme_negative 13 21	de merde
+T3	Topic 4 12	musiques
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T3	
+T2	Negator 42 48	à part
+R1	Negates Arg1:T2 Arg2:T1	
+T4	Aspect 49 62	power of love
+T5	Aspect 69 88	groupie du pianiste
+R3	isAspectOf Arg1:T4 Arg2:T3	
+R4	isAspectOf Arg1:T5 Arg2:T3	
+R5	isNegativeOpinionOn Arg1:T1 Arg2:T4	
+R6	isNegativeOpinionOn Arg1:T1 Arg2:T5	

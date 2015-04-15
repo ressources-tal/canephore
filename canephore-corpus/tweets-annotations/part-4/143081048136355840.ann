@@ -1,0 +1,5 @@
+T1	Topic 3 16	miss Bretagne
+T2	Aspect 47 53	gueule
+T3	Subjectiveme_negative 17 38	s'est juste pris Orly
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

@@ -1,0 +1,7 @@
+T1	Topic 26 40	Miss Champagne
+T2	Topic 11 24	miss Provence
+T3	Topic 44 56	Miss Réunion
+T4	Subjectiveme_positive 3 10	soutien
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T3	

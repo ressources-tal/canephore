@@ -1,0 +1,7 @@
+T1	Topic 48 60	Miss Réunion
+T2	Topic 13 24	Miss Alsace
+T3	Subjectiveme_positive 3 12	suis pour
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T4	Topic 26 44	Miss Pays-de-Loire
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R3	isPositiveOpinionOn Arg1:T3 Arg2:T4	

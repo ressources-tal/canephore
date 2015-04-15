@@ -1,0 +1,5 @@
+T1	Topic 22 33	Miss Alsace
+T2	Aspect 10 18	discours
+T3	Subjectiveme_negative 34 44	me pompent
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

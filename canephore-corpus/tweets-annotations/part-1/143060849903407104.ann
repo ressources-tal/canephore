@@ -1,0 +1,3 @@
+T1	Topic 4 38	mecs de la chorégraphie cleopatrre
+T2	Subjectiveme_positive 41 49	excitent
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

@@ -1,0 +1,5 @@
+T1	Topic 21 32	miss Tahiti
+T2	Subjectiveme_positive 38 46	avantage
+T3	Aspect 3 19	costume régional
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T1	

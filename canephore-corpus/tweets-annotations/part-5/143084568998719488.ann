@@ -1,0 +1,11 @@
+T1	Topic 14 27	Miss Bretagne
+T2	Aspect 51 62	Miss France
+T3	Subjectiveme_positive 92 97	belle
+T4	Aspect 98 102	voix
+T6	Negator 34 37	pas
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T4	
+R2	isAspectOf Arg1:T4 Arg2:T1	
+T5	Subjectiveme_positive 38 43	digne
+R3	Negates Arg1:T6 Arg2:T5	
+R4	isNegativeOpinionOn Arg1:T5 Arg2:T2	
+R5	isAspectOf Arg1:T2 Arg2:T1	

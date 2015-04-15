@@ -1,0 +1,3 @@
+T1	Topic 17 30	Pays de Loire
+T3	Subjectiveme_positive 9 16	voulais
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	

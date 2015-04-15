@@ -1,0 +1,7 @@
+T1	Topic 12 23	Côte d'Azur
+T2	Topic 0 8	Provence
+T3	Subjectiveme_positive 71 77	belles
+T4	Negator 58 61	pas
+R1	Negates Arg1:T4 Arg2:T3	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R3	isNegativeOpinionOn Arg1:T3 Arg2:T2	

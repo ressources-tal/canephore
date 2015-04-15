@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 17 22	moche
+T2	Topic 26 39	Miss Bretagne
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+T3	Subjectiveme_negative 75 80	moche
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	

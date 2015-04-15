@@ -1,0 +1,3 @@
+T1	Subjectiveme_negative 26 39	fausse rousse
+T2	Topic 0 17	Notre Miss France
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	

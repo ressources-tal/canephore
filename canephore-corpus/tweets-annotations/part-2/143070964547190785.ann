@@ -1,0 +1,15 @@
+T1	Topic 22 36	Miss Languedoc
+T2	Topic 77 87	Roussillon
+T3	Topic 57 64	Réunion
+T4	Subjectiveme_positive 124 130	jolies
+T5	Topic 106 112	Centre
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+T6	Topic 38 55	Champagne-Ardenne
+T7	Topic 66 75	Orléanais
+T8	Topic 89 102	Ile-De-France
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T6	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T3	
+R4	isPositiveOpinionOn Arg1:T4 Arg2:T7	
+R5	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+R6	isPositiveOpinionOn Arg1:T4 Arg2:T8	
+R7	isPositiveOpinionOn Arg1:T4 Arg2:T5	

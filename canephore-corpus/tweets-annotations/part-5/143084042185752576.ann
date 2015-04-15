@@ -1,0 +1,5 @@
+T1	Topic 0 13	Miss Bretagne
+T2	Aspect 66 72	visage
+T3	Subjectiveme_negative 73 93	mangé par un piranha
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

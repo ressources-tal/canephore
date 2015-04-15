@@ -1,0 +1,7 @@
+T1	Topic 12 27	Miss Guadeloupe
+T2	Topic 29 40	Miss Alsace
+T3	Topic 44 55	Miss Centre
+T5	Subjectiveme_positive 88 92	aime
+R2	isPositiveOpinionOn Arg1:T5 Arg2:T2	
+R3	isPositiveOpinionOn Arg1:T5 Arg2:T1	
+R4	isNegativeOpinionOn Arg1:T5 Arg2:T2	

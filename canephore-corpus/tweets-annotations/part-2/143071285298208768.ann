@@ -1,0 +1,3 @@
+T1	Topic 3 13	Tahitienne
+T2	Subjectiveme_positive 18 26	parfaite
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

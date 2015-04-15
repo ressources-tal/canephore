@@ -1,0 +1,3 @@
+T1	Topic 20 25	robes
+T2	Subjectiveme_negative 7 14	chiffon
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

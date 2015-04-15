@@ -1,0 +1,5 @@
+T1	Topic 12 24	MissLorraine
+T2	Aspect 36 40	yeux
+T3	Subjectiveme_positive 30 35	beaux
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

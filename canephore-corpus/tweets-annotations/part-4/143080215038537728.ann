@@ -1,0 +1,11 @@
+T1	Topic 0 8	Bretagne
+T2	Aspect 66 72	gueule
+T3	Aspect 30 34	yeux
+T4	Subjectiveme_positive 54 58	aime
+T5	Negator 59 62	pas
+R2	Negates Arg1:T5 Arg2:T4	
+T6	Subjectiveme_negative 35 50	trop rapprochés
+R1	isNegativeOpinionOn Arg1:T6 Arg2:T3	
+R3	isAspectOf Arg1:T3 Arg2:T1	
+R4	isAspectOf Arg1:T2 Arg2:T1	
+R5	isNegativeOpinionOn Arg1:T4 Arg2:T2	

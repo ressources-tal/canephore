@@ -1,0 +1,6 @@
+T1	Topic 0 16	Miss France 2012
+T2	Subjectiveme_positive 30 37	superbe
+T5	Subjectiveme_positive 39 43	Vive
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 58 65	rousses
+R2	isPositiveOpinionOn Arg1:T5 Arg2:T3	

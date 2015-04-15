@@ -1,0 +1,3 @@
+T3	Subjectiveme_positive 0 5	Sympa
+T1	Topic 9 39	défilé en costume traditionnel
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	

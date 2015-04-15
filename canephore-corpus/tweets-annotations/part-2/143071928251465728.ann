@@ -1,0 +1,5 @@
+T2	Subjectiveme_negative 28 33	moche
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T1	Topic 0 18	Miss Ile de France
+T3	Subjectiveme_negative 41 55	représente mal
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

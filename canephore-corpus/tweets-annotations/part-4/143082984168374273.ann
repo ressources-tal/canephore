@@ -1,0 +1,5 @@
+T1	Topic 25 38	miss Bretagne
+T2	Subjectiveme_positive 50 55	belle
+T4	Negator 17 20	pas
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+R2	Negates Arg1:T4 Arg2:T2	

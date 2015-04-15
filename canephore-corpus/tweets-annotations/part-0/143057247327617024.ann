@@ -1,0 +1,5 @@
+T1	Subjectiveme_positive 3 13	magnifique
+T2	Topic 30 43	MissLanguedoc
+T3	Topic 45 57	MissProvence
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T3	

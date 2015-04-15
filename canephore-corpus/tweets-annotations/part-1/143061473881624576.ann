@@ -1,0 +1,7 @@
+T1	Topic 27 32	Lorie
+T2	Aspect 19 23	robe
+T3	Subjectiveme_positive 2 6	aime
+T5	Subjectiveme_positive 50 54	sexy
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	
+R3	isPositiveOpinionOn Arg1:T5 Arg2:T2	

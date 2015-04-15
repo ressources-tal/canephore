@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 0 14	C'est quoi ces
+T3	Topic 15 23	musiques
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T3	
+T2	Subjectiveme_negative 24 33	de merdes
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T3	

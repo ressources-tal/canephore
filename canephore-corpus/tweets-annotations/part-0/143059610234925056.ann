@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 73 75	Go
+T2	Topic 76 91	les miss du sud
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

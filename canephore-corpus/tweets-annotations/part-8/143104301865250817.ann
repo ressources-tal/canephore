@@ -1,0 +1,11 @@
+T1	Topic 0 11	Miss Alsace
+T2	Subjectiveme_positive 13 18	belle
+T3	Subjectiveme_positive 20 32	appétissante
+T4	Subjectiveme_positive 36 48	intelligente
+T5	Negator 49 69	comme une choucroute
+R1	Negates Arg1:T5 Arg2:T4	
+R2	Negates Arg1:T5 Arg2:T3	
+R3	Negates Arg1:T5 Arg2:T2	
+R4	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+R5	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R6	isNegativeOpinionOn Arg1:T4 Arg2:T1	

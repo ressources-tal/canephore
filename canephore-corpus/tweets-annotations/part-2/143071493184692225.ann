@@ -1,0 +1,5 @@
+T1	Topic 32 44	Miss Réunion
+T2	Aspect 21 28	costume
+T3	Subjectiveme_positive 12 17	Sympa
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

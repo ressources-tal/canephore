@@ -1,0 +1,3 @@
+T1	Topic 16 27	miss alsace
+T2	Subjectiveme_negative 6 15	tout sauf
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	

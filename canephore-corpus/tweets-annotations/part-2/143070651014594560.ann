@@ -1,0 +1,10 @@
+T1	Topic 58 69	Miss Alsace
+T2	Topic 14 25	Miss Tahiti
+T3	Aspect 3 10	costume
+T4	Subjectiveme_positive 29 44	met + en valeur
+R1	isAspectOf Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T3 Arg2:T1	
+T5	Negator 45 48	que
+R3	Negates Arg1:T5 Arg2:T4	
+R4	isNegativeOpinionOn Arg1:T4 Arg2:T1	
+R5	isPositiveOpinionOn Arg1:T4 Arg2:T3	

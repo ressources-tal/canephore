@@ -1,0 +1,5 @@
+T1	Aspect 17 25	sourires
+T2	Subjectiveme_negative 26 33	Colgate
+T3	Topic 0 8	Les miss
+R1	isAspectOf Arg1:T1 Arg2:T3	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	

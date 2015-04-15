@@ -1,0 +1,5 @@
+T1	Topic 12 23	Miss Centre
+T2	Subjectiveme_negative 37 43	gamine
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 58 71	inconfortable
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

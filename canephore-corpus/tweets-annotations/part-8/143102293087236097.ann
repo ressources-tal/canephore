@@ -1,0 +1,5 @@
+T1	Topic 55 66	Côte d'Azur
+T2	Aspect 76 84	discours
+T3	Subjectiveme_positive 89 92	plu
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

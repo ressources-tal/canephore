@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 94 103	ridicules
+T2	Topic 15 32	défilé en costume
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+T3	Subjectiveme_negative 80 86	connes
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	

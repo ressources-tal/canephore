@@ -1,0 +1,7 @@
+T2	Subjectiveme_positive 24 29	belle
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T1	Topic 0 12	Miss Mayotte
+T3	Topic 34 49	miss Martinique
+T4	Negator 30 33	que
+R2	Negates Arg1:T4 Arg2:T2	
+R3	isNegativeOpinionOn Arg1:T2 Arg2:T3	

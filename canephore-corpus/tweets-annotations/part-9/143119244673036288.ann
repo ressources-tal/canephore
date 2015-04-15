@@ -1,0 +1,9 @@
+T1	Subjectiveme_positive 30 38	adorable
+T4	Topic 1 16	ARosenfeldOffic
+T3	Aspect 95 104	sincérité
+T5	Subjectiveme_positive 122 129	toucher
+R1	isPositiveOpinionOn Arg1:T5 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T4	
+T2	Subjectiveme_positive 17 26	émouvante
+R3	isPositiveOpinionOn Arg1:T2 Arg2:T4	
+R4	isPositiveOpinionOn Arg1:T1 Arg2:T4	

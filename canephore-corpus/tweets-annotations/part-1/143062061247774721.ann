@@ -1,0 +1,5 @@
+T1	Topic 0 9	Normandie
+T2	Aspect 28 34	bouche
+T3	Subjectiveme_negative 16 27	trop grande
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

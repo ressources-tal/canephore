@@ -1,0 +1,5 @@
+T1	Topic 60 71	Miss Alsace
+T2	Topic 21 32	Miss Centre
+T3	Subjectiveme_positive 43 49	zoulie
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

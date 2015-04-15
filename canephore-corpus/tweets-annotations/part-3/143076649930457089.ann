@@ -1,0 +1,6 @@
+T2	Subjectiveme_positive 87 97	magnifique
+T4	Topic 77 82	Laury
+T6	Subjectiveme_positive 28 32	aime
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T4	
+T3	Topic 38 58	regarder #missfrance
+R2	isPositiveOpinionOn Arg1:T6 Arg2:T3	

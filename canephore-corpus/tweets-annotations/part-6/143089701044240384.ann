@@ -1,0 +1,5 @@
+T1	Topic 12 25	Miss Bretagne
+T2	Aspect 31 34	nez
+R1	isAspectOf Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 35 52	de Scottie Pippen
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	

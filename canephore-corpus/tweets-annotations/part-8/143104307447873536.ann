@@ -1,0 +1,9 @@
+T2	Subjectiveme_positive 8 16	contente
+T3	Subjectiveme_positive 56 60	aime
+T4	Negator 61 64	pas
+R1	Negates Arg1:T4 Arg2:T3	
+T1	Topic 29 44	miss Alsaceeeee
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T5	Aspect 73 85	personnalité
+R3	isAspectOf Arg1:T5 Arg2:T1	
+R4	isNegativeOpinionOn Arg1:T3 Arg2:T5	

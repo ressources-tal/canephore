@@ -1,0 +1,9 @@
+T1	Aspect 3 19	costume regional
+T2	Topic 67 73	Tahiti
+T3	Subjectiveme_positive 51 61	avantageux
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isAspectOf Arg1:T1 Arg2:T2	
+T4	Negator 74 77	que
+R3	Negates Arg1:T4 Arg2:T3	
+T5	Topic 83 91	Picardie
+R4	isNegativeOpinionOn Arg1:T3 Arg2:T5	

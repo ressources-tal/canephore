@@ -1,0 +1,3 @@
+T1	Topic 0 18	Miss Pays de Loire
+T2	Subjectiveme_negative 63 68	moche
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

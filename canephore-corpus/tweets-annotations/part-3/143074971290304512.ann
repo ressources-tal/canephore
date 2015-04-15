@@ -1,0 +1,5 @@
+T1	Topic 31 44	Miss Provence
+T2	Topic 16 27	Miss Alsace
+T3	Subjectiveme_positive 2 6	aime
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

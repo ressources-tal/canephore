@@ -1,0 +1,6 @@
+T1	Topic 62 73	Miss Alsace
+T4	Topic 22 32	la réunion
+T2	Subjectiveme_positive 42 50	soutient
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_positive 8 12	aime
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T4	

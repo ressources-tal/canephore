@@ -1,0 +1,7 @@
+T1	Subjectiveme_positive 18 28	magnifique
+T2	Topic 0 6	Alsace
+T3	Aspect 29 33	robe
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T2	
+T4	Subjectiveme_positive 40 46	craque
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T3	

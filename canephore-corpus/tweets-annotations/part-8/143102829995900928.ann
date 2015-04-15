@@ -1,0 +1,3 @@
+T2	Subjectiveme_positive 37 47	magnifique
+T1	Topic 14 30	Miss France 2003
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

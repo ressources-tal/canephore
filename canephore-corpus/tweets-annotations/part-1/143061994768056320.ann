@@ -1,0 +1,5 @@
+T1	Topic 0 18	Miss Midi-Pyrénées
+T2	Aspect 77 83	accent
+T3	Subjectiveme_positive 72 76	joli
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

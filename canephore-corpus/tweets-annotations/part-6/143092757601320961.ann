@@ -1,0 +1,7 @@
+T1	Aspect 18 22	robe
+T4	Topic 26 32	laurie
+T5	Subjectiveme_negative 9 14	abusé
+R1	isNegativeOpinionOn Arg1:T5 Arg2:T1	
+T6	Subjectiveme_negative 55 61	craint
+R2	isNegativeOpinionOn Arg1:T6 Arg2:T1	
+R3	isAspectOf Arg1:T1 Arg2:T4	

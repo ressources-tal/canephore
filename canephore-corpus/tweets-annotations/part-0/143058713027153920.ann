@@ -1,0 +1,5 @@
+R1	Negates Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T2	Subjectiveme_negative 19 22	mal
+T3	Negator 10 13	pas
+T1	Topic 0 9	Languedoc

@@ -1,0 +1,5 @@
+T2	Topic 62 68	Alsace
+T3	Aspect 24 29	parle
+T4	Subjectiveme_negative 6 12	chiant
+R1	isNegativeOpinionOn Arg1:T4 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T2	

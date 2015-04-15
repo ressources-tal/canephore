@@ -1,0 +1,5 @@
+T1	Topic 22 35	Miss Bretagne
+T3	Subjectiveme_positive 2 6	aime
+T4	Negator 7 10	pas
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R2	Negates Arg1:T4 Arg2:T3	

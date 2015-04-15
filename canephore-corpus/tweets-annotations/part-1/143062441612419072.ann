@@ -1,0 +1,11 @@
+T1	Topic 17 29	présentation
+T2	Subjectiveme_positive 49 56	naturel
+T4	Aspect 89 94	texte
+T3	Negator 30 48	manque vraiment de
+R1	Negates Arg1:T3 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+R3	isAspectOf Arg1:T4 Arg2:T1	
+T5	Subjectiveme_negative 77 85	récitent
+R4	isNegativeOpinionOn Arg1:T5 Arg2:T4	
+T6	Subjectiveme_negative 95 105	mal appris
+R5	isNegativeOpinionOn Arg1:T6 Arg2:T4	

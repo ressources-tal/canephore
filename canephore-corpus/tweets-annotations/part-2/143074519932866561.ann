@@ -1,0 +1,3 @@
+T1	Topic 0 26	Miss St Pierre et Miquelon
+T2	Subjectiveme_negative 46 62	truc dans le cul
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	

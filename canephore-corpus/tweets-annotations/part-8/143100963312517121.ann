@@ -1,0 +1,5 @@
+T1	Topic 0 12	Miss Réunion
+T2	Aspect 19 23	tête
+T3	Subjectiveme_negative 24 35	de ptit rat
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

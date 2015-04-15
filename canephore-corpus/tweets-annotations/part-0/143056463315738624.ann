@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 0 13	C'est quoi ce
+T2	Subjectiveme_negative 19 27	de merde
+T3	Topic 14 18	jury
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T3	
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T3	

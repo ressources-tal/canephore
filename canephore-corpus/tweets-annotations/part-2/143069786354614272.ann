@@ -1,0 +1,5 @@
+T1	Topic 81 93	Miss Réunion
+T2	Topic 97 103	Tahiti
+T3	Subjectiveme_positive 76 80	aimé
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

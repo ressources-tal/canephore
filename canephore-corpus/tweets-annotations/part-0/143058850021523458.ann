@@ -1,0 +1,11 @@
+T1	Topic 4 18	miss Languedoc
+T2	Subjectiveme_negative 42 47	moche
+T3	Subjectiveme_positive 19 24	ca va
+T4	Negator 35 38	pas
+R1	Negates Arg1:T4 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R3	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T5	Subjectiveme_positive 67 84	étoffe d'une miss
+T6	Negator 61 64	pas
+R4	Negates Arg1:T6 Arg2:T5	
+R5	isNegativeOpinionOn Arg1:T5 Arg2:T1	

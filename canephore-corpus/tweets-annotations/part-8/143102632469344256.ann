@@ -1,0 +1,7 @@
+T1	Subjectiveme_negative 24 30	moches
+T2	Topic 38 49	Miss Alsace
+T3	Negator 31 37	à part
+R1	Negates Arg1:T3 Arg2:T1	
+T4	Topic 53 71	Miss Pays de Loire
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+R3	isPositiveOpinionOn Arg1:T1 Arg2:T4	

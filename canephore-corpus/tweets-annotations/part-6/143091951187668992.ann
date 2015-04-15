@@ -1,0 +1,5 @@
+T1	Aspect 3 7	robe
+T2	Topic 11 15	Lori
+T3	Subjectiveme_negative 20 39	pas assez échancrée
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R2	isAspectOf Arg1:T1 Arg2:T2	

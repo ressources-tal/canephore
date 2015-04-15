@@ -1,0 +1,7 @@
+T1	Topic 0 13	Miss Limousin
+T2	Aspect 45 50	dents
+T3	Subjectiveme_negative 21 35	un truc coincé
+T4	Subjectiveme_negative 61 70	ça craint
+R1	isNegativeOpinionOn Arg1:T4 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R3	isAspectOf Arg1:T2 Arg2:T1	

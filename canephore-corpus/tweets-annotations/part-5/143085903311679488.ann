@@ -1,0 +1,5 @@
+T1	Topic 0 15	Miss Martinique
+T2	Aspect 24 36	présentation
+T3	Subjectiveme_positive 18 23	Bonne
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

@@ -1,0 +1,8 @@
+T1	Topic 0 16	Miss France 2012
+T2	Subjectiveme_negative 34 39	moche
+T3	Negator 17 20	pas
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R2	Negates Arg1:T3 Arg2:T2	
+T4	Subjectiveme_negative 26 30	bête
+R3	Negates Arg1:T3 Arg2:T4	
+R4	isPositiveOpinionOn Arg1:T4 Arg2:T1	

@@ -1,0 +1,6 @@
+T1	Topic 80 90	MissAlsace
+T2	Subjectiveme_positive 62 78	suis a fond pour
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 36 51	etre Alsacienne
+T4	Subjectiveme_positive 28 33	fiere
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T3	

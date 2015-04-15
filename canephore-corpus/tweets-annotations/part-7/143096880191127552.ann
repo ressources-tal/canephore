@@ -1,0 +1,5 @@
+T1	Topic 0 4	robe
+T3	Subjectiveme_negative 23 48	plumeau pour la poussière
+T2	Subjectiveme_negative 62 66	fail
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	

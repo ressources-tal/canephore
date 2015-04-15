@@ -1,0 +1,5 @@
+T1	Topic 25 33	les Miss
+T2	Subjectiveme_positive 20 24	jojo
+T3	Negator 11 14	pas
+R1	Negates Arg1:T3 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	

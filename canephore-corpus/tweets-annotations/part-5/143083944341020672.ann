@@ -1,0 +1,3 @@
+T1	Topic 6 16	MariePayet
+T6	Subjectiveme_positive 0 4	Sexy
+R1	isPositiveOpinionOn Arg1:T6 Arg2:T1	

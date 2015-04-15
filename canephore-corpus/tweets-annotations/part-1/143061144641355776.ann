@@ -1,0 +1,5 @@
+T1	Topic 15 35	la miss de ma région
+T2	Subjectiveme_positive 40 47	pas mal
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 72 89	champagneardennes
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T3	

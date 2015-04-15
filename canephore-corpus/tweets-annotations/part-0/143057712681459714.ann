@@ -1,0 +1,3 @@
+T1	Subjectiveme_negative 0 3	Yuk
+T2	Topic 7 11	robe
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	

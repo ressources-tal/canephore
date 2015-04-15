@@ -1,0 +1,5 @@
+T1	Topic 11 25	Sylvie Tellier
+T3	Subjectiveme_negative 42 47	laide
+T4	Aspect 3 7	robe
+R1	isAspectOf Arg1:T4 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T4	

@@ -1,0 +1,6 @@
+T3	Subjectiveme_positive 55 60	allez
+T1	Topic 63 69	Alsace
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T2	Topic 81 88	reunion
+T4	Subjectiveme_positive 98 107	attirante
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T2	

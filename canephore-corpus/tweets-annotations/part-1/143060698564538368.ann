@@ -1,0 +1,7 @@
+T1	Topic 4 15	Miss France
+T2	Subjectiveme_positive 51 58	naturel
+T3	Aspect 21 26	parle
+T4	Negator 47 50	pas
+R1	Negates Arg1:T4 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T3	
+R3	isAspectOf Arg1:T3 Arg2:T1	

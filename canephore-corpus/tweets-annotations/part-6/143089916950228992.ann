@@ -1,0 +1,8 @@
+T1	Topic 28 40	MissBretagne
+T3	Subjectiveme_positive 21 26	canon
+T4	Aspect 62 66	tête
+T5	Negator 55 58	pas
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isAspectOf Arg1:T4 Arg2:T1	
+R3	Negates Arg1:T5 Arg2:T3	
+R4	isNegativeOpinionOn Arg1:T3 Arg2:T4	

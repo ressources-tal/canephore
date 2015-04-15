@@ -1,0 +1,8 @@
+T1	Topic 9 18	Languedoc
+T3	Subjectiveme_positive 30 35	jolie
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T5	Topic 71 89	Nord-Pas-De-Calais
+T2	Negator 49 52	pas
+T4	Subjectiveme_positive 44 48	aime
+R1	Negates Arg1:T2 Arg2:T4	
+R3	isNegativeOpinionOn Arg1:T4 Arg2:T5	

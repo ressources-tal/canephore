@@ -1,0 +1,5 @@
+T1	Topic 0 13	Midi Pyrénées
+T2	Aspect 35 44	décolleté
+T3	Subjectiveme_negative 20 34	c'est quoi, ce
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

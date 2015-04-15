@@ -1,0 +1,3 @@
+T1	Topic 36 51	Miss Martinique
+T2	Subjectiveme_positive 70 80	magnifique
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

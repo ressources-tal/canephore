@@ -1,0 +1,5 @@
+T1	Topic 18 30	Miss Réunion
+T2	Subjectiveme_positive 58 66	Go go go
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_positive 54 57	\Ô/
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

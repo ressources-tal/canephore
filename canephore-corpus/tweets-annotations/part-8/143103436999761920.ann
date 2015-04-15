@@ -1,0 +1,3 @@
+T1	Topic 31 69	têtes des Miss à l'annonce du résultat
+T2	Subjectiveme_positive 10 17	préfère
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

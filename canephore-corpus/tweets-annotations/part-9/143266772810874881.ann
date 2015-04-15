@@ -1,0 +1,5 @@
+T5	Subjectiveme_positive 73 78	jolie
+T1	Topic 16 39	la nouvelle #MissFrance
+T2	Topic 43 53	MissAlsace
+R1	isPositiveOpinionOn Arg1:T5 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T5 Arg2:T2	

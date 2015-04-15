@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 5 15	magnifique
+T2	Topic 16 88	moment où J-P-F demande au maire "Laurie a été une bonne représentante ?
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

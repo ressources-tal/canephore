@@ -1,0 +1,5 @@
+T1	Subjectiveme_positive 68 73	belle
+T2	Topic 9 14	Lorie
+T3	Topic 0 5	Sofia
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T3	

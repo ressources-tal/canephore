@@ -1,0 +1,3 @@
+T2	Topic 21 32	Miss Alsace
+T3	Subjectiveme_positive 59 65	mérite
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	

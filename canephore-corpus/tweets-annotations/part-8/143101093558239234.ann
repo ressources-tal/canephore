@@ -1,0 +1,3 @@
+T1	Topic 6 17	Miss Alsace
+T2	Subjectiveme_negative 18 33	fais le coup du
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	

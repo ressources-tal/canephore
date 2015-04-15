@@ -1,0 +1,3 @@
+T2	Subjectiveme_positive 24 29	jolie
+T1	Topic 6 19	Miss Lorraine
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

@@ -1,0 +1,9 @@
+T1	Aspect 15 33	couleur de cheveux
+T2	Topic 36 42	Alsace
+T3	Negator 68 73	moins
+T5	Subjectiveme_negative 74 78	pire
+T4	Subjectiveme_positive 2 6	aime
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R2	isAspectOf Arg1:T1 Arg2:T2	
+R3	Negates Arg1:T3 Arg2:T5	
+R4	isPositiveOpinionOn Arg1:T5 Arg2:T2	

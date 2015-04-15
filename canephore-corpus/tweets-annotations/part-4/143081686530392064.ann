@@ -1,0 +1,9 @@
+T1	Subjectiveme_positive 64 74	magnifique
+T2	Topic 0 6	Laurie
+T3	Subjectiveme_positive 20 25	jolie
+T4	Aspect 55 59	robe
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T4	
+R1	isAspectOf Arg1:T4 Arg2:T2	
+R3	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+T5	Subjectiveme_positive 38 46	embellie
+R4	isPositiveOpinionOn Arg1:T5 Arg2:T2	

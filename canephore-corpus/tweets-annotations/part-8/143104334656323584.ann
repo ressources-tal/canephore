@@ -1,0 +1,7 @@
+T1	Topic 10 21	Miss France
+T3	Subjectiveme_positive 22 29	naturel
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T2	Subjectiveme_negative 48 65	qui se prend pour
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T4	Subjectiveme_negative 86 105	a une grande gueule
+R3	isNegativeOpinionOn Arg1:T4 Arg2:T1	

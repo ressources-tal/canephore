@@ -1,0 +1,5 @@
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	
+T2	Aspect 3 7	robe
+T3	Subjectiveme_positive 31 36	belle
+T1	Topic 11 16	Lorie

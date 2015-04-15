@@ -1,0 +1,5 @@
+T2	Aspect 6 10	robe
+T3	Topic 17 27	guadeloupe
+T4	Subjectiveme_negative 37 47	degeulasse
+R1	isAspectOf Arg1:T2 Arg2:T3	
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T2	

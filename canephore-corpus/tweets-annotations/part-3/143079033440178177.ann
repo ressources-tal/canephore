@@ -1,0 +1,3 @@
+T4	Subjectiveme_positive 122 126	aime
+T5	Topic 107 116	Geneviève
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T5	

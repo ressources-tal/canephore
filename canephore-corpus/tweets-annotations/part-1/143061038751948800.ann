@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 31 39	favorite
+T2	Topic 23 30	chanson
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

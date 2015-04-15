@@ -1,0 +1,9 @@
+T1	Aspect 17 37	costume traditionnel
+T2	Subjectiveme_positive 89 101	balance bien
+T3	Aspect 106 113	hanches
+T4	Topic 67 73	Tahiti
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R2	isAspectOf Arg1:T1 Arg2:T4	
+R3	isAspectOf Arg1:T3 Arg2:T4	
+T5	Subjectiveme_positive 46 50	bien
+R4	isPositiveOpinionOn Arg1:T5 Arg2:T1	

@@ -1,0 +1,5 @@
+T1	Topic 28 41	Miss Lorraine
+T2	Subjectiveme_positive 22 27	belle
+T4	Negator 18 21	pas
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+R3	Negates Arg1:T4 Arg2:T2	

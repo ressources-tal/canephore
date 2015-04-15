@@ -1,0 +1,3 @@
+T1	Topic 53 61	musiques
+T2	Subjectiveme_negative 62 68	looses
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	

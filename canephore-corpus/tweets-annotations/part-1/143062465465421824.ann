@@ -1,0 +1,3 @@
+T1	Topic 59 68	critiquer
+T2	Subjectiveme_positive 49 53	aime
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

@@ -1,0 +1,5 @@
+T1	Aspect 15 19	robe
+T2	Subjectiveme_positive 2 6	aime
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 23 37	sylvie tellier
+R2	isAspectOf Arg1:T1 Arg2:T3	

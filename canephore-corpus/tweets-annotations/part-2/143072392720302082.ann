@@ -1,0 +1,7 @@
+T1	Aspect 86 93	sourire
+T2	Subjectiveme_negative 94 99	forcé
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 10 31	la fille qui présente
+T4	Subjectiveme_negative 58 76	refaite de partout
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T3	
+R3	isAspectOf Arg1:T1 Arg2:T3	

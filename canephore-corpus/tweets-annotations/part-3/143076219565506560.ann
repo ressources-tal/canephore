@@ -1,0 +1,6 @@
+T2	Subjectiveme_positive 15 23	préferee
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T1	Topic 41 62	miss poitou charentes
+T3	Topic 100 107	sourire
+T4	Subjectiveme_negative 108 115	immonde
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T3	

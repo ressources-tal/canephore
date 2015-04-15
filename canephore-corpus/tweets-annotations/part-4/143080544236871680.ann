@@ -1,0 +1,7 @@
+T1	Topic 34 46	miss reunion
+T2	Topic 0 18	miss pays de loire
+T3	Topic 19 30	miss guyane
+T4	Subjectiveme_positive 47 61	c'est du lourd
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T3	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T2	

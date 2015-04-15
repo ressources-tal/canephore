@@ -1,0 +1,5 @@
+T1	Topic 0 13	Miss Picardie
+T2	Subjectiveme_negative 18 32	Gelée anglaise
+T3	Aspect 44 50	marche
+R1	isAspectOf Arg1:T3 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T3	

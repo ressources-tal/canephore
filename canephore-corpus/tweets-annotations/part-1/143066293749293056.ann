@@ -1,0 +1,5 @@
+T1	Topic 4 15	Miss Tahiti
+T2	Subjectiveme_negative 47 52	nulle
+T3	Aspect 38 42	voix
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T1	

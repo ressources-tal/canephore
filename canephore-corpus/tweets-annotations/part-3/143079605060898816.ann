@@ -1,0 +1,3 @@
+T1	Subjectiveme_negative 14 20	blague
+T2	Topic 21 38	les sélectionnées
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	

@@ -1,0 +1,3 @@
+T1	Topic 26 31	Lorie
+T2	Subjectiveme_negative 6 20	touche le fond
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	

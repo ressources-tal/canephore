@@ -1,0 +1,5 @@
+T1	Aspect 20 28	déhanché
+T2	Subjectiveme_positive 4 10	classe
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 34 44	Tahitienne
+R2	isAspectOf Arg1:T1 Arg2:T3	

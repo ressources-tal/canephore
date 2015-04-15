@@ -1,0 +1,7 @@
+T1	Subjectiveme_positive 53 59	belles
+T4	Topic 62 75	Valerie Begue
+T2	Topic 77 90	Malika Manard
+T3	Topic 94 109	Laury Thylleman
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T4	
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+R3	isPositiveOpinionOn Arg1:T1 Arg2:T3	

@@ -1,0 +1,5 @@
+T2	Topic 34 39	robes
+T1	Aspect 22 30	couleurs
+T3	Subjectiveme_negative 6 13	aveugle
+R1	isAspectOf Arg1:T1 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

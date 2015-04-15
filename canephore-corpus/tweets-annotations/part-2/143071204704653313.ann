@@ -1,0 +1,7 @@
+T1	Topic 0 11	Miss Tahiti
+T2	Subjectiveme_positive 44 53	préférées
+T3	Topic 13 22	Languedoc
+T4	Topic 25 31	Alsace
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T4	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R3	isPositiveOpinionOn Arg1:T2 Arg2:T1	

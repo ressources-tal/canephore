@@ -1,0 +1,7 @@
+T1	Topic 0 12	Miss réunion
+T4	Negator 46 49	que
+T5	Topic 50 61	la bretonne
+T2	Subjectiveme_positive 27 45	agréable a écouter
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R2	Negates Arg1:T4 Arg2:T2	
+R3	isNegativeOpinionOn Arg1:T2 Arg2:T5	

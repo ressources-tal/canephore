@@ -1,0 +1,5 @@
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	
+T2	Aspect 17 23	bouche
+T3	Subjectiveme_negative 24 34	de travers
+T1	Topic 0 11	Côte d'Azur

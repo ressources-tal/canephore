@@ -1,0 +1,5 @@
+T1	Topic 9 19	MissFrance
+T2	Topic 31 51	Jean Pierre Foucault
+T3	Subjectiveme_positive 100 106	classe
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

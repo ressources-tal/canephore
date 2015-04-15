@@ -1,0 +1,8 @@
+T1	Negator 22 25	pas
+T3	Subjectiveme_negative 31 36	honte
+T4	Topic 66 86	Miss Poitou-Charente
+R1	Negates Arg1:T1 Arg2:T3	
+T2	Topic 40 58	soutenir ma région
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+T5	Subjectiveme_positive 60 65	Allez
+R3	isPositiveOpinionOn Arg1:T5 Arg2:T4	

@@ -1,0 +1,5 @@
+T2	Topic 13 17	jury
+T1	Subjectiveme_negative 21 30	sa craint
+T3	Subjectiveme_negative 35 42	inutile
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	

@@ -1,0 +1,8 @@
+T2	Topic 57 68	miss Alsace
+T1	Topic 6 19	miss Bretagne
+T3	Subjectiveme_negative 20 53	maquillée comme une voiture volée
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+T4	Aspect 73 78	parle
+T5	Subjectiveme_negative 79 87	3 heures
+R2	isNegativeOpinionOn Arg1:T5 Arg2:T4	
+R3	isAspectOf Arg1:T4 Arg2:T2	

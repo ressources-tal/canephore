@@ -1,0 +1,7 @@
+T1	Topic 49 57	Picardie
+T3	Topic 30 37	Réunion
+T4	Topic 39 45	Guyane
+T2	Subjectiveme_positive 4 12	préférés
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T4	
+R3	isPositiveOpinionOn Arg1:T2 Arg2:T1	

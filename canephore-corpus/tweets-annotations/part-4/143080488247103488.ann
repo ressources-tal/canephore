@@ -1,0 +1,5 @@
+T3	Topic 4 10	tahiti
+T1	Aspect 29 46	défilé de maillot
+T2	Subjectiveme_negative 49 59	tout cassé
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+R2	isAspectOf Arg1:T1 Arg2:T3	

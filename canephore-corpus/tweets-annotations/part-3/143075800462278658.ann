@@ -1,0 +1,5 @@
+T1	Topic 0 5	Lorie
+T2	Subjectiveme_negative 16 21	moche
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 36 88	on lui a versé un pot de fond de teint sur la gueule
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

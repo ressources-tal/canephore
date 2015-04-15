@@ -1,0 +1,11 @@
+T1	Topic 1 14	Sofia_Essaidi
+T2	Subjectiveme_positive 29 34	Belle
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_positive 69 74	Belle
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T4	Subjectiveme_positive 104 110	Classe
+T5	Subjectiveme_positive 114 122	Élégance
+T6	Subjectiveme_positive 127 133	Beauté
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R4	isPositiveOpinionOn Arg1:T5 Arg2:T1	
+R5	isPositiveOpinionOn Arg1:T6 Arg2:T1	

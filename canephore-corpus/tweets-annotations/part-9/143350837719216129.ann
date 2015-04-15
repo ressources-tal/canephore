@@ -1,0 +1,5 @@
+T2	Subjectiveme_positive 28 33	fière
+T1	Topic 38 49	Miss France
+T3	Aspect 55 65	Alsacienne
+R1	isAspectOf Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T3	

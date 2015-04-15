@@ -1,0 +1,5 @@
+T1	Topic 12 24	miss réunion
+T2	Aspect 3 8	tenue
+T3	Subjectiveme_positive 32 37	mieux
+R1	isAspectOf Arg1:T2 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

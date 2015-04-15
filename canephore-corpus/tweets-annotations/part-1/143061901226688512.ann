@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 23 30	pas mal
+T2	Topic 0 16	Miss Midi-Pyréné
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

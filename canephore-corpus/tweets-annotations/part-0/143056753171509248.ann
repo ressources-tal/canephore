@@ -1,0 +1,5 @@
+T1	Topic 0 10	Miss Corse
+T2	Aspect 16 20	tête
+T3	Subjectiveme_negative 21 30	de cochon
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

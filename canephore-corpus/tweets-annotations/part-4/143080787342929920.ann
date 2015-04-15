@@ -1,0 +1,7 @@
+T1	Topic 12 27	Miss Guadeloupe
+T2	Topic 56 71	Miss Martinique
+T4	Subjectiveme_positive 28 36	meritait
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+T3	Negator 47 55	plus que
+R2	Negates Arg1:T3 Arg2:T4	
+R3	isNegativeOpinionOn Arg1:T4 Arg2:T2	

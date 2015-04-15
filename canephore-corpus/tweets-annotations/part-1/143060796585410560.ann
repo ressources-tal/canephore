@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 18 24	mignon
+T2	Topic 4 12	danseurs
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

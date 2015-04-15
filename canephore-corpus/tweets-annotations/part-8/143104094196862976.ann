@@ -1,0 +1,7 @@
+T1	Topic 63 82	nouvelle MissFrance
+T2	Subjectiveme_positive 50 55	belle
+T4	Negator 56 59	que
+R1	Negates Arg1:T4 Arg2:T2	
+T3	Topic 14 20	Sophie
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R3	isNegativeOpinionOn Arg1:T2 Arg2:T1	

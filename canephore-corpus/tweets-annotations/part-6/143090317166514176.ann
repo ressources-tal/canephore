@@ -1,0 +1,5 @@
+T1	Topic 38 52	Miss Bourgogne
+T2	Topic 23 34	Miss Guyane
+T3	Subjectiveme_positive 10 16	belles
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

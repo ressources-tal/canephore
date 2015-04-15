@@ -1,0 +1,3 @@
+T2	Topic 30 43	Valérie Bègue
+T1	Subjectiveme_positive 25 29	Vive
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

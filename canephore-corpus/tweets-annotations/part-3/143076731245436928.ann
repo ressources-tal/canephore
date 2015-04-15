@@ -1,0 +1,6 @@
+T2	Topic 31 45	Sylvie Tellier
+T3	Topic 87 98	Miss Alsace
+T4	Subjectiveme_positive 121 126	Belle
+T6	Subjectiveme_positive 52 61	améliorée
+R1	isPositiveOpinionOn Arg1:T6 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T3	

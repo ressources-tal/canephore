@@ -1,0 +1,7 @@
+T1	Topic 29 41	Miss Réunion
+T2	Aspect 21 28	sourire
+T3	Subjectiveme_positive 16 20	beau
+T4	Negator 9 12	pas
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	Negates Arg1:T4 Arg2:T3	
+R3	isAspectOf Arg1:T2 Arg2:T1	

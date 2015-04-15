@@ -1,0 +1,3 @@
+T2	Topic 0 11	Miss Guyane
+T3	Subjectiveme_positive 18 25	pas mal
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	

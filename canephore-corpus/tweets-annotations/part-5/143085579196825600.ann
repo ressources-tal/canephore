@@ -1,0 +1,5 @@
+T1	Topic 16 47	LT de l'élection de #MissFrance
+T2	Topic 73 104	principe même de la #MissFrance
+T3	Subjectiveme_negative 58 65	inutile
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	

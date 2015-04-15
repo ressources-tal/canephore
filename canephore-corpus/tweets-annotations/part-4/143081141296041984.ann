@@ -1,0 +1,5 @@
+T2	Topic 58 71	Malika Menard
+T3	Subjectiveme_positive 82 92	magnifique
+T1	Subjectiveme_positive 21 36	digne de l'être
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

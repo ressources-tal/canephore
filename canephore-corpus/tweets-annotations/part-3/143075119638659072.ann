@@ -1,0 +1,5 @@
+T1	Aspect 3 9	regard
+T2	Topic 22 35	jury masculin
+T3	Subjectiveme_negative 10 18	lubrique
+R1	isAspectOf Arg1:T1 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

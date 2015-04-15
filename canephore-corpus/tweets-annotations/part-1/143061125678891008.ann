@@ -1,0 +1,3 @@
+T3	Subjectiveme_positive 41 46	belle
+T1	Topic 3 26	Miss Champagne-Ardennes
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	

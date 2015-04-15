@@ -1,0 +1,5 @@
+T1	Aspect 38 43	robes
+T2	Topic 15 28	ancienne miss
+R1	isAspectOf Arg1:T1 Arg2:T2	
+T3	Subjectiveme_negative 44 83	ont dirait Ie papier des quaIity street
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

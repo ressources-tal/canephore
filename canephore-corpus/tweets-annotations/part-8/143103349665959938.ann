@@ -1,0 +1,7 @@
+T2	Aspect 19 23	robe
+T4	Subjectiveme_positive 62 72	magnifique
+T1	Topic 28 42	LauryThilleman
+T3	Subjectiveme_positive 2 6	aime
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T2	

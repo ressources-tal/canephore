@@ -1,0 +1,5 @@
+T1	Topic 33 44	miss Alsace
+T2	Subjectiveme_positive 49 55	valide
+T4	Subjectiveme_positive 27 32	jolie
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

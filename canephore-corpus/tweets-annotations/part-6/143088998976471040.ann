@@ -1,0 +1,9 @@
+T1	Subjectiveme_negative 56 67	catastrophe
+T2	Topic 0 11	Miss Guyane
+T3	Aspect 39 46	cheveux
+T4	Aspect 23 29	visage
+T5	Subjectiveme_positive 17 22	jolie
+R1	isPositiveOpinionOn Arg1:T5 Arg2:T4	
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T3	
+R3	isAspectOf Arg1:T4 Arg2:T2	
+R4	isAspectOf Arg1:T3 Arg2:T2	

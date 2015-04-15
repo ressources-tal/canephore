@@ -1,0 +1,5 @@
+T1	Topic 0 13	Miss Bretagne
+T2	Aspect 25 28	œil
+T3	Subjectiveme_negative 29 57	3 fois plus gros que l'autre
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

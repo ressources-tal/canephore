@@ -1,0 +1,5 @@
+T1	Topic 0 16	Miss Côte d'Azur
+T2	Aspect 37 43	spitch
+T3	Subjectiveme_positive 18 29	rien à dire
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

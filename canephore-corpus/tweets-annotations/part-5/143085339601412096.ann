@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 0 8	Endavant
+T2	Topic 9 24	Miss Roussillon
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

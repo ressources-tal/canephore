@@ -1,0 +1,3 @@
+T1	Topic 21 33	5 finalistes
+T2	Subjectiveme_positive 10 16	belles
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

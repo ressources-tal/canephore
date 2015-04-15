@@ -1,0 +1,9 @@
+T1	Topic 58 71	Midi-Pyrénées
+T2	Topic 35 47	Miss Réunion
+T3	Subjectiveme_positive 10 19	favorites
+T4	Topic 73 81	Bretagne
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+T5	Topic 49 56	Guyanne
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T5	
+R3	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R4	isPositiveOpinionOn Arg1:T3 Arg2:T4	

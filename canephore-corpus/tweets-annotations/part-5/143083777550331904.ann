@@ -1,0 +1,7 @@
+T1	Subjectiveme_negative 49 58	fait peur
+T3	Topic 0 12	Miss Midi Py
+T2	Subjectiveme_negative 17 32	sait ni marcher
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T3	
+T4	Subjectiveme_negative 34 44	ni sourire
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T3	
+R3	isNegativeOpinionOn Arg1:T1 Arg2:T3	

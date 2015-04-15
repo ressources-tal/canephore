@@ -1,0 +1,7 @@
+T2	Topic 33 37	robe
+T4	Topic 58 68	chaussures
+T1	Negator 24 26	ni
+T3	Subjectiveme_positive 75 92	mettent en valeur
+R1	Negates Arg1:T1 Arg2:T3	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T4	
+R3	isNegativeOpinionOn Arg1:T3 Arg2:T2	

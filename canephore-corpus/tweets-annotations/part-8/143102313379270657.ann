@@ -1,0 +1,5 @@
+T2	Topic 8 12	jury
+T1	Subjectiveme_negative 32 41	autopromo
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+T3	Subjectiveme_positive 0 4	Vive
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

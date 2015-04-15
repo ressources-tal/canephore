@@ -1,0 +1,5 @@
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T0	
+T2	Aspect 18 24	visage
+T0	Topic 0 12	Miss Reunion
+T1	Subjectiveme_negative 25 32	bouffie

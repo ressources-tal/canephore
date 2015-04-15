@@ -1,0 +1,3 @@
+T1	Topic 7 12	Lorie
+T3	Subjectiveme_negative 81 100	pourri les oreilles
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	

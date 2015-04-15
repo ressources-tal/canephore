@@ -1,0 +1,5 @@
+T1	Subjectiveme_positive 11 15	bien
+T2	Topic 16 27	Miss Guyane
+T3	Aspect 5 10	parle
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T2	

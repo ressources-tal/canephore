@@ -1,0 +1,3 @@
+T2	Subjectiveme_positive 29 34	belle
+T1	Topic 0 14	Laury Thilmann
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

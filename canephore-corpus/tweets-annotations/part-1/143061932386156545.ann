@@ -1,0 +1,5 @@
+R0	isNegativeOpinionOn Arg1:T1 Arg2:T0	
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T0	
+T2	Subjectiveme_positive 81 86	belle
+T0	Topic 0 18	Miss Midi-Pyrénées
+T1	Subjectiveme_negative 23 28	moche

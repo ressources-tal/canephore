@@ -1,0 +1,3 @@
+T1	Topic 10 22	Miss Mayotte
+T2	Subjectiveme_positive 5 9	bien
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

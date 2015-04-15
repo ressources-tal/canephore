@@ -1,0 +1,5 @@
+T2	Topic 23 36	miss bretagne
+T1	Subjectiveme_negative 2 22	raconte trop sa life
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+T3	Subjectiveme_negative 50 54	Fake
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	

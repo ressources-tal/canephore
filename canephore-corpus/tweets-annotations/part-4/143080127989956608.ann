@@ -1,0 +1,5 @@
+T1	Topic 56 74	Nouvelle Calédonie
+T2	Topic 78 91	Miss Picardie
+T3	Subjectiveme_positive 35 41	belles
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

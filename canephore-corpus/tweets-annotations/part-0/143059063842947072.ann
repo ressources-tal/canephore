@@ -1,0 +1,7 @@
+T1	Topic 13 28	Miss Guadeloupe
+T2	Subjectiveme_positive 41 46	belle
+T4	Negator 33 36	pas
+R2	Negates Arg1:T4 Arg2:T2	
+T3	Aspect 47 51	peau
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T3	
+R3	isAspectOf Arg1:T3 Arg2:T1	

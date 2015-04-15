@@ -1,0 +1,12 @@
+T1	Topic 25 48	les miss de cette année
+T2	Topic 97 108	miss centre
+T4	Subjectiveme_positive 115 120	belle
+T5	Subjectiveme_negative 18 22	déçu
+T3	Subjectiveme_negative 64 71	maigres
+T6	Negator 75 81	aucune
+T7	Negator 90 96	a part
+R1	Negates Arg1:T6 Arg2:T4	
+R2	Negates Arg1:T7 Arg2:T4	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+R4	isNegativeOpinionOn Arg1:T4 Arg2:T1	
+R5	isNegativeOpinionOn Arg1:T5 Arg2:T1	

@@ -1,0 +1,5 @@
+T1	Topic 4 17	Miss Bretagne
+T2	Subjectiveme_negative 64 70	triche
+T3	Aspect 51 60	qualifiée
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T1	

@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 9 16	sublime
+T2	Topic 25 29	robe
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

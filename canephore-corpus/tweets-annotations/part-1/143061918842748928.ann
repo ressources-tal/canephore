@@ -1,0 +1,3 @@
+T2	Subjectiveme_positive 21 25	mimi
+T1	Topic 26 38	Miss Midi-Py
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

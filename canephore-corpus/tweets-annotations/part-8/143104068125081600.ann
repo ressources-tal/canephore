@@ -1,0 +1,7 @@
+T1	Topic 0 16	Miss France 2012
+T2	Negator 42 45	pas
+T3	Aspect 56 66	maquillage
+T4	Subjectiveme_negative 46 51	ruiné
+R1	isAspectOf Arg1:T3 Arg2:T1	
+R2	Negates Arg1:T2 Arg2:T4	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T3	

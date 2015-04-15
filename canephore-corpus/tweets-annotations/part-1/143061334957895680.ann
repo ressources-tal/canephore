@@ -1,0 +1,5 @@
+T1	Subjectiveme_positive 12 21	putain de
+T2	Aspect 22 29	sourire
+T3	Topic 0 6	Manika
+R1	isAspectOf Arg1:T2 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T2	

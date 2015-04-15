@@ -1,0 +1,3 @@
+T3	Subjectiveme_positive 9 13	mimi
+T1	Topic 14 28	miss Normandie
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	

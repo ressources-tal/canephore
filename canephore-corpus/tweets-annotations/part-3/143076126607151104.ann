@@ -1,0 +1,5 @@
+T1	Topic 82 93	Miss Centre
+T2	Subjectiveme_positive 8 17	préférées
+T6	Topic 97 103	Tahiti
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T6	

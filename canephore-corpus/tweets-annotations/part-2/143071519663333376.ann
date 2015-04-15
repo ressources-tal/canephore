@@ -1,0 +1,7 @@
+T3	Topic 33 40	Réunion
+T2	Subjectiveme_negative 0 9	Tu parles
+T1	Aspect 14 26	costume trad
+R1	isAspectOf Arg1:T1 Arg2:T3	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T4	Subjectiveme_negative 85 91	facile
+R3	isNegativeOpinionOn Arg1:T4 Arg2:T1	

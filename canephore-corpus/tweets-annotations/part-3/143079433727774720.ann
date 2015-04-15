@@ -1,0 +1,7 @@
+T1	Subjectiveme_negative 23 28	moche
+T2	Negator 35 38	pas
+T3	Topic 39 51	Miss Reunion
+T4	Topic 58 73	Miss Martinique
+R1	Negates Arg1:T2 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T3	
+R3	isNegativeOpinionOn Arg1:T1 Arg2:T4	

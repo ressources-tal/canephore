@@ -1,0 +1,9 @@
+R4	isPositiveOpinionOn Arg1:T5 Arg2:T4	
+R1	isPositiveOpinionOn Arg1:T5 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T5 Arg2:T2	
+R3	isPositiveOpinionOn Arg1:T5 Arg2:T3	
+T4	Topic 79 88	Languedoc
+T5	Subjectiveme_positive 20 24	aime
+T2	Topic 58 65	Réunion
+T3	Topic 67 77	Roussillon
+T1	Topic 50 56	Alsace

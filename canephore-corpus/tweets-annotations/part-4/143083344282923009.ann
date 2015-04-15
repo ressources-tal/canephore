@@ -1,0 +1,3 @@
+T1	Subjectiveme_negative 22 27	moche
+T2	Topic 8 12	robe
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	

@@ -1,0 +1,8 @@
+T1	Topic 5 18	Miss Bretagne
+T4	Subjectiveme_positive 45 50	belle
+T5	Subjectiveme_positive 123 128	mieux
+T7	Negator 41 44	pas
+R1	isNegativeOpinionOn Arg1:T4 Arg2:T1	
+R2	Negates Arg1:T7 Arg2:T4	
+T3	Topic 89 107	Miss ile de france
+R3	isPositiveOpinionOn Arg1:T5 Arg2:T3	

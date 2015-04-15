@@ -1,0 +1,5 @@
+T1	Topic 33 47	Miss Normandie
+T3	Subjectiveme_positive 23 30	pas mal
+T2	Topic 0 18	Miss midi Pyrénées
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

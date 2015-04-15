@@ -1,0 +1,7 @@
+T1	Topic 39 50	Miss France
+T2	Subjectiveme_positive 23 28	belle
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T4	Subjectiveme_positive 32 38	simple
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+T5	Subjectiveme_positive 12 17	happy
+R3	isPositiveOpinionOn Arg1:T5 Arg2:T1	

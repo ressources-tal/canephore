@@ -1,0 +1,11 @@
+T1	Topic 0 15	Miss Martinique
+T2	Aspect 46 53	épaules
+T5	Subjectiveme_negative 26 36	mal foutue
+T3	Subjectiveme_negative 39 43	trop
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+T4	Subjectiveme_negative 55 61	pas de
+T6	Aspect 62 68	hanche
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T6	
+R3	isNegativeOpinionOn Arg1:T5 Arg2:T1	
+R4	isAspectOf Arg1:T2 Arg2:T1	
+R5	isAspectOf Arg1:T6 Arg2:T1	

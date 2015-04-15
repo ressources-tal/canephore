@@ -1,0 +1,5 @@
+T1	Topic 0 13	Malika Menard
+T2	Aspect 30 34	yeux
+T3	Subjectiveme_positive 25 29	beau
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

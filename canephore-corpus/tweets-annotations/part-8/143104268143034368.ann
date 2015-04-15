@@ -1,0 +1,3 @@
+T4	Topic 125 131	Alsace
+T5	Subjectiveme_positive 87 92	jolie
+R1	isPositiveOpinionOn Arg1:T5 Arg2:T4	

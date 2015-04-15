@@ -1,0 +1,5 @@
+T1	Topic 19 27	Bretagne
+T3	Subjectiveme_negative 49 54	honte
+T4	Subjectiveme_negative 12 17	moche
+R1	isNegativeOpinionOn Arg1:T4 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

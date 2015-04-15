@@ -1,0 +1,5 @@
+T1	Topic 11 26	Miss Martinique
+T2	Subjectiveme_negative 40 49	de cheval
+T3	Aspect 33 39	figure
+R1	isAspectOf Arg1:T3 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T3	

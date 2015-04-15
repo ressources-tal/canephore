@@ -1,0 +1,6 @@
+T2	Topic 7 18	Miss Centre
+T3	Topic 54 68	Miss Orléanais
+T4	Subjectiveme_positive 69 84	sauve l'affaire
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T3	
+T1	Subjectiveme_positive 23 48	physiquement intelligente
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T2	

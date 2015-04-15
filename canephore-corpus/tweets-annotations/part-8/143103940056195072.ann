@@ -1,0 +1,8 @@
+T1	Topic 60 71	Miss Alsace
+T2	Topic 26 34	les Miss
+T3	Subjectiveme_positive 99 104	jolie
+T4	Negator 8 11	pas
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T5	Subjectiveme_positive 12 21	convaincu
+R1	Negates Arg1:T4 Arg2:T5	
+R3	isNegativeOpinionOn Arg1:T5 Arg2:T2	

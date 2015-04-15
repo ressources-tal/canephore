@@ -1,0 +1,9 @@
+T1	Topic 0 13	Miss Bretagne
+T3	Subjectiveme_positive 79 87	craquant
+T4	Subjectiveme_negative 103 109	louche
+T5	Subjectiveme_positive 44 49	adore
+T6	Aspect 61 71	strabismes
+R1	isAspectOf Arg1:T6 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T5 Arg2:T6	
+R3	isPositiveOpinionOn Arg1:T3 Arg2:T6	
+R4	isNegativeOpinionOn Arg1:T4 Arg2:T6	

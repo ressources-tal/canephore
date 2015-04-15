@@ -1,0 +1,7 @@
+T1	Topic 9 26	les miss des îles
+T2	Subjectiveme_positive 47 57	naturelles
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Negator 74 78	Sauf
+T4	Topic 79 86	Réunion
+R2	Negates Arg1:T3 Arg2:T2	
+R3	isNegativeOpinionOn Arg1:T2 Arg2:T4	

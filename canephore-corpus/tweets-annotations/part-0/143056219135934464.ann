@@ -1,0 +1,5 @@
+T1	Topic 26 30	miss
+T2	Aspect 3 10	sourire
+T3	Subjectiveme_positive 11 21	légendaire
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

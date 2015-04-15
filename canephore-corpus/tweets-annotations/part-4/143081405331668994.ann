@@ -1,0 +1,7 @@
+T2	Topic 47 56	Languedoc
+T4	Topic 60 67	Réunion
+T5	Topic 39 45	Alsace
+T1	Subjectiveme_positive 11 19	potables
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T5	
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+R3	isPositiveOpinionOn Arg1:T1 Arg2:T4	

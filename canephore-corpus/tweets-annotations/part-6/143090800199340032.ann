@@ -1,0 +1,9 @@
+T1	Topic 0 13	Miss Bretagne
+T2	Subjectiveme_negative 20 24	sale
+T3	Aspect 25 31	gueule
+T4	Aspect 40 45	corps
+T5	Subjectiveme_positive 46 52	de ouf
+R1	isPositiveOpinionOn Arg1:T5 Arg2:T4	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T3	
+R3	isAspectOf Arg1:T3 Arg2:T1	
+R4	isAspectOf Arg1:T4 Arg2:T1	

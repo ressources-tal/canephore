@@ -1,0 +1,5 @@
+T1	Topic 33 49	Miss Côte d'Azur
+T2	Aspect 16 23	sourire
+T3	Subjectiveme_negative 24 31	Colgate
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

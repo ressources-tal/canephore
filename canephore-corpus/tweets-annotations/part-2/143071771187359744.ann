@@ -1,0 +1,13 @@
+T1	Topic 14 29	Miss Guadeloupe
+T2	Topic 87 102	Miss Martinique
+T3	Topic 72 84	Miss Réunion
+T4	Topic 32 43	Miss Tahiti
+T5	Subjectiveme_positive 117 123	belles
+T6	Aspect 4 10	tenues
+T7	Topic 46 69	Miss Nouvelle-Calédonie
+R1	isAspectOf Arg1:T6 Arg2:T1	
+R2	isAspectOf Arg1:T6 Arg2:T4	
+R3	isAspectOf Arg1:T6 Arg2:T7	
+R4	isAspectOf Arg1:T6 Arg2:T3	
+R5	isAspectOf Arg1:T6 Arg2:T2	
+R6	isPositiveOpinionOn Arg1:T5 Arg2:T6	

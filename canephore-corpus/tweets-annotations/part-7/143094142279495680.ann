@@ -1,0 +1,8 @@
+T1	Topic 42 54	5 finalistes
+T2	Topic 83 94	MissReunion
+T3	Subjectiveme_positive 125 134	naturelle
+T4	Subjectiveme_negative 22 28	moches
+T5	Subjectiveme_positive 116 121	jolie
+R1	isPositiveOpinionOn Arg1:T5 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R3	isNegativeOpinionOn Arg1:T4 Arg2:T1	

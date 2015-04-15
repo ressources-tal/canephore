@@ -1,0 +1,7 @@
+R1	Negates Arg1:T3 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T2	Subjectiveme_positive 39 44	belle
+T3	Negator 27 30	pas
+T1	Topic 6 19	Miss Provence
+T4	Subjectiveme_positive 0 4	Yeah
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T1	

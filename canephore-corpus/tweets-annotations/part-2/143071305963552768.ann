@@ -1,0 +1,5 @@
+T1	Topic 30 41	Miss Alsace
+T2	Aspect 10 17	costume
+T3	Subjectiveme_negative 74 81	horreur
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

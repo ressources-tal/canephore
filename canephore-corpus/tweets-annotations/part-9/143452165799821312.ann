@@ -1,0 +1,3 @@
+T1	Topic 35 47	Miss réunion
+T2	Subjectiveme_positive 54 62	parfaite
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

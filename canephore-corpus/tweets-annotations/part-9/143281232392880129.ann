@@ -1,0 +1,5 @@
+T2	Subjectiveme_positive 82 87	belle
+T3	Topic 49 60	la nouvelle
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+T1	Topic 90 96	Alsace
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

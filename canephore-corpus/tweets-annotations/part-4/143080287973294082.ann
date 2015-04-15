@@ -1,0 +1,11 @@
+T1	Topic 0 15	Miss Roussillon
+T2	Topic 30 38	Bretagne
+T3	Topic 57 65	Provence
+T4	Subjectiveme_positive 80 86	belles
+T5	Topic 40 53	midi Pyrénées
+T6	Topic 17 28	côte d'azur
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T5	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+R4	isPositiveOpinionOn Arg1:T4 Arg2:T6	
+R5	isPositiveOpinionOn Arg1:T4 Arg2:T1	

@@ -1,0 +1,5 @@
+T1	Topic 0 8	Lorraine
+T2	Subjectiveme_negative 21 28	bizarre
+T3	Aspect 15 20	dents
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T1	

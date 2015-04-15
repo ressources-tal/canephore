@@ -1,0 +1,6 @@
+T1	Topic 41 53	Miss Reunion
+T2	Subjectiveme_negative 6 13	pourris
+T3	Topic 0 5	Choix
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T3	
+T4	Subjectiveme_positive 35 40	meiux
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T1	

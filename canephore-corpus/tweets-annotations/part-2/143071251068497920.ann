@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 11 16	forcé
+T3	Aspect 3 10	sourire
+T2	Topic 20 33	miss limousin
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T2	

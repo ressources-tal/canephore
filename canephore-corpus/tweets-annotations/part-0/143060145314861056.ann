@@ -1,0 +1,7 @@
+T1	Topic 0 10	Miss corse
+T2	Subjectiveme_positive 28 33	adore
+T3	Subjectiveme_positive 20 25	bombe
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T4	Subjectiveme_positive 36 48	Coup de cœur
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T1	

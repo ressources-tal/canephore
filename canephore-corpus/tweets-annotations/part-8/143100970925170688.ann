@@ -1,0 +1,7 @@
+R1	isAspectOf Arg1:T2 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R3	isNegativeOpinionOn Arg1:T4 Arg2:T1	
+T4	Subjectiveme_negative 90 96	merder
+T2	Aspect 42 47	parle
+T3	Subjectiveme_positive 48 52	bien
+T1	Topic 25 36	Miss Alsace

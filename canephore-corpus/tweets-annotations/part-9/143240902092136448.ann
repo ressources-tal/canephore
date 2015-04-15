@@ -1,0 +1,5 @@
+T1	Topic 3 14	Miss Alsace
+T3	Negator 33 36	pas
+T2	Subjectiveme_positive 37 44	tip-top
+R1	Negates Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

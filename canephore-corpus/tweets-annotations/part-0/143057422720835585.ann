@@ -1,0 +1,5 @@
+T1	Subjectiveme_positive 31 36	belle
+T2	Topic 37 52	Miss Martinique
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+T3	Topic 0 14	Anaïs Corosine
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T3	

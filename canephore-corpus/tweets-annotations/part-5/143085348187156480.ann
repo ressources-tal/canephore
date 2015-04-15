@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 19 26	pas mal
+T2	Topic 0 14	Miss Roussilon
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

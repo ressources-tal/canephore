@@ -1,0 +1,5 @@
+T2	Aspect 25 30	têtes
+T4	Topic 39 54	les #missFrance
+T5	Subjectiveme_negative 31 38	chelous
+R1	isAspectOf Arg1:T2 Arg2:T4	
+R2	isNegativeOpinionOn Arg1:T5 Arg2:T2	

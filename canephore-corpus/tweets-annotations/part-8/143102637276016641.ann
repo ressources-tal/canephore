@@ -1,0 +1,5 @@
+T1	Topic 0 13	Malika Menard
+T2	Subjectiveme_positive 33 38	belle
+T4	Negator 29 32	pas
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+R2	Negates Arg1:T4 Arg2:T2	

@@ -1,0 +1,7 @@
+T2	Subjectiveme_positive 52 58	belles
+T4	Negator 48 51	pas
+R1	Negates Arg1:T4 Arg2:T2	
+T1	Topic 3 12	sélection
+T5	Subjectiveme_negative 15 23	inquiète
+R2	isNegativeOpinionOn Arg1:T5 Arg2:T1	
+R3	isNegativeOpinionOn Arg1:T2 Arg2:T1	

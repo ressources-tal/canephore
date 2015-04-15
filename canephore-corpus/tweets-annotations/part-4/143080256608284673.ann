@@ -1,0 +1,6 @@
+T2	Topic 22 33	missréunion
+T3	Subjectiveme_positive 34 36	OK
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+T4	Topic 39 53	missmartinique
+T5	Subjectiveme_negative 54 60	boffff
+R2	isNegativeOpinionOn Arg1:T5 Arg2:T4	

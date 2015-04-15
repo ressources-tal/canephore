@@ -1,0 +1,5 @@
+T1	Topic 9 21	miss réunion
+T3	Negator 26 29	pas
+T2	Subjectiveme_negative 30 69	l'air d'avoir appris son truc par coeur
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R2	Negates Arg1:T3 Arg2:T2	

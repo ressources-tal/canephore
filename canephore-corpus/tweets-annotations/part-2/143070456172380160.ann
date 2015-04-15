@@ -1,0 +1,5 @@
+T1	Topic 3 16	Miss Bretagne
+T2	Aspect 23 29	gueule
+T3	Subjectiveme_negative 30 49	de poney qui louche
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

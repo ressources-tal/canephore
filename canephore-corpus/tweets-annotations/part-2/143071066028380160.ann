@@ -1,0 +1,5 @@
+T1	Topic 0 11	Miss Guyane
+T2	Subjectiveme_positive 18 23	belle
+T3	Aspect 24 28	robe
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T1	

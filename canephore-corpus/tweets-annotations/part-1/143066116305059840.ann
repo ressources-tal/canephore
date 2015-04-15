@@ -1,0 +1,5 @@
+T1	Topic 3 21	Miss Pays de Loire
+T2	Subjectiveme_positive 65 70	belle
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Negator 0 2	Si
+R2	Negates Arg1:T3 Arg2:T2	

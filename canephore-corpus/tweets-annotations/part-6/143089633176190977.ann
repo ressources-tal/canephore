@@ -1,0 +1,5 @@
+T1	Topic 8 19	miss alsace
+T2	Negator 34 37	pas
+T3	Subjectiveme_positive 43 53	bien foutu
+R1	Negates Arg1:T2 Arg2:T3	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

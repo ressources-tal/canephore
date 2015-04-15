@@ -1,0 +1,8 @@
+T1	Subjectiveme_positive 119 124	kiffe
+T2	Topic 86 92	Alsace
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+T3	Subjectiveme_positive 4 8	préf
+T4	Topic 18 24	Alsace
+T5	Topic 28 38	Guadeloupe
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T4	
+R3	isPositiveOpinionOn Arg1:T3 Arg2:T5	

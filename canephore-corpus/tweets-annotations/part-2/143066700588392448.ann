@@ -1,0 +1,3 @@
+T1	Topic 0 11	Miss Tahiti
+T2	Subjectiveme_positive 31 37	charme
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

@@ -1,0 +1,5 @@
+T1	Topic 15 32	miss de ma région
+T2	Subjectiveme_positive 2 6	aime
+T3	Topic 59 69	misscentre
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T3	

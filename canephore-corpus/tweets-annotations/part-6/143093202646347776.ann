@@ -1,0 +1,5 @@
+T1	Topic 51 62	Côte d'Azur
+T2	Subjectiveme_positive 22 31	favorites
+T3	Topic 66 73	Réunion
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T3	

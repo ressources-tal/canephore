@@ -1,0 +1,7 @@
+T2	Topic 32 43	miss Tahiti
+T1	Subjectiveme_positive 15 20	belle
+T3	Negator 7 10	pas
+T4	Negator 25 31	A part
+R1	Negates Arg1:T3 Arg2:T1	
+R2	Negates Arg1:T4 Arg2:T1	
+R3	isPositiveOpinionOn Arg1:T1 Arg2:T2	

@@ -1,0 +1,5 @@
+T1	Topic 21 32	miss alsace
+T3	Subjectiveme_negative 0 8	Horrible
+T4	Aspect 11 17	accent
+R1	isAspectOf Arg1:T4 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T4	

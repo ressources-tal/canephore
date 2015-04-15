@@ -1,0 +1,7 @@
+T1	Topic 0 5	Lorie
+T2	Topic 9 14	Sofia
+T3	Aspect 48 53	album
+T4	Subjectiveme_negative 59 71	on s'en fout
+R1	isNegativeOpinionOn Arg1:T4 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T2	
+R3	isAspectOf Arg1:T3 Arg2:T1	

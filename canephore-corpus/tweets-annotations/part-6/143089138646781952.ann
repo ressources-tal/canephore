@@ -1,0 +1,5 @@
+T1	Topic 52 66	LauryThilleman
+T2	Subjectiveme_positive 82 87	belle
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_positive 27 46	dûre de faire mieux
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

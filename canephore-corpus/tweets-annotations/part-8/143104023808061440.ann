@@ -1,0 +1,6 @@
+T1	Topic 0 12	Miss Réunion
+T3	Subjectiveme_positive 22 30	préférée
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T2	Subjectiveme_positive 59 64	choix
+T5	Topic 34 45	Miss Alsace
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T5	

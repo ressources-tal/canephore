@@ -1,0 +1,12 @@
+T2	Subjectiveme_positive 51 60	préférées
+T3	Subjectiveme_positive 13 17	aime
+T4	Topic 0 7	Suzanne
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T4	
+T1	Topic 19 33	Miss France 85
+T5	Topic 66 70	1999
+T6	Topic 72 76	2011
+T7	Topic 80 84	2012
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R3	isPositiveOpinionOn Arg1:T2 Arg2:T5	
+R4	isPositiveOpinionOn Arg1:T2 Arg2:T6	
+R5	isPositiveOpinionOn Arg1:T2 Arg2:T7	

@@ -1,0 +1,5 @@
+T1	Topic 29 40	Miss Guyane
+T3	Subjectiveme_positive 64 69	Belle
+T4	Subjectiveme_positive 45 49	best
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

@@ -1,0 +1,6 @@
+T1	Subjectiveme_negative 118 121	bof
+T2	Topic 4 12	musiques
+T3	Subjectiveme_negative 44 52	clichées
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+T4	Topic 56 71	Miss Guadeloupe
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T4	

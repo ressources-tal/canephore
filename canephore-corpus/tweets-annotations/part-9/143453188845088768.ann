@@ -1,0 +1,9 @@
+T1	Topic 39 51	Miss Reunion
+T2	Topic 71 82	Miss Alsace
+T3	Subjectiveme_positive 61 66	jolie
+T7	Negator 67 70	que
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R3	Negates Arg1:T7 Arg2:T3	
+R4	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+T4	Subjectiveme_positive 105 113	méritait
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T1	

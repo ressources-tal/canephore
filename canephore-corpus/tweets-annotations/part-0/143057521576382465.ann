@@ -1,0 +1,5 @@
+T1	Topic 22 36	Sylvie Tellier
+T2	Aspect 5 9	robe
+R1	isAspectOf Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 10 16	atroce
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	

@@ -1,0 +1,3 @@
+T2	Subjectiveme_positive 18 26	favorite
+T1	Topic 0 10	Miss Loire
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

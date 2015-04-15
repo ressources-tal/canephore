@@ -1,0 +1,9 @@
+T1	Topic 46 51	robes
+T2	Subjectiveme_positive 58 63	beaux
+T3	Subjectiveme_positive 40 45	belle
+T4	Topic 64 70	bijoux
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T4	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T5	Subjectiveme_positive 102 112	fais rêver
+R3	isPositiveOpinionOn Arg1:T5 Arg2:T1	
+R4	isPositiveOpinionOn Arg1:T5 Arg2:T4	

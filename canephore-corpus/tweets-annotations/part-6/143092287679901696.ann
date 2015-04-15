@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 97 108	Nazelestenu
+T3	Subjectiveme_negative 114 122	tropsexy
+T2	Topic 13 46	elections Miss France de Sylvie T
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	

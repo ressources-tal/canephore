@@ -1,0 +1,3 @@
+T3	Subjectiveme_positive 58 62	Vive
+T1	Topic 65 88	amitié Franco Allemande
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	

@@ -1,0 +1,5 @@
+T1	Topic 82 91	Le public
+T2	Negator 98 101	pas
+T3	Subjectiveme_positive 102 110	objectif
+R1	Negates Arg1:T2 Arg2:T3	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 62 70	pourries
+T2	Subjectiveme_positive 76 84	passable
+T3	Topic 4 12	chansons
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T3	
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	

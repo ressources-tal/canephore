@@ -1,0 +1,5 @@
+T1	Topic 16 31	Poitou-Charente
+T2	Aspect 5 12	sourire
+T3	Subjectiveme_positive 0 4	Beau
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

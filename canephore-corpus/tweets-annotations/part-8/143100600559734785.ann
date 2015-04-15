@@ -1,0 +1,6 @@
+T1	Subjectiveme_positive 11 20	suis pour
+T3	Topic 21 26	Lorie
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T3	
+T4	Topic 39 51	Franconville
+T2	Subjectiveme_positive 52 60	en force
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T4	

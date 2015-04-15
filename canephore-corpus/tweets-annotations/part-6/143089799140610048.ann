@@ -1,0 +1,5 @@
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T0	
+T2	Aspect 24 29	corps
+T0	Topic 0 13	Miss Bretagne
+T1	Subjectiveme_positive 19 23	beau

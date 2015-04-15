@@ -1,0 +1,7 @@
+T1	Subjectiveme_negative 13 24	catastrophe
+T2	Topic 39 47	les Miss
+T3	Topic 52 57	choré
+T4	Topic 32 37	robes
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T4	
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+R3	isPositiveOpinionOn Arg1:T1 Arg2:T3	

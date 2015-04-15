@@ -1,0 +1,8 @@
+T1	Topic 14 27	Malika Menard
+T2	Topic 1 13	MenardMalika
+T3	Subjectiveme_positive 53 62	meilleure
+T5	Subjectiveme_positive 111 116	belle
+R2	isPositiveOpinionOn Arg1:T5 Arg2:T2	
+R3	isPositiveOpinionOn Arg1:T5 Arg2:T1	
+R4	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R5	isPositiveOpinionOn Arg1:T3 Arg2:T2	

@@ -1,0 +1,7 @@
+T1	Topic 25 33	Provence
+T2	Topic 16 22	Alsace
+T3	Subjectiveme_positive 40 45	mieux
+T4	Topic 0 13	Pays-de-Loire
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R3	isPositiveOpinionOn Arg1:T3 Arg2:T4	

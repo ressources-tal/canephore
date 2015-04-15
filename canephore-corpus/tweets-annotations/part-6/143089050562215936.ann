@@ -1,0 +1,3 @@
+T1	Topic 41 54	Sofia_Essaidi
+T2	Subjectiveme_positive 34 39	belle
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

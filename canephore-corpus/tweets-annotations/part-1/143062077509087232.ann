@@ -1,0 +1,5 @@
+T1	Topic 0 14	Miss Normandie
+T2	Subjectiveme_negative 53 59	grosse
+T3	Aspect 60 66	bouche
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T1	

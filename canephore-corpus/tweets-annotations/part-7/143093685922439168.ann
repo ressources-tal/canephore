@@ -1,0 +1,5 @@
+T1	Topic 14 25	Miss Alsace
+T2	Topic 29 47	Miss Pays de Loire
+T4	Subjectiveme_positive 89 94	belle
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T1	

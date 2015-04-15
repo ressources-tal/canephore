@@ -1,0 +1,5 @@
+T1	Topic 92 104	MissBretagne
+T3	Aspect 54 57	nez
+R1	isAspectOf Arg1:T3 Arg2:T1	
+T2	Subjectiveme_negative 62 84	me pend dans la bouche
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T3	

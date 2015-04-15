@@ -1,0 +1,3 @@
+T1	Topic 12 24	miss réunion
+T2	Subjectiveme_positive 35 43	avantage
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

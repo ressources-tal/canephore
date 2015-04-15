@@ -1,0 +1,3 @@
+T1	Topic 1 11	MariePayet
+T2	Subjectiveme_negative 58 62	fier
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

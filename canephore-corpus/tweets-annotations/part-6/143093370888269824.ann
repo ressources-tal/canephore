@@ -1,0 +1,9 @@
+T1	Negator 58 64	A part
+T2	Topic 65 71	Alsace
+T4	Subjectiveme_negative 45 56	déguelasses
+T5	Topic 16 25	Les meufs
+R1	isNegativeOpinionOn Arg1:T4 Arg2:T5	
+R2	Negates Arg1:T1 Arg2:T4	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+T3	Subjectiveme_negative 94 98	bofs
+R4	isNegativeOpinionOn Arg1:T3 Arg2:T5	

@@ -1,0 +1,9 @@
+T2	Topic 50 61	Miss Tahiti
+T1	Aspect 38 46	folklore
+T3	Subjectiveme_positive 66 75	plus sexe
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isAspectOf Arg1:T1 Arg2:T2	
+T4	Negator 76 79	que
+R3	Negates Arg1:T4 Arg2:T3	
+T5	Topic 89 100	Miss Alsace
+R4	isNegativeOpinionOn Arg1:T3 Arg2:T5	

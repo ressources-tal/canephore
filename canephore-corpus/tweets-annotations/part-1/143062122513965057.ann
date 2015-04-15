@@ -1,0 +1,5 @@
+T1	Topic 4 30	noms des villes d’élection
+T3	Subjectiveme_positive 31 41	font rêver
+T2	Negator 47 52	oupas
+R1	Negates Arg1:T2 Arg2:T3	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

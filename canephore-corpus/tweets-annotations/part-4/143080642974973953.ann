@@ -1,0 +1,9 @@
+T1	Topic 0 14	Miss Bourgogne
+T2	Topic 29 40	Miss Guyane
+T5	Subjectiveme_negative 44 49	trans
+T6	Subjectiveme_negative 22 28	paysan
+R1	isNegativeOpinionOn Arg1:T6 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T5 Arg2:T2	
+T3	Topic 110 126	filles en France
+T4	Subjectiveme_positive 103 109	jolies
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T3	

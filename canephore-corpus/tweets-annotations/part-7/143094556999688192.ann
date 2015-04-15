@@ -1,0 +1,7 @@
+T2	Subjectiveme_positive 75 81	belles
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T1	Topic 14 24	miss Maroc
+T3	Negator 82 85	que
+R2	Negates Arg1:T3 Arg2:T2	
+T4	Topic 86 104	les miss de France
+R3	isNegativeOpinionOn Arg1:T2 Arg2:T4	

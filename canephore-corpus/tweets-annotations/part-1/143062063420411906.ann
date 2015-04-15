@@ -1,0 +1,3 @@
+T2	Subjectiveme_positive 82 89	sublime
+T1	Topic 23 36	Sonia Essaidi
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

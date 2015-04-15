@@ -1,0 +1,7 @@
+T2	Topic 0 13	Miss bretagne
+T3	Subjectiveme_positive 41 47	belles
+T5	Negator 37 40	pas
+R1	Negates Arg1:T5 Arg2:T3	
+T6	Topic 17 31	miss bourgogne
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T6	
+R3	isNegativeOpinionOn Arg1:T3 Arg2:T2	

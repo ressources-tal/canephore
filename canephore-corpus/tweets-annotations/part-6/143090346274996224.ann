@@ -1,0 +1,5 @@
+T1	Topic 0 13	Pays de Loire
+T2	Topic 41 47	Alsace
+T3	Subjectiveme_positive 18 27	convaincu
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

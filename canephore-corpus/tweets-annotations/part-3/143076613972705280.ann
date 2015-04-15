@@ -1,0 +1,3 @@
+T1	Topic 46 55	Normandie
+T4	Subjectiveme_positive 56 64	en force
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T1	

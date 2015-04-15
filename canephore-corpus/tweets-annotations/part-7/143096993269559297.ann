@@ -1,0 +1,6 @@
+T1	Topic 43 55	Miss Réunion
+T2	Topic 26 37	Miss France
+T4	Subjectiveme_negative 15 25	looooooong
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T2	
+T3	Subjectiveme_positive 40 42	Go
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	

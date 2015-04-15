@@ -1,0 +1,6 @@
+T1	Topic 0 6	GUYANE
+T2	Topic 21 27	GUYANE
+T3	Subjectiveme_positive 7 17	Présidente
+T4	Subjectiveme_positive 28 38	Présidente
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T2	

@@ -1,0 +1,5 @@
+R1	isPositiveOpinionOn Arg1:T0 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	
+T2	Aspect 16 20	yeux
+T0	Subjectiveme_positive 10 15	beaux
+T1	Topic 21 32	Miss Alsace

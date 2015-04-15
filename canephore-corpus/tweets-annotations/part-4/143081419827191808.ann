@@ -1,0 +1,7 @@
+T1	Topic 11 21	Roussillon
+T2	Topic 0 9	Bourgogne
+T3	Topic 25 33	Provence
+T4	Subjectiveme_negative 37 44	Beuragh
+R1	isNegativeOpinionOn Arg1:T4 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T1	
+R3	isNegativeOpinionOn Arg1:T4 Arg2:T3	

@@ -1,0 +1,5 @@
+T1	Topic 0 15	Miss Roussillon
+T2	Negator 16 19	pas
+T6	Subjectiveme_positive 20 25	zolie
+R1	Negates Arg1:T2 Arg2:T6	
+R2	isNegativeOpinionOn Arg1:T6 Arg2:T1	

@@ -1,0 +1,5 @@
+T4	Subjectiveme_negative 100 105	moche
+T1	Topic 33 47	les MissFrance
+T6	Subjectiveme_negative 20 27	saouler
+R2	isNegativeOpinionOn Arg1:T6 Arg2:T1	
+R1	isNegativeOpinionOn Arg1:T4 Arg2:T1	

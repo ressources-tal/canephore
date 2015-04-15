@@ -1,0 +1,7 @@
+T1	Topic 37 49	Miss Reunion
+T2	Subjectiveme_negative 86 91	moche
+T3	Negator 80 85	moins
+T4	Subjectiveme_positive 64 69	belle
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R1	Negates Arg1:T3 Arg2:T2	

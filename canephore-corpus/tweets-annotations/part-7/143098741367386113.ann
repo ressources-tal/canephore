@@ -1,0 +1,8 @@
+T2	Topic 87 98	Miss Alsace
+T3	Subjectiveme_negative 103 114	degueulasse
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+T1	Topic 31 42	5 finalists
+T4	Subjectiveme_negative 51 61	Ridiculous
+T5	Subjectiveme_negative 62 85	C'est du N'importe Quoi
+R2	isNegativeOpinionOn Arg1:T5 Arg2:T1	
+R3	isNegativeOpinionOn Arg1:T4 Arg2:T1	

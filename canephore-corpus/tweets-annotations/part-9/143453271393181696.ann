@@ -1,0 +1,5 @@
+T1	Aspect 78 92	cheveux rouges
+T2	Topic 97 107	MissFrance
+T3	Subjectiveme_positive 66 73	préfère
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isAspectOf Arg1:T1 Arg2:T2	

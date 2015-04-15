@@ -1,0 +1,7 @@
+T1	Topic 42 52	Roussillon
+T2	Topic 54 62	Provence
+T3	Topic 64 75	Cote d'Azur
+T5	Subjectiveme_positive 94 96	<3
+R1	isPositiveOpinionOn Arg1:T5 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T5 Arg2:T2	
+R3	isPositiveOpinionOn Arg1:T5 Arg2:T3	

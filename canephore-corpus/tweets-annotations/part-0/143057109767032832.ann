@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 24 32	soutener
+T2	Topic 37 46	LaRéunion
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

@@ -1,0 +1,3 @@
+T2	Topic 71 77	défilé
+T1	Subjectiveme_negative 78 86	de thons
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	

@@ -1,0 +1,13 @@
+T1	Subjectiveme_positive 2 7	adore
+T2	Topic 60 73	Ile de France
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+T3	Topic 8 20	Miss Reunion
+T4	Topic 22 40	Nouvelle Calédonie
+T5	Topic 42 48	Centre
+T6	Topic 50 58	Picardie
+T7	Topic 75 90	Poitou Charente
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T3	
+R3	isPositiveOpinionOn Arg1:T1 Arg2:T4	
+R4	isPositiveOpinionOn Arg1:T1 Arg2:T5	
+R5	isPositiveOpinionOn Arg1:T1 Arg2:T6	
+R6	isPositiveOpinionOn Arg1:T1 Arg2:T7	

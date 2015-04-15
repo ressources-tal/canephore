@@ -1,0 +1,7 @@
+T1	Topic 8 22	Sylvie Tellier
+T2	Aspect 109 119	maquillage
+T3	Subjectiveme_negative 120 128	horrible
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	
+T4	Subjectiveme_negative 67 96	s'arrange pas avec les années
+R3	isNegativeOpinionOn Arg1:T4 Arg2:T1	

@@ -1,0 +1,5 @@
+T1	Topic 13 25	Miss Réunion
+T2	Subjectiveme_positive 30 35	belle
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_positive 42 62	fait honneur à l'île
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

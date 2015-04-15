@@ -1,0 +1,5 @@
+T1	Topic 49 65	Miss France 2011
+T2	Aspect 43 48	boobs
+T3	Subjectiveme_positive 25 32	pas mal
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

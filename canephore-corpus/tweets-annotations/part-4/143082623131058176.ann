@@ -1,0 +1,7 @@
+T1	Topic 0 13	Miss Bretagne
+T4	Subjectiveme_negative 40 47	Picasso
+R1	isNegativeOpinionOn Arg1:T4 Arg2:T1	
+T2	Aspect 59 71	Sélectionner
+R2	isAspectOf Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 96 106	scandaleux
+R3	isNegativeOpinionOn Arg1:T3 Arg2:T2	

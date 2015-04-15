@@ -1,0 +1,6 @@
+T2	Subjectiveme_negative 33 40	vieille
+T3	Subjectiveme_negative 48 53	vieux
+T4	Aspect 41 45	robe
+T1	Topic 54 69	maillot de bain
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T4	

@@ -1,0 +1,3 @@
+T1	Topic 0 14	Miss Champagne
+T2	Subjectiveme_positive 15 22	why not
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

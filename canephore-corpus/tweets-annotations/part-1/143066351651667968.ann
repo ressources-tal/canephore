@@ -1,0 +1,3 @@
+T1	Topic 57 65	émission
+T2	Subjectiveme_negative 66 74	de m****
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	

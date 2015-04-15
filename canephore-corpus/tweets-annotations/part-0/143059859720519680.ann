@@ -1,0 +1,5 @@
+T1	Topic 21 26	Lorie
+T2	Topic 30 35	Sofia
+T4	Subjectiveme_positive 16 20	sexy
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T2	

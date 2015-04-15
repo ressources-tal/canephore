@@ -1,0 +1,3 @@
+T2	Subjectiveme_positive 20 28	heureuse
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T1	Topic 39 50	Miss Alsace

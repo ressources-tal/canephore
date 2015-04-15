@@ -1,0 +1,5 @@
+T1	Topic 0 12	Miss Réunion
+T2	Subjectiveme_negative 17 22	laide
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_positive 28 70	semble être la seule à posséder un cerveau
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

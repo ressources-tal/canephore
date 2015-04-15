@@ -1,0 +1,3 @@
+T1	Topic 1 15	Sylvie Tellier
+T2	Subjectiveme_negative 16 34	ressemble à Freddy
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	

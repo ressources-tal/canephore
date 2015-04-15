@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 98 112	suis plus pour
+T2	Topic 113 124	Miss Alsace
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

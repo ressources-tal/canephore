@@ -1,0 +1,3 @@
+T2	Subjectiveme_positive 118 123	Allez
+T1	Topic 124 132	Miss PDL
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

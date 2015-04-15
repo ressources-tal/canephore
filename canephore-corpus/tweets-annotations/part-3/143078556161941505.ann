@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 26 41	a fond derrière
+T2	Topic 42 67	miss Reunion #Marie Payet
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

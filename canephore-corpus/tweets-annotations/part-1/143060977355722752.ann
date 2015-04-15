@@ -1,0 +1,3 @@
+T1	Subjectiveme_negative 9 13	faut
+T2	Topic 14 21	sourire
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	

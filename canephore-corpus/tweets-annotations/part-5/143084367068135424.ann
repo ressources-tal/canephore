@@ -1,0 +1,3 @@
+T3	Subjectiveme_positive 73 82	meilleure
+T1	Topic 56 65	Languedoc
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	

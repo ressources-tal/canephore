@@ -1,0 +1,3 @@
+T1	Subjectiveme_negative 0 14	C'est quoi ces
+T2	Topic 15 28	mise en scène
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	

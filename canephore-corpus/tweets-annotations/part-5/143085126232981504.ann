@@ -1,0 +1,5 @@
+T1	Topic 13 27	Rihanna Alsace
+T2	Subjectiveme_negative 29 53	on s'en bat les couilles
+T3	Aspect 57 63	ta vie
+R1	isAspectOf Arg1:T3 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T3	

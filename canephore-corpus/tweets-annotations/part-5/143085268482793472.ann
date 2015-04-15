@@ -1,0 +1,9 @@
+T1	Subjectiveme_positive 51 60	originale
+T2	Topic 0 9	Languedoc
+T3	Negator 41 44	pas
+R1	Negates Arg1:T3 Arg2:T1	
+T4	Subjectiveme_positive 12 19	Mignone
+T5	Subjectiveme_negative 21 30	trop typé
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+R4	isNegativeOpinionOn Arg1:T5 Arg2:T2	

@@ -1,0 +1,5 @@
+T2	Topic 15 20	Lorie
+T3	Aspect 25 33	maquillé
+T4	Subjectiveme_negative 34 46	à la truelle
+R1	isNegativeOpinionOn Arg1:T4 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T2	

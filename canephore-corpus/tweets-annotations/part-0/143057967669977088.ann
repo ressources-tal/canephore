@@ -1,0 +1,7 @@
+T1	Subjectiveme_positive 57 63	bonnes
+T3	Negator 53 56	pas
+T4	Topic 24 44	meufs dans le public
+T2	Aspect 4 19	robes de soirée
+R1	isAspectOf Arg1:T2 Arg2:T4	
+R2	Negates Arg1:T3 Arg2:T1	
+R3	isNegativeOpinionOn Arg1:T1 Arg2:T2	

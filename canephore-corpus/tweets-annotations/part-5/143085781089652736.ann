@@ -1,0 +1,3 @@
+T1	Topic 0 14	Miss Bourgogne
+T3	Subjectiveme_negative 24 30	SKETCH
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

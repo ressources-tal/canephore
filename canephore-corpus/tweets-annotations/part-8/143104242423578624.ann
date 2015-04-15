@@ -1,0 +1,7 @@
+T1	Subjectiveme_positive 26 34	contente
+T2	Topic 0 5	Lorie
+T3	Negator 6 16	fais genre
+R1	Negates Arg1:T3 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+T4	Subjectiveme_negative 54 68	a trop le seum
+R3	isNegativeOpinionOn Arg1:T4 Arg2:T2	

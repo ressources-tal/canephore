@@ -1,0 +1,7 @@
+T1	Topic 6 17	Linda Hardy
+T2	Aspect 18 23	parle
+T3	Subjectiveme_positive 61 66	belle
+T5	Subjectiveme_negative 30 36	endors
+R1	isAspectOf Arg1:T2 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T5 Arg2:T2	
+R3	isPositiveOpinionOn Arg1:T3 Arg2:T1	

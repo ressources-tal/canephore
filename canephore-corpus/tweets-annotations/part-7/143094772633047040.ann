@@ -1,0 +1,7 @@
+T1	Topic 22 28	Laurie
+T2	Aspect 14 18	robe
+T3	Subjectiveme_positive 2 6	aime
+T4	Negator 7 10	pas
+R1	isAspectOf Arg1:T2 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R3	Negates Arg1:T4 Arg2:T3	

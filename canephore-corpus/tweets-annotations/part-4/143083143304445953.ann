@@ -1,0 +1,11 @@
+T1	Topic 24 37	Pays de Loire
+T2	Topic 0 9	Languedoc
+T3	Topic 11 20	Rousillon
+T4	Subjectiveme_positive 53 59	belles
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T3	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+T5	Negator 63 73	Par contre
+T6	Topic 95 106	la bretonne
+R4	Negates Arg1:T5 Arg2:T4	
+R5	isNegativeOpinionOn Arg1:T4 Arg2:T6	

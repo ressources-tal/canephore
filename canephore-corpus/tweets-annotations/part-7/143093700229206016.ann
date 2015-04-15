@@ -1,0 +1,7 @@
+T1	Topic 0 15	Miss Martinique
+T2	Topic 35 48	miss Provence
+T3	Subjectiveme_positive 25 30	Jolie
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T4	Negator 31 34	que
+R2	Negates Arg1:T4 Arg2:T3	
+R3	isNegativeOpinionOn Arg1:T3 Arg2:T2	

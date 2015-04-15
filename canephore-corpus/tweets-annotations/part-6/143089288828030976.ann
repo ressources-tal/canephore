@@ -1,0 +1,17 @@
+T1	Subjectiveme_positive 18 27	suis pour
+T2	Topic 38 45	Réunion
+T3	Topic 68 74	Alsace
+T4	Subjectiveme_positive 59 64	mieux
+T5	Negator 87 90	pas
+T6	Topic 28 34	alsace
+T7	Topic 47 54	Réunion
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T6	
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T7	
+T8	Negator 65 67	qu
+R4	Negates Arg1:T8 Arg2:T4	
+R5	isNegativeOpinionOn Arg1:T4 Arg2:T3	
+T9	Subjectiveme_positive 101 110	étincelle
+R6	isPositiveOpinionOn Arg1:T9 Arg2:T3	
+R7	Negates Arg1:T5 Arg2:T9	
+R8	isNegativeOpinionOn Arg1:T9 Arg2:T7	

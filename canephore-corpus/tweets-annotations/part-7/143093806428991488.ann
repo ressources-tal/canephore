@@ -1,0 +1,5 @@
+T1	Topic 6 18	Miss Réunion
+T2	Subjectiveme_positive 0 5	Aller
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 22 38	Miss cote d azur
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T3	

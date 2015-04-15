@@ -1,0 +1,5 @@
+T1	Topic 34 46	miss mayotte
+T3	Subjectiveme_negative 77 87	cauchemars
+T2	Subjectiveme_negative 53 57	peur
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

@@ -1,0 +1,7 @@
+T1	Topic 0 14	Miss Normandie
+T2	Subjectiveme_positive 22 39	c'est pas la pire
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 65 70	honte
+T4	Negator 56 59	pas
+R2	Negates Arg1:T4 Arg2:T3	
+R3	isNegativeOpinionOn Arg1:T3 Arg2:T1	

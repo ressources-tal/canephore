@@ -1,0 +1,5 @@
+T1	Aspect 11 15	robe
+T2	Topic 25 40	Laury Thilleman
+T3	Subjectiveme_positive 3 7	veux
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isAspectOf Arg1:T1 Arg2:T2	

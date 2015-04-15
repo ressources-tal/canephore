@@ -1,0 +1,5 @@
+T1	Topic 41 59	miss pays de Loire
+T2	Aspect 22 40	suçon sous le bras
+T3	Subjectiveme_negative 65 71	Choqué
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

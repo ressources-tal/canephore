@@ -1,0 +1,6 @@
+T1	Topic 20 34	Sylvie Tellier
+T2	Subjectiveme_positive 53 58	mieux
+T3	Subjectiveme_negative 13 19	grossi
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+T4	Topic 37 46	Genevieve
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T4	

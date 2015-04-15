@@ -1,0 +1,5 @@
+T1	Topic 32 38	Alsace
+T2	Subjectiveme_negative 11 16	thons
+T3	Negator 17 29	en dehors de
+R1	Negates Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

@@ -1,0 +1,5 @@
+T1	Subjectiveme_positive 21 26	belle
+T2	Topic 5 16	Miss Alsace
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+T3	Topic 50 63	Pays de Loire
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T3	

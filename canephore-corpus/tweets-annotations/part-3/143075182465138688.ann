@@ -1,0 +1,9 @@
+T1	Topic 0 15	Miss Guadeloupe
+T2	Topic 28 37	Languedoc
+T4	Subjectiveme_positive 53 59	belles
+T5	Topic 41 47	Guyane
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+T6	Topic 17 26	Orleanais
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T5	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+R4	isPositiveOpinionOn Arg1:T4 Arg2:T6	

@@ -1,0 +1,5 @@
+T1	Topic 20 31	Miss Alsace
+T2	Aspect 5 10	parle
+T3	Subjectiveme_negative 11 19	beaucoup
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

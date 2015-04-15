@@ -1,0 +1,3 @@
+T1	Topic 0 14	Miss Languedoc
+T4	Subjectiveme_positive 37 41	aime
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	

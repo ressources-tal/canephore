@@ -1,0 +1,7 @@
+T1	Topic 0 15	Miss Martinique
+T2	Negator 22 25	pas
+T3	Subjectiveme_negative 35 40	moche
+R1	Negates Arg1:T2 Arg2:T3	
+T4	Negator 48 58	en fait si
+R2	Negates Arg1:T4 Arg2:T3	
+R3	isNegativeOpinionOn Arg1:T3 Arg2:T1	

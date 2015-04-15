@@ -1,0 +1,5 @@
+T1	Topic 65 70	coupe
+T2	Subjectiveme_negative 105 110	moche
+T3	Topic 48 52	robe
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T3	

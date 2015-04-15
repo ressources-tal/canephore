@@ -1,0 +1,5 @@
+T1	Topic 0 14	Pays de Savoie
+T2	Subjectiveme_negative 16 27	on s'en fou
+T3	Aspect 36 57	pleuré a ton élection
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T1	

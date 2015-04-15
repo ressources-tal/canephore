@@ -1,0 +1,5 @@
+T1	Topic 0 13	Miss Limousin
+T2	Subjectiveme_negative 19 31	VA TE PENDRE
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 42 63	St Pierre et Miquelon
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T3	

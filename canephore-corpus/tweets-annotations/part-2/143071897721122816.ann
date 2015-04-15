@@ -1,0 +1,3 @@
+T1	Topic 10 23	mise en scène
+T3	Subjectiveme_positive 0 9	Putain de
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	

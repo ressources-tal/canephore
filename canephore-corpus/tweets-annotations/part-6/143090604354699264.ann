@@ -1,0 +1,3 @@
+T1	Topic 38 52	Miss Languedoc
+T2	Subjectiveme_positive 22 32	préférence
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

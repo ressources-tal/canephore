@@ -1,0 +1,5 @@
+T1	Topic 14 25	miss Tahiti
+T2	Aspect 3 10	costume
+T3	Subjectiveme_positive 33 41	avantage
+R1	isAspectOf Arg1:T2 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

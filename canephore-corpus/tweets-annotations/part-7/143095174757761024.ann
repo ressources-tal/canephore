@@ -1,0 +1,5 @@
+T1	Topic 8 22	Sylvie Tellier
+T2	Aspect 0 4	Robe
+R1	isAspectOf Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 23 30	froisée
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	

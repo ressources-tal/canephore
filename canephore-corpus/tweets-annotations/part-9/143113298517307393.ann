@@ -1,0 +1,6 @@
+T2	Subjectiveme_positive 76 81	ça va
+T3	Negator 82 85	pas
+R1	Negates Arg1:T3 Arg2:T2	
+T1	Aspect 71 74	nom
+T4	Topic 3 16	nouvelle Miss
+R2	isAspectOf Arg1:T1 Arg2:T4	

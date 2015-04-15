@@ -1,0 +1,7 @@
+T1	Topic 11 23	Miss Réunion
+T2	Topic 42 50	Provence
+T3	Subjectiveme_positive 51 63	y a du level
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T4	Topic 28 37	Paillette
+R3	isPositiveOpinionOn Arg1:T3 Arg2:T4	

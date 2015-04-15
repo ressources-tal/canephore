@@ -1,0 +1,5 @@
+T1	Topic 0 9	Languedoc
+T2	Subjectiveme_positive 30 38	mignonne
+T3	Topic 13 24	cote d'azur
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

@@ -1,0 +1,3 @@
+T2	Topic 47 57	MissAlsace
+T3	Subjectiveme_positive 19 44	vraies valeurs françaises
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	

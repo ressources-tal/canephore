@@ -1,0 +1,5 @@
+T1	Topic 0 13	Miss Provence
+T3	Subjectiveme_positive 18 22	bien
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T2	Subjectiveme_negative 44 57	fausse blonde
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	

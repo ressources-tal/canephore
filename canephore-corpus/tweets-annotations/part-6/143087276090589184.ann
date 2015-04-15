@@ -1,0 +1,7 @@
+T1	Topic 17 31	Miss Languedoc
+T2	Topic 33 43	Roussillon
+T3	Subjectiveme_positive 7 16	suis pour
+T4	Topic 47 53	Alsace
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T4	
+R3	isPositiveOpinionOn Arg1:T3 Arg2:T2	

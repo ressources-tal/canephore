@@ -1,0 +1,7 @@
+T1	Topic 89 103	Sylvie Tellier
+T2	Subjectiveme_positive 60 66	jolies
+T3	Negator 84 88	sauf
+T4	Topic 24 39	les #missfrance
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T4	
+R2	Negates Arg1:T3 Arg2:T2	
+R3	isNegativeOpinionOn Arg1:T2 Arg2:T1	

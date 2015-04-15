@@ -1,0 +1,5 @@
+T1	Topic 0 14	Miss Normandie
+T2	Negator 17 20	pas
+T3	Subjectiveme_positive 21 30	mon style
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R2	Negates Arg1:T2 Arg2:T3	

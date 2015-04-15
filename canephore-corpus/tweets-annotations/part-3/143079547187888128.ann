@@ -1,0 +1,7 @@
+T1	Aspect 46 57	Miss France
+T2	Subjectiveme_positive 0 3	YEA
+T3	Topic 4 17	MIDI PYRENEES
+T4	Subjectiveme_positive 31 45	elle a le look
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R2	isAspectOf Arg1:T1 Arg2:T3	
+R3	isPositiveOpinionOn Arg1:T2 Arg2:T3	

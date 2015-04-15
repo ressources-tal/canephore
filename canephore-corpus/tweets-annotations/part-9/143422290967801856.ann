@@ -1,0 +1,3 @@
+T1	Topic 4 12	musiques
+T4	Subjectiveme_positive 18 27	kiffantes
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	

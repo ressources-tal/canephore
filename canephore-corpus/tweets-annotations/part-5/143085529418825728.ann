@@ -1,0 +1,5 @@
+T1	Topic 11 24	miss provence
+T2	Aspect 3 7	tête
+T3	Subjectiveme_negative 25 51	ne va pas avec ses cheveux
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

@@ -1,0 +1,5 @@
+T1	Topic 0 13	Sofia Essaïdi
+T3	Subjectiveme_negative 34 37	dur
+T2	Aspect 21 27	un air
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

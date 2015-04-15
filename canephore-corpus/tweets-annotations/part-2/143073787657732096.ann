@@ -1,0 +1,8 @@
+T2	Subjectiveme_positive 102 107	belle
+T4	Negator 34 37	pas
+T5	Topic 68 83	katrinapatchett
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T5	
+T1	Topic 50 60	MissFrance
+T3	Subjectiveme_positive 42 48	bombes
+R2	Negates Arg1:T4 Arg2:T3	
+R3	isNegativeOpinionOn Arg1:T3 Arg2:T1	

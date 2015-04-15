@@ -1,0 +1,5 @@
+T1	Topic 30 37	Reunion
+T2	Topic 41 47	Alsace
+T3	Subjectiveme_positive 22 29	préféré
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

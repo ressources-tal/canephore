@@ -1,0 +1,9 @@
+T1	Topic 0 22	Miss Champagne Ardenne
+T2	Aspect 34 41	cheveux
+T3	Subjectiveme_positive 52 59	mignone
+T4	Subjectiveme_negative 71 76	banal
+T5	Subjectiveme_positive 28 33	beaux
+R1	isPositiveOpinionOn Arg1:T5 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	
+R3	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R4	isNegativeOpinionOn Arg1:T4 Arg2:T1	

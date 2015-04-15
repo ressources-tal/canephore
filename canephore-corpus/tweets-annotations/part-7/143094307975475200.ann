@@ -1,0 +1,13 @@
+T1	Topic 97 107	candidates
+T2	Subjectiveme_negative 44 50	blague
+T3	Topic 52 57	Sofia
+T5	Negator 89 92	que
+T6	Topic 19 29	MissFrance
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T6	
+T7	Topic 111 117	Obispo
+T8	Subjectiveme_negative 130 136	obsédé
+R2	isNegativeOpinionOn Arg1:T8 Arg2:T7	
+T9	Subjectiveme_positive 80 88	bandante
+R3	isPositiveOpinionOn Arg1:T9 Arg2:T3	
+R4	Negates Arg1:T5 Arg2:T9	
+R5	isNegativeOpinionOn Arg1:T9 Arg2:T1	

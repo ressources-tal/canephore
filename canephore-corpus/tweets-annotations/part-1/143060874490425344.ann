@@ -1,0 +1,5 @@
+T1	Topic 15 29	Miss Languedoc
+T2	Topic 33 40	Réunion
+T3	Subjectiveme_positive 61 83	retiennent l'attention
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

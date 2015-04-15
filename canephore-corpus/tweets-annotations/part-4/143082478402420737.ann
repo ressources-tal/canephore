@@ -1,0 +1,3 @@
+T2	Topic 27 39	MenardMalika
+T3	Subjectiveme_positive 48 53	belle
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	

@@ -1,0 +1,7 @@
+T1	Subjectiveme_positive 62 67	jolie
+T2	Negator 68 71	que
+T3	Topic 72 80	les Miss
+R1	Negates Arg1:T2 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T3	
+T4	Topic 31 47	filles en France
+R3	isPositiveOpinionOn Arg1:T1 Arg2:T4	

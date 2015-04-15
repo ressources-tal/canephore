@@ -1,0 +1,5 @@
+T1	Topic 39 50	Miss Alsace
+T2	Subjectiveme_positive 63 68	jolie
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 31 36	cheap
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

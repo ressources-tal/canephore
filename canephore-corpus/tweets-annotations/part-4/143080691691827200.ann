@@ -1,0 +1,7 @@
+T2	Topic 81 92	Miss Alsace
+T3	Subjectiveme_positive 127 132	jolie
+T4	Subjectiveme_positive 76 80	vive
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+T1	Subjectiveme_positive 103 111	radieuse
+R4	isPositiveOpinionOn Arg1:T1 Arg2:T2	

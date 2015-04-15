@@ -1,0 +1,5 @@
+T1	Topic 20 31	Alain Delon
+T3	Aspect 10 16	regard
+T5	Subjectiveme_positive 2 6	aime
+R1	isAspectOf Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T5 Arg2:T3	

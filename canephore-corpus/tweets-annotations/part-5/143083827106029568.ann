@@ -1,0 +1,5 @@
+T1	Topic 50 58	Bretagne
+T3	Negator 63 66	pas
+T4	Subjectiveme_positive 67 70	top
+R1	Negates Arg1:T3 Arg2:T4	
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T1	

@@ -1,0 +1,5 @@
+T1	Topic 20 32	Miss Reunion
+T2	Topic 36 54	Miss Pays de Loire
+T3	Subjectiveme_positive 3 12	meilleure
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

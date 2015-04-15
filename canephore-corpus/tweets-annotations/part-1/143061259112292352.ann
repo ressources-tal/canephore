@@ -1,0 +1,5 @@
+T1	Topic 41 53	miss reunion
+T2	Aspect 33 39	marche
+R1	isAspectOf Arg1:T2 Arg2:T1	
+T3	Subjectiveme_positive 2 6	aime
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

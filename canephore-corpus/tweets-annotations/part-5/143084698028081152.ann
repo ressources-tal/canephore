@@ -1,0 +1,8 @@
+R4	isNegativeOpinionOn Arg1:T4 Arg2:T2	
+R1	isAspectOf Arg1:T3 Arg2:T1	
+R2	isAspectOf Arg1:T2 Arg2:T1	
+R3	isNegativeOpinionOn Arg1:T4 Arg2:T3	
+T4	Subjectiveme_negative 51 57	dingue
+T2	Aspect 15 18	nez
+T3	Aspect 45 48	nez
+T1	Topic 22 30	Bretagne

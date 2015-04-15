@@ -1,0 +1,3 @@
+T3	Subjectiveme_positive 79 86	sublime
+T1	Topic 0 23	Miss Ile de France 2011
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	

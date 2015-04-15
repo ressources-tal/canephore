@@ -1,0 +1,6 @@
+T1	Topic 0 11	Miss Alsace
+T2	Subjectiveme_positive 60 70	magnifique
+T3	Subjectiveme_positive 27 32	belle
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T4	Topic 71 89	miss ile de france
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T4	

@@ -1,0 +1,5 @@
+T1	Topic 28 41	Miss Bretagne
+T3	Subjectiveme_negative 128 133	moche
+T2	Aspect 17 24	tronche
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

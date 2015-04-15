@@ -1,0 +1,5 @@
+T1	Topic 23 38	Miss Martinique
+T2	Aspect 49 57	déhanché
+T5	Subjectiveme_positive 44 48	joli
+R1	isPositiveOpinionOn Arg1:T5 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

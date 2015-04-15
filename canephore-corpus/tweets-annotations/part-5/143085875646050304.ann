@@ -1,0 +1,7 @@
+T1	Topic 0 13	Miss Provence
+T2	Negator 42 45	pas
+T3	Subjectiveme_positive 46 49	top
+R1	Negates Arg1:T2 Arg2:T3	
+T4	Topic 17 33	Miss cote d'Azur
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T4	
+R3	isNegativeOpinionOn Arg1:T3 Arg2:T1	

@@ -1,0 +1,5 @@
+T3	Negator 84 87	Pas
+T4	Subjectiveme_positive 107 110	top
+T1	Topic 15 44	élection de cette #missfrance
+R1	Negates Arg1:T3 Arg2:T4	
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T1	

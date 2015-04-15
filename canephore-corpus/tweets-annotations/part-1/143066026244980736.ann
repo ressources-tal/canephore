@@ -1,0 +1,5 @@
+T1	Topic 32 50	miss pays de Loire
+T2	Subjectiveme_positive 61 66	belle
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 73 76	bof
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	

@@ -1,0 +1,3 @@
+T2	Topic 0 14	Midi pyrennees
+T3	Subjectiveme_positive 15 31	a un vrai métier
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	

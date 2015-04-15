@@ -1,0 +1,8 @@
+T1	Topic 49 63	Miss Bourgogne
+T2	Aspect 29 32	nez
+T3	Aspect 39 45	bouche
+T4	Subjectiveme_negative 64 87	fornique sur sa tronche
+R1	isNegativeOpinionOn Arg1:T4 Arg2:T3	
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T2	
+R3	isAspectOf Arg1:T3 Arg2:T1	
+R4	isAspectOf Arg1:T2 Arg2:T1	

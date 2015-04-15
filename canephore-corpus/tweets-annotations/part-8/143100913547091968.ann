@@ -1,0 +1,5 @@
+T2	Topic 15 21	Alsace
+T1	Aspect 3 9	causes
+T3	Subjectiveme_negative 10 14	trop
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R2	isAspectOf Arg1:T1 Arg2:T2	

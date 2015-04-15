@@ -1,0 +1,7 @@
+T1	Subjectiveme_negative 13 19	moches
+T3	Topic 4 9	robes
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T3	
+T2	Negator 21 25	Sauf
+R2	Negates Arg1:T2 Arg2:T1	
+T4	Topic 26 40	Miss Aquitaine
+R3	isPositiveOpinionOn Arg1:T1 Arg2:T4	

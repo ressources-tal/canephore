@@ -1,0 +1,5 @@
+T3	Aspect 57 61	robe
+T4	Subjectiveme_positive 49 53	kiff
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T3	
+T1	Topic 66 79	SylvieTellier
+R1	isAspectOf Arg1:T3 Arg2:T1	

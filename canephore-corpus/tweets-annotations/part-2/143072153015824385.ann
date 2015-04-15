@@ -1,0 +1,7 @@
+T1	Topic 0 14	Sylvie Tellier
+T2	Aspect 31 35	coup
+T3	Subjectiveme_positive 111 117	maline
+T4	Subjectiveme_positive 17 26	bien joué
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	
+R3	isPositiveOpinionOn Arg1:T3 Arg2:T1	

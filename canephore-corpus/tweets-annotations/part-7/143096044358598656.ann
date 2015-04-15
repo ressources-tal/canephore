@@ -1,0 +1,12 @@
+T1	Topic 79 95	Miss cote d'azur
+T2	Topic 64 75	Miss Alsace
+T3	Aspect 53 60	cheveux
+T4	Subjectiveme_positive 109 114	belle
+T5	Subjectiveme_positive 40 44	aime
+T6	Negator 45 48	pas
+R2	isAspectOf Arg1:T3 Arg2:T2	
+R5	Negates Arg1:T6 Arg2:T5	
+T7	Negator 102 105	pas
+R3	isNegativeOpinionOn Arg1:T5 Arg2:T3	
+R1	Negates Arg1:T7 Arg2:T4	
+R4	isNegativeOpinionOn Arg1:T4 Arg2:T1	

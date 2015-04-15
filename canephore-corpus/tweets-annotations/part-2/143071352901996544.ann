@@ -1,0 +1,3 @@
+T1	Topic 27 35	danseurs
+T3	Subjectiveme_positive 43 47	veux
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	

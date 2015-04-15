@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 14 24	magnifique
+T2	Topic 0 9	Languedoc
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

@@ -1,0 +1,6 @@
+T1	Subjectiveme_positive 37 42	belle
+T2	Topic 22 28	centre
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+T3	Topic 56 67	miss alsace
+T4	Subjectiveme_positive 78 83	belle
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T3	

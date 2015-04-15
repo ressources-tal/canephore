@@ -1,0 +1,5 @@
+T1	Topic 0 26	Miss St Pierre et Miquelon
+T2	Aspect 32 38	bouche
+T3	Subjectiveme_negative 39 49	de travers
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

@@ -1,0 +1,3 @@
+T1	Topic 24 37	Miss Bretagne
+T2	Subjectiveme_negative 51 58	ignoble
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	

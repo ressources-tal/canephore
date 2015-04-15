@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 50 61	dégueulasse
+T2	Topic 30 34	robe
+T3	Subjectiveme_negative 35 44	saucisson
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T2	

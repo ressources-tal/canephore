@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 17 22	jolie
+T2	Topic 29 40	Miss Centre
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

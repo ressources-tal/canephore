@@ -1,0 +1,5 @@
+T1	Aspect 3 21	couleur de cheveux
+T2	Topic 28 39	miss Alsace
+T3	Subjectiveme_negative 43 52	degoutera
+R1	isAspectOf Arg1:T1 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

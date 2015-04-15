@@ -1,0 +1,7 @@
+T1	Topic 56 69	Ile de France
+T4	Topic 46 52	Alsace
+T2	Topic 33 44	Miss Centre
+T3	Subjectiveme_positive 84 90	Belles
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T4	
+R3	isPositiveOpinionOn Arg1:T3 Arg2:T1	

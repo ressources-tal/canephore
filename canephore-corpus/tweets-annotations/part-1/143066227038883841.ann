@@ -1,0 +1,9 @@
+T3	Subjectiveme_negative 47 51	faux
+T1	Aspect 29 37	discourt
+T2	Topic 0 11	Miss France
+T4	Aspect 52 59	sourrir
+T5	Subjectiveme_negative 23 28	vieux
+R1	isNegativeOpinionOn Arg1:T5 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T4	
+R3	isAspectOf Arg1:T1 Arg2:T2	
+R4	isAspectOf Arg1:T4 Arg2:T2	

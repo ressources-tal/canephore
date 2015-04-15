@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 0 16	C'est quoi cette
+T2	Subjectiveme_negative 22 33	dégueulasse
+T3	Topic 17 21	robe
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T3	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T3	

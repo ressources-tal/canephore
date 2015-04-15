@@ -1,0 +1,6 @@
+T1	Topic 30 42	Miss Réunion
+T2	Subjectiveme_positive 56 61	canon
+T3	Aspect 14 18	robe
+T5	Subjectiveme_positive 5 9	aime
+R1	isPositiveOpinionOn Arg1:T5 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

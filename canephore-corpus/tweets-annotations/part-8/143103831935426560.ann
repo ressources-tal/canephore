@@ -1,0 +1,8 @@
+T1	Topic 21 37	Miss France 2011
+T2	Subjectiveme_positive 3 12	préférais
+T4	Subjectiveme_positive 71 76	belle
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 78 91	Celle de 2012
+T5	Subjectiveme_negative 106 111	bidon
+R3	isNegativeOpinionOn Arg1:T5 Arg2:T3	

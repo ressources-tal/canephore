@@ -1,0 +1,3 @@
+T1	Topic 23 34	Miss France
+T2	Subjectiveme_positive 6 10	cool
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

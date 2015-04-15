@@ -1,0 +1,5 @@
+T1	Topic 12 26	Miss Languedoc
+T3	Topic 30 48	Miss île de France
+T2	Subjectiveme_positive 51 55	aime
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

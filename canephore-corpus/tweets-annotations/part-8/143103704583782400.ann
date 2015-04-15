@@ -1,0 +1,3 @@
+T1	Topic 116 127	Miss Alsace
+T2	Subjectiveme_positive 91 99	préférée
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

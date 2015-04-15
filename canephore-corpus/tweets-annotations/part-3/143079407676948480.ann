@@ -1,0 +1,5 @@
+T1	Subjectiveme_positive 32 45	coup de coeur
+T3	Subjectiveme_positive 3 11	favorite
+T2	Topic 12 27	Miss #Languedoc
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T2	

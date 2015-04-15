@@ -1,0 +1,5 @@
+T1	Topic 33 56	élection de #MissFrance
+T3	Aspect 66 99	nouveau Mec qui appelle aux votes
+T2	Subjectiveme_negative 5 15	perturbant
+R1	isAspectOf Arg1:T3 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T3	

@@ -1,0 +1,5 @@
+T1	Aspect 3 7	robe
+T2	Subjectiveme_positive 31 36	bonne
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 11 24	Valérie bègue
+R2	isAspectOf Arg1:T1 Arg2:T3	

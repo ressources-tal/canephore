@@ -1,0 +1,5 @@
+T1	Topic 8 19	miss guyane
+T3	Subjectiveme_positive 0 7	Favoris
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T2	Topic 23 32	la rousse
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

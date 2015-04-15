@@ -1,0 +1,6 @@
+T1	Subjectiveme_positive 8 17	suis pour
+T2	Topic 78 87	Languedoc
+T3	Subjectiveme_positive 70 75	belle
+R3	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+T5	Topic 29 42	Ile-De-France
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T5	

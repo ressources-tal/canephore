@@ -1,0 +1,5 @@
+R0	isPositiveOpinionOn Arg1:T1 Arg2:T0	
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T0	
+T2	Subjectiveme_positive 19 32	coup de coeur
+T0	Topic 39 53	Miss Languedoc
+T1	Subjectiveme_positive 63 70	sublime

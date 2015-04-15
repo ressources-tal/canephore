@@ -1,0 +1,6 @@
+T1	Subjectiveme_negative 10 16	blague
+T2	Topic 17 33	Miss Rhone-Alpes
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+T3	Topic 53 63	représenté
+T4	Subjectiveme_positive 48 52	bien
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T3	

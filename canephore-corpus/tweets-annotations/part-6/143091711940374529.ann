@@ -1,0 +1,7 @@
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+T4	Subjectiveme_positive 42 46	aime
+T2	Topic 15 24	Languedoc
+T3	Topic 28 39	Côte d'Azur
+T1	Topic 6 13	Réunion

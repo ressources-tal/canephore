@@ -1,0 +1,5 @@
+T1	Topic 6 17	Miss Alsace
+T2	Subjectiveme_positive 0 5	Allez
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 21 30	LangueDoc
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T3	

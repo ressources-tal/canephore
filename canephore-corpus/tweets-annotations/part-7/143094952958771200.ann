@@ -1,0 +1,5 @@
+T1	Topic 8 30	ma frontière régionale
+T2	Topic 41 47	Alsace
+T3	Subjectiveme_negative 0 5	Honte
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	

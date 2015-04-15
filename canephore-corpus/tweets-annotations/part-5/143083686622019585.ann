@@ -1,0 +1,5 @@
+T1	Topic 14 26	miss Réunion
+T2	Subjectiveme_positive 4 13	favorites
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 30 48	miss Pays-de-Loire
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T3	

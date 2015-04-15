@@ -1,0 +1,9 @@
+T2	Topic 89 100	Miss Centre
+T3	Subjectiveme_negative 25 31	moches
+T4	Topic 0 19	La plupart des miss
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T4	
+T1	Subjectiveme_positive 33 45	Heureusement
+T5	Topic 55 66	miss Centre
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T5	
+T6	Subjectiveme_positive 101 103	<3
+R3	isPositiveOpinionOn Arg1:T6 Arg2:T2	

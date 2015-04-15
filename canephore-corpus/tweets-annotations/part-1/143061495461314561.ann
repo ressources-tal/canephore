@@ -1,0 +1,5 @@
+T1	Topic 4 9	robes
+T2	Topic 17 27	chaussures
+T3	Subjectiveme_negative 37 45	horreurs
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

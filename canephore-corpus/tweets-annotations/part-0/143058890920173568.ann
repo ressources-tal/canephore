@@ -1,0 +1,3 @@
+T1	Topic 0 23	Miss nord pas de calais
+T2	Subjectiveme_negative 28 36	horrible
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	

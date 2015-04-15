@@ -1,0 +1,5 @@
+T1	Topic 0 15	Miss Martinique
+T2	Subjectiveme_negative 55 62	bizarre
+T4	Aspect 41 47	taille
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T4	
+R2	isAspectOf Arg1:T4 Arg2:T1	

@@ -1,0 +1,11 @@
+T1	Topic 31 44	Pays de Loire
+T2	Topic 18 28	Martinique
+T3	Topic 71 81	Roussillon
+T4	Subjectiveme_positive 6 15	favorites
+T5	Topic 59 68	Bourgogne
+T6	Topic 47 56	Languedoc
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R4	isPositiveOpinionOn Arg1:T4 Arg2:T6	
+R5	isPositiveOpinionOn Arg1:T4 Arg2:T5	

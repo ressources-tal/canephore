@@ -1,0 +1,5 @@
+T1	Topic 4 18	Sylvie Tellier
+T2	Subjectiveme_negative 45 55	Effrayante
+T3	Aspect 62 70	coiffure
+R1	isAspectOf Arg1:T3 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T3	

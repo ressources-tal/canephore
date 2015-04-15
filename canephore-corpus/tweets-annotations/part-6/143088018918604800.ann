@@ -1,0 +1,6 @@
+T1	Topic 12 30	Miss lle de France
+T4	Subjectiveme_positive 46 55	meilleure
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+T2	Topic 70 75	Delon
+T3	Subjectiveme_negative 64 69	vieux
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	

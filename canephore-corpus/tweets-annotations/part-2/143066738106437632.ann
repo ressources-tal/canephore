@@ -1,0 +1,7 @@
+T1	Topic 45 57	présentation
+T2	Subjectiveme_positive 76 83	naturel
+T3	Negator 72 75	pas
+R1	Negates Arg1:T3 Arg2:T2	
+T4	Subjectiveme_negative 24 32	par cœur
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+R3	isNegativeOpinionOn Arg1:T4 Arg2:T1	

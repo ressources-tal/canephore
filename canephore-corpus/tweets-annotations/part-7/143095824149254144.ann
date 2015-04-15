@@ -1,0 +1,7 @@
+T1	Topic 14 25	Miss Alsace
+T2	Aspect 74 80	gueule
+T3	Subjectiveme_negative 69 73	sale
+T4	Negator 61 64	pas
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	Negates Arg1:T4 Arg2:T3	
+R3	isAspectOf Arg1:T2 Arg2:T1	

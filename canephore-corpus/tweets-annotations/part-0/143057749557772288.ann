@@ -1,0 +1,7 @@
+T1	Topic 23 37	Sylvie Tellier
+T2	Subjectiveme_positive 14 18	aime
+T3	Negator 19 22	pas
+R1	Negates Arg1:T3 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T4	Subjectiveme_negative 44 54	se la pète
+R3	isNegativeOpinionOn Arg1:T4 Arg2:T1	

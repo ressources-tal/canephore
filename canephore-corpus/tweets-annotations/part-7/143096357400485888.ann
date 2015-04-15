@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 25 32	pas mal
+T2	Topic 13 20	Réunion
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

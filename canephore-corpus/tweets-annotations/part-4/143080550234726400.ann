@@ -1,0 +1,5 @@
+T3	Subjectiveme_negative 10 16	blague
+T1	Topic 39 54	miss martinique
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+T2	Subjectiveme_negative 17 32	Vincent mc doom
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

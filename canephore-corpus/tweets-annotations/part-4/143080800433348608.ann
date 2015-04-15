@@ -1,0 +1,6 @@
+T1	Topic 0 10	Roussillon
+T4	Aspect 75 79	tête
+T2	Subjectiveme_negative 11 49	ressemble au bonhomme chelou de tumblr
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T4	
+R3	isAspectOf Arg1:T4 Arg2:T1	

@@ -1,0 +1,5 @@
+T1	Topic 4 12	sourires
+T2	Subjectiveme_negative 13 19	forcés
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 40 45	laids
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

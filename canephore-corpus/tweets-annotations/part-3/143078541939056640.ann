@@ -1,0 +1,5 @@
+T1	Aspect 14 21	chanson
+T2	Subjectiveme_positive 1 5	aime
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 26 36	Missfrance
+R2	isAspectOf Arg1:T1 Arg2:T3	

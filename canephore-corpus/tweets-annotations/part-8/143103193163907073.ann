@@ -1,0 +1,5 @@
+T1	Topic 42 53	Alain Delon
+T2	Aspect 57 89	président de jury 2 ans de suite
+R1	isAspectOf Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 24 29	chepa
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	

@@ -1,0 +1,6 @@
+T2	Subjectiveme_positive 72 77	canon
+T3	Subjectiveme_negative 23 27	thon
+T4	Topic 1 15	missfrance2012
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T4	
+T1	Topic 29 50	Miss Pays de la Loire
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

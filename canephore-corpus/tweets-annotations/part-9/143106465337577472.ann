@@ -1,0 +1,5 @@
+T1	Topic 39 51	Miss Reunion
+T2	Subjectiveme_positive 64 72	mignonne
+T3	Subjectiveme_positive 27 33	aimais
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

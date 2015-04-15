@@ -1,0 +1,4 @@
+T1	Topic 0 14	Miss Languedoc
+T3	Topic 17 24	Reunion
+T4	Subjectiveme_positive 44 49	belle
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	

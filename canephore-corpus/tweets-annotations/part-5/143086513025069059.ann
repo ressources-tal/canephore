@@ -1,0 +1,8 @@
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R3	isNegativeOpinionOn Arg1:T5 Arg2:T4	
+T4	Topic 109 119	MissFrance
+T5	Subjectiveme_negative 121 128	Truquée
+T2	Subjectiveme_negative 29 35	blague
+T3	Subjectiveme_negative 43 51	Horrible
+T1	Topic 0 13	Miss Bretagne

@@ -1,0 +1,5 @@
+T1	Topic 12 20	Picardie
+T4	Aspect 39 44	seins
+T2	Subjectiveme_negative 26 34	bloblote
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T4	
+R2	isAspectOf Arg1:T4 Arg2:T1	

@@ -1,0 +1,5 @@
+T1	Topic 17 30	Miss Bretagne
+T2	Subjectiveme_negative 58 63	moche
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 31 45	fait très peur
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

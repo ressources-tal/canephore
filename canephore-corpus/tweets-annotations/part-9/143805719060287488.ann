@@ -1,0 +1,3 @@
+T1	Topic 72 77	Laury
+T2	Subjectiveme_positive 88 95	Sublime
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

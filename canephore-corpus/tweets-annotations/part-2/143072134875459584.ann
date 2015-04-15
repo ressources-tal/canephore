@@ -1,0 +1,5 @@
+R0	isPositiveOpinionOn Arg1:T0 Arg2:T1	
+R1	isPositiveOpinionOn Arg1:T0 Arg2:T2	
+T2	Topic 0 13	Malika Menard
+T0	Subjectiveme_positive 24 29	belle
+T1	Topic 30 34	miss

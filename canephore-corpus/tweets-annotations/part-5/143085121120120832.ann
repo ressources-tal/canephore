@@ -1,0 +1,5 @@
+R1	isPositiveOpinionOn Arg1:T0 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	
+T2	Aspect 13 18	parle
+T0	Subjectiveme_positive 19 23	bien
+T1	Topic 24 35	Miss Alsace

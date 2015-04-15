@@ -1,0 +1,14 @@
+T1	Topic 10 14	miss
+T2	Subjectiveme_negative 15 21	moches
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 25 30	robes
+T4	Subjectiveme_negative 31 39	de merde
+T3	Topic 25 30	robes
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T3	
+T5	Topic 43 51	gagnante
+T6	Subjectiveme_negative 52 57	moche
+T7	Aspect 65 75	roux/rouge
+R3	isNegativeOpinionOn Arg1:T6 Arg2:T5	
+T8	Subjectiveme_negative 76 81	moche
+R4	isPositiveOpinionOn Arg1:T8 Arg2:T7	
+R5	isAspectOf Arg1:T7 Arg2:T5	

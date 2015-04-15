@@ -1,0 +1,8 @@
+R4	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R1	isAspectOf Arg1:T2 Arg2:T4	
+R2	isAspectOf Arg1:T1 Arg2:T4	
+R3	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+T4	Topic 85 105	télévision Française
+T2	Aspect 32 40	Téléthon
+T3	Subjectiveme_negative 55 76	on se fait bien chier
+T1	Aspect 6 17	Miss France

@@ -1,0 +1,5 @@
+T1	Topic 21 31	Miss Corse
+T2	Aspect 14 17	nez
+T3	Subjectiveme_negative 0 13	C'est quoi ce
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

@@ -1,0 +1,3 @@
+T3	Topic 17 30	Miss Picardie
+T1	Subjectiveme_positive 32 35	owi
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T3	

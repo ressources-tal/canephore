@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 92 98	belles
+T2	Topic 4 8	robe
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

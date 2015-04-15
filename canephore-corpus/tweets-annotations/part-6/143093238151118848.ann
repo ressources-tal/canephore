@@ -1,0 +1,11 @@
+T1	Topic 45 63	Miss Pays de Loire
+T2	Topic 0 12	Miss Réunion
+T3	Topic 14 25	Miss Alsace
+T5	Subjectiveme_positive 99 105	belles
+R1	isPositiveOpinionOn Arg1:T5 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T5 Arg2:T2	
+T7	Topic 27 43	Miss Cote d'azur
+T4	Topic 67 80	miss Provence
+R3	isPositiveOpinionOn Arg1:T5 Arg2:T4	
+R4	isPositiveOpinionOn Arg1:T5 Arg2:T1	
+R5	isPositiveOpinionOn Arg1:T5 Arg2:T7	

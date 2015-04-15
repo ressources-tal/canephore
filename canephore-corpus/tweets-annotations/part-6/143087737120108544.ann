@@ -1,0 +1,5 @@
+T1	Topic 89 104	Miss Martinique
+T2	Subjectiveme_positive 133 138	sympa
+T3	Subjectiveme_negative 124 127	mec
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

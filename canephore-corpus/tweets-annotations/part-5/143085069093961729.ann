@@ -1,0 +1,3 @@
+T3	Subjectiveme_positive 46 54	méritait
+T2	Topic 30 44	MissGuadeloupe
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	

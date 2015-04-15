@@ -1,0 +1,8 @@
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+T2	Subjectiveme_positive 124 129	mieux
+T3	Topic 101 114	Oays de Loire
+T1	Topic 85 97	Miss Réunion
+T4	Topic 4 10	ALSACE
+T5	Subjectiveme_negative 65 71	TRICHE
+R3	isNegativeOpinionOn Arg1:T5 Arg2:T4	

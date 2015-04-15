@@ -1,0 +1,5 @@
+T1	Topic 20 31	Miss Tahiti
+T2	Aspect 10 16	accent
+R1	isAspectOf Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 45 53	Roumaine
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	

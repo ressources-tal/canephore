@@ -1,0 +1,5 @@
+T1	Topic 16 26	finalistes
+T2	Subjectiveme_negative 43 49	laides
+T3	Subjectiveme_negative 0 10	C'quoi ces
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	

@@ -1,0 +1,3 @@
+T5	Subjectiveme_positive 90 97	sublime
+T2	Topic 62 76	LauryThilleman
+R1	isPositiveOpinionOn Arg1:T5 Arg2:T2	

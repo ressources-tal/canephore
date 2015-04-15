@@ -1,0 +1,5 @@
+T1	Topic 0 8	Les miss
+T2	Aspect 16 23	dansent
+T3	Subjectiveme_positive 24 28	bien
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

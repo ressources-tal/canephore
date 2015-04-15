@@ -1,0 +1,6 @@
+T2	Subjectiveme_positive 100 113	coup de coeur
+T3	Topic 36 46	MissAlsace
+T4	Subjectiveme_positive 48 55	pas mal
+T5	Topic 76 91	MissPaysdeLoire
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T5	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T3	

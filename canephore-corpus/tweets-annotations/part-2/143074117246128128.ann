@@ -1,0 +1,5 @@
+T1	Topic 9 22	Sofia_Essaidi
+T2	Aspect 59 65	danser
+T3	Subjectiveme_positive 108 112	mieu
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

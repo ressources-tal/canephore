@@ -1,0 +1,5 @@
+T1	Topic 44 56	miss Réunion
+T2	Subjectiveme_positive 4 15	préférences
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T4	Topic 26 40	miss Lanquedoc
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T4	

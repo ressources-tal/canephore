@@ -1,0 +1,8 @@
+T4	Negator 89 92	pas
+T5	Subjectiveme_negative 93 99	moches
+T1	Topic 0 12	MissLorraine
+T2	Subjectiveme_negative 13 32	fait vraiment honte
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 57 80	les filles de Lorraines
+R2	Negates Arg1:T4 Arg2:T5	
+R3	isNegativeOpinionOn Arg1:T5 Arg2:T3	

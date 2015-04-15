@@ -1,0 +1,3 @@
+T3	Subjectiveme_positive 101 105	sexy
+T2	Topic 87 94	danseur
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	

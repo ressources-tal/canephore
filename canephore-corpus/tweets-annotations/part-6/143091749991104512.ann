@@ -1,0 +1,5 @@
+T1	Topic 0 14	Miss Languedoc
+T3	Subjectiveme_positive 46 53	potable
+T4	Topic 18 24	Guyane
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T4	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

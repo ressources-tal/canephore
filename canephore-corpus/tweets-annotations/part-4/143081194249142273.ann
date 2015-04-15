@@ -1,0 +1,5 @@
+T1	Topic 58 64	les 12
+T2	Subjectiveme_positive 34 40	jolies
+T3	Negator 49 52	pas
+R1	Negates Arg1:T3 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	

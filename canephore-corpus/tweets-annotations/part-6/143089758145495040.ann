@@ -1,0 +1,5 @@
+T1	Subjectiveme_positive 28 32	aime
+T2	Topic 3 10	chanson
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+T3	Subjectiveme_positive 15 24	rigoulote
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

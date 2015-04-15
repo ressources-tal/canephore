@@ -1,0 +1,13 @@
+T1	Subjectiveme_positive 17 25	supporte
+T2	Topic 38 46	les Miss
+T5	Subjectiveme_positive 107 111	aime
+T6	Negator 26 29	pas
+T3	Aspect 47 54	parlent
+R1	isAspectOf Arg1:T3 Arg2:T2	
+R2	Negates Arg1:T6 Arg2:T1	
+T4	Subjectiveme_negative 70 84	trop lentement
+R3	isNegativeOpinionOn Arg1:T4 Arg2:T3	
+T7	Negator 112 115	pas
+R4	Negates Arg1:T7 Arg2:T5	
+R5	isNegativeOpinionOn Arg1:T5 Arg2:T3	
+R6	isNegativeOpinionOn Arg1:T1 Arg2:T3	

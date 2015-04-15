@@ -1,0 +1,6 @@
+T1	Topic 32 46	Miss Bourgogne
+T2	Topic 69 80	miss Alsace
+T3	Subjectiveme_positive 85 92	pas mal
+T4	Subjectiveme_positive 12 19	voulais
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

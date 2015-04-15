@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 25 30	moche
+T2	Topic 61 65	robe
+T3	Topic 74 90	coupe de cheveux
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T3	

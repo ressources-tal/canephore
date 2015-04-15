@@ -1,0 +1,7 @@
+T1	Aspect 76 81	robes
+T3	Subjectiveme_positive 82 89	de reve
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T2	Topic 52 55	fin
+T4	Subjectiveme_positive 21 25	aime
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+R3	isAspectOf Arg1:T1 Arg2:T2	

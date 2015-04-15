@@ -1,0 +1,5 @@
+T1	Topic 32 47	Miss Martinique
+T3	Aspect 83 89	bouche
+T2	Subjectiveme_negative 66 74	bizarres
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T1	

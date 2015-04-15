@@ -1,0 +1,5 @@
+T1	Topic 0 18	Miss pays de loire
+T2	Aspect 24 31	sourire
+T3	Subjectiveme_negative 75 80	vomir
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

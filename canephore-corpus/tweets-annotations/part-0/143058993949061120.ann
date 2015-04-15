@@ -1,0 +1,6 @@
+T1	Topic 11 25	miss Languedoc
+T2	Subjectiveme_positive 5 10	belle
+T3	Subjectiveme_positive 44 48	Vive
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T4	Topic 49 55	le sud
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T4	

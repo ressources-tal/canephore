@@ -1,0 +1,7 @@
+T1	Topic 27 37	MissAlsace
+T4	Subjectiveme_positive 38 39	♥
+T3	Aspect 45 50	parle
+T5	Subjectiveme_negative 51 55	trop
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T5 Arg2:T3	
+R3	isAspectOf Arg1:T3 Arg2:T1	

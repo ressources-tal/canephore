@@ -1,0 +1,5 @@
+T1	Topic 0 14	Miss Bourgogne
+T2	Subjectiveme_negative 29 36	bizarre
+T3	Aspect 22 28	regard
+R1	isAspectOf Arg1:T3 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T3	

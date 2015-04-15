@@ -1,0 +1,7 @@
+T1	Topic 0 11	Miss france
+T2	Aspect 26 33	maillot
+T3	Subjectiveme_positive 20 25	super
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	
+T4	Subjectiveme_positive 47 49	bo
+R3	isPositiveOpinionOn Arg1:T4 Arg2:T2	

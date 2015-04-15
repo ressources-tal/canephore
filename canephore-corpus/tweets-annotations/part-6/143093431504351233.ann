@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 8 16	go go go
+T2	Topic 17 35	Miss Pays de Loire
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

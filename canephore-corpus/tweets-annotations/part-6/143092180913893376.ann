@@ -1,0 +1,5 @@
+R1	Negates Arg1:T3 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T2	Subjectiveme_positive 36 42	belles
+T3	Negator 32 35	pas
+T1	Topic 4 23	la plupart des miss

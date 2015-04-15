@@ -1,0 +1,5 @@
+T1	Aspect 4 22	habits folklorique
+T2	Topic 26 37	miss Alsace
+T3	Subjectiveme_positive 38 40	<3
+R1	isAspectOf Arg1:T1 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

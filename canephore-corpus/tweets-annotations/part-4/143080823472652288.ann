@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 44 52	de merde
+T2	Aspect 36 43	sourire
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+T3	Topic 0 18	Miss Midi Pyrenees
+R2	isAspectOf Arg1:T2 Arg2:T3	

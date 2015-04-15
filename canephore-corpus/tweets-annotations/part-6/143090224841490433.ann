@@ -1,0 +1,5 @@
+T1	Topic 18 36	Miss Midi-Pyrénées
+T2	Topic 0 14	Miss Languedoc
+T3	Subjectiveme_positive 46 54	préférée
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

@@ -1,0 +1,5 @@
+T1	Aspect 9 18	décolleté
+T2	Subjectiveme_positive 0 5	Sympa
+T3	Topic 22 27	Lorie
+R1	isAspectOf Arg1:T1 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

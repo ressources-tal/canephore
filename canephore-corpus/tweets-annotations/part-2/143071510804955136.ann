@@ -1,0 +1,5 @@
+T6	Negator 0 3	pas
+T7	Subjectiveme_positive 9 18	équitable
+R2	Negates Arg1:T6 Arg2:T7	
+T2	Topic 37 44	costume
+R1	isNegativeOpinionOn Arg1:T7 Arg2:T2	

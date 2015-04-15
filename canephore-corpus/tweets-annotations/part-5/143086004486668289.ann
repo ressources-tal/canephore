@@ -1,0 +1,5 @@
+T1	Topic 58 73	miss Roussillon
+T2	Topic 40 54	Miss Languedoc
+T3	Subjectiveme_positive 27 33	belles
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

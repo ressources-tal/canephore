@@ -1,0 +1,3 @@
+T1	Subjectiveme_negative 19 32	c'est quoi ce
+T2	Topic 33 37	jury
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

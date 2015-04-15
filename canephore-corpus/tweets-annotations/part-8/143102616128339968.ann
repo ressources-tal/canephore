@@ -1,0 +1,3 @@
+T1	Topic 0 11	Miss Alsace
+T4	Subjectiveme_positive 18 26	soutiens
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	

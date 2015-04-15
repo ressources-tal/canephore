@@ -1,0 +1,5 @@
+T2	Subjectiveme_positive 24 34	convaincue
+T4	Negator 13 16	pas
+T3	Topic 39 57	les possibles miss
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T3	
+R2	Negates Arg1:T4 Arg2:T2	

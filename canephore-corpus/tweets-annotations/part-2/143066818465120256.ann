@@ -1,0 +1,7 @@
+R2	Negates Arg1:T4 Arg2:T3	
+R3	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+T4	Negator 76 79	pas
+T2	Topic 42 57	Miss Guadeloupe
+T3	Subjectiveme_positive 80 94	exceptionnelle
+T1	Subjectiveme_positive 23 41	suis toujours pour
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

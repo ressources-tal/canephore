@@ -1,0 +1,5 @@
+T1	Topic 11 28	miss cote d'azure
+T2	Topic 32 43	miss alsace
+T3	Subjectiveme_positive 3 10	prefere
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

@@ -1,0 +1,5 @@
+T3	Subjectiveme_negative 70 76	chiant
+T1	Topic 11 48	spectacle avec les costumes régionaux
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+T2	Subjectiveme_negative 80 87	inutile
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	

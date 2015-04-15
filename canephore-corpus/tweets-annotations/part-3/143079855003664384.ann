@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 63 74	de la merde
+T2	Topic 88 98	MissFrance
+T3	Subjectiveme_negative 82 86	naze
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T2	

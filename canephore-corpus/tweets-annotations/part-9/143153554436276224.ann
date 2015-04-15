@@ -1,0 +1,12 @@
+T1	Topic 10 20	MissFrance
+T2	Aspect 26 32	chores
+T3	Subjectiveme_negative 39 46	tro dur
+T4	Subjectiveme_negative 47 60	laisse tomber
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T2	
+R3	isAspectOf Arg1:T2 Arg2:T1	
+T5	Topic 94 100	sylvie
+T6	Aspect 83 90	coifeur
+T7	Subjectiveme_negative 105 119	fait la gueule
+R4	isNegativeOpinionOn Arg1:T7 Arg2:T6	
+R5	isAspectOf Arg1:T6 Arg2:T5	

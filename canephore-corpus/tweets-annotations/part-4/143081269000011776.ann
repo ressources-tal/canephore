@@ -1,0 +1,6 @@
+T1	Topic 60 71	Miss Tahiti
+T3	Subjectiveme_negative 21 27	moches
+T4	Subjectiveme_positive 92 97	jolie
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+T2	Topic 28 41	sélectionnées
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	

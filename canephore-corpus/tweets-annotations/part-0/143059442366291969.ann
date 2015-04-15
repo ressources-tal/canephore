@@ -1,0 +1,5 @@
+T1	Subjectiveme_positive 12 23	magnifiques
+T2	Topic 35 48	Miss Lorraine
+T3	Aspect 24 31	cheveux
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T2	

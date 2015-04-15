@@ -1,0 +1,5 @@
+T1	Subjectiveme_positive 13 16	top
+T3	Negator 9 12	pas
+T2	Topic 17 30	miss provence
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+R2	Negates Arg1:T3 Arg2:T1	

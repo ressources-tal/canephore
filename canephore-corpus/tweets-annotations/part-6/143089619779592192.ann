@@ -1,0 +1,12 @@
+T3	Topic 82 90	les Miss
+T4	Subjectiveme_positive 63 69	belles
+T5	Negator 59 62	pas
+R1	Negates Arg1:T5 Arg2:T4	
+T1	Subjectiveme_positive 4 14	jsuis pour
+T2	Topic 18 37	retour de Genevieve
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+T6	Aspect 44 55	devergondee
+T7	Subjectiveme_negative 39 43	Trop
+R3	isPositiveOpinionOn Arg1:T7 Arg2:T6	
+R4	isAspectOf Arg1:T6 Arg2:T3	
+R5	isNegativeOpinionOn Arg1:T4 Arg2:T3	

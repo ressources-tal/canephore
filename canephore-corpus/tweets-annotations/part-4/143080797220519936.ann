@@ -1,0 +1,5 @@
+T1	Topic 21 34	Miss Bretagne
+T2	Subjectiveme_negative 67 72	moche
+R3	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T4	Subjectiveme_negative 110 126	ressemble à rien
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T1	

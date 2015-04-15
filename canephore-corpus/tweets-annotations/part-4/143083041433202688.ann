@@ -1,0 +1,9 @@
+T1	Topic 12 25	miss Bretagne
+T2	Subjectiveme_positive 31 41	magnifique
+T3	Aspect 64 70	visage
+T4	Aspect 4 8	yeux
+R1	isAspectOf Arg1:T4 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T4	
+T5	Negator 43 47	mais
+R3	Negates Arg1:T5 Arg2:T2	
+R4	isNegativeOpinionOn Arg1:T2 Arg2:T3	

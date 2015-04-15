@@ -1,0 +1,8 @@
+T1	Subjectiveme_negative 94 108	servent à rien
+T2	Topic 30 38	élection
+T3	Subjectiveme_negative 82 89	pourris
+T4	Topic 75 81	sujets
+T5	Subjectiveme_negative 19 23	long
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T4	
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T4	
+R3	isNegativeOpinionOn Arg1:T5 Arg2:T2	

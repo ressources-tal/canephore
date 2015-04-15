@@ -1,0 +1,5 @@
+T1	Topic 0 22	Miss Champagne-Ardenne
+T3	Subjectiveme_positive 27 32	belle
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T2	Subjectiveme_positive 51 66	mérite de gagné
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

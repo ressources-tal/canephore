@@ -1,0 +1,3 @@
+T1	Topic 44 66	Laury je sais pas quoi
+T2	Subjectiveme_positive 16 43	miss france digne de ce nom
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

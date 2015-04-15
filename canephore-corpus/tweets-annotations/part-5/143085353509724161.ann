@@ -1,0 +1,5 @@
+T1	Topic 0 14	Miss Languedoc
+T3	Aspect 15 20	parle
+R1	isAspectOf Arg1:T3 Arg2:T1	
+T2	Subjectiveme_negative 21 47	comme la voix off horrible
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T3	

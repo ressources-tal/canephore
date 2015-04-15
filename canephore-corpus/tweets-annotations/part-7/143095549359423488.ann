@@ -1,0 +1,6 @@
+T2	Topic 62 75	Pays de Loire
+T1	Topic 12 18	Alsace
+T3	Subjectiveme_positive 19 60	à le truc qui fait vraiment la différence
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T4	Subjectiveme_negative 86 90	fade
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T2	

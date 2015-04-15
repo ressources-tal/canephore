@@ -1,0 +1,9 @@
+T2	Subjectiveme_negative 87 93	cruche
+T5	Negator 78 81	pas
+T1	Subjectiveme_positive 56 67	bien foutue
+R1	Negates Arg1:T5 Arg2:T2	
+T3	Topic 0 15	Miss Martinique
+T4	Subjectiveme_negative 109 125	on dirait un mec
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T3	
+R3	isNegativeOpinionOn Arg1:T2 Arg2:T3	
+R4	isNegativeOpinionOn Arg1:T4 Arg2:T3	

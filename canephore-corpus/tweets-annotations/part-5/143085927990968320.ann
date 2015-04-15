@@ -1,0 +1,12 @@
+T1	Topic 86 99	Miss Bretagne
+T2	Topic 45 56	Côte d'Azur
+T3	Topic 4 15	miss Alsace
+T5	Topic 18 25	Réunion
+T6	Subjectiveme_positive 57 63	mérite
+T4	Topic 28 41	Franche Comté
+T7	Subjectiveme_negative 120 125	souci
+R1	isNegativeOpinionOn Arg1:T7 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T6 Arg2:T2	
+R3	isPositiveOpinionOn Arg1:T6 Arg2:T4	
+R4	isPositiveOpinionOn Arg1:T6 Arg2:T5	
+R5	isPositiveOpinionOn Arg1:T6 Arg2:T3	

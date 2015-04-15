@@ -1,0 +1,5 @@
+T1	Topic 75 87	Miss Reunion
+T2	Subjectiveme_positive 63 69	belles
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 91 99	Picardie
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T3	

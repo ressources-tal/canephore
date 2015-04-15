@@ -1,0 +1,5 @@
+T1	Topic 33 44	Miss Guyane
+T2	Aspect 7 14	épaules
+T3	Subjectiveme_negative 15 29	de déménageurs
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

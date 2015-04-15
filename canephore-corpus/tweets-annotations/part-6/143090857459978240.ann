@@ -1,0 +1,5 @@
+T1	Subjectiveme_positive 2 7	adore
+T2	Topic 33 44	Miss Alsace
+T3	Aspect 11 29	couleur de cheveux
+R1	isAspectOf Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T3	

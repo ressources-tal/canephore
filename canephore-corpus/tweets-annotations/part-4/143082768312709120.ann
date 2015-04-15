@@ -1,0 +1,6 @@
+T1	Subjectiveme_positive 59 66	pas mal
+T3	Subjectiveme_positive 2 7	adore
+T4	Aspect 11 15	robe
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T4	
+T2	Topic 71 75	robe
+R3	isPositiveOpinionOn Arg1:T1 Arg2:T2	

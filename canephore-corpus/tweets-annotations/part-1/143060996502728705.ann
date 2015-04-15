@@ -1,0 +1,7 @@
+T2	Aspect 26 32	défilé
+T5	Topic 0 10	Les filles
+T4	Subjectiveme_negative 15 25	savent pas
+R1	isNegativeOpinionOn Arg1:T4 Arg2:T2	
+T1	Subjectiveme_negative 37 60	ça gâche tout le charme
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+R3	isAspectOf Arg1:T2 Arg2:T5	

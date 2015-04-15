@@ -1,0 +1,5 @@
+T1	Topic 45 67	aspirantes Miss France
+T2	Subjectiveme_negative 84 101	foutage de gueule
+T3	Aspect 17 40	présentations/ambitions
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T1	

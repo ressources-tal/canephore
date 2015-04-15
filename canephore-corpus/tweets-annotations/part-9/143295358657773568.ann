@@ -1,0 +1,5 @@
+T1	Aspect 9 17	audience
+T2	Topic 26 51	documentaire sur les Miss
+R1	isAspectOf Arg1:T1 Arg2:T2	
+T3	Subjectiveme_positive 0 6	Carton
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

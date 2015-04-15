@@ -1,0 +1,11 @@
+T1	Topic 0 14	Sylvie Tellier
+T2	Aspect 19 28	pommettes
+T3	Aspect 33 37	yeux
+T4	Aspect 41 44	nez
+T5	Subjectiveme_negative 48 60	I JUST CAN'T
+R1	isNegativeOpinionOn Arg1:T5 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T5 Arg2:T3	
+R3	isNegativeOpinionOn Arg1:T5 Arg2:T4	
+R4	isAspectOf Arg1:T2 Arg2:T1	
+R5	isAspectOf Arg1:T3 Arg2:T1	
+R6	isAspectOf Arg1:T4 Arg2:T1	

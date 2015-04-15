@@ -1,0 +1,5 @@
+T1	Negator 20 23	pas
+T2	Subjectiveme_positive 27 32	belle
+T3	Topic 40 50	Miss Corse
+R1	Negates Arg1:T1 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T3	

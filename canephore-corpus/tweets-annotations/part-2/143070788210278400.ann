@@ -1,0 +1,5 @@
+T1	Aspect 35 55	costume traditionnel
+T2	Topic 0 11	Miss Tahiti
+T4	Subjectiveme_positive 26 34	meilleur
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R2	isAspectOf Arg1:T1 Arg2:T2	

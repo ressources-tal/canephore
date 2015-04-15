@@ -1,0 +1,7 @@
+T1	Subjectiveme_negative 38 46	de merde
+T3	Subjectiveme_negative 10 13	nul
+T4	Topic 3 5	DJ
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T4	
+T2	Aspect 26 37	Transitions
+R2	isAspectOf Arg1:T2 Arg2:T4	
+R3	isNegativeOpinionOn Arg1:T1 Arg2:T2	

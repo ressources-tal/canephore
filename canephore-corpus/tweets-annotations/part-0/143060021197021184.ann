@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 40 45	belle
+T2	Topic 0 29	Miss Saint Pierre et Miquelon
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

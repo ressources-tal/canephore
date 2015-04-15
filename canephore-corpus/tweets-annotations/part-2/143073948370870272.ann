@@ -1,0 +1,5 @@
+T1	Aspect 31 38	sourire
+T2	Subjectiveme_positive 26 30	beau
+T3	Topic 0 15	miss guadeloupe
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R2	isAspectOf Arg1:T1 Arg2:T3	

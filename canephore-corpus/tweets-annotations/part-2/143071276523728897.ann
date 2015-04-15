@@ -1,0 +1,5 @@
+T1	Subjectiveme_positive 63 69	belles
+T2	Aspect 4 26	tenues traditionnelles
+T4	Topic 31 44	Miss des îles
+R1	isAspectOf Arg1:T2 Arg2:T4	
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T2	

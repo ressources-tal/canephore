@@ -1,0 +1,5 @@
+T2	Topic 12 25	Miss Provence
+T1	Aspect 52 59	exprime
+T3	Subjectiveme_positive 70 74	bien
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isAspectOf Arg1:T1 Arg2:T2	

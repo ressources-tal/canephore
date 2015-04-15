@@ -1,0 +1,13 @@
+T1	Subjectiveme_positive 21 30	favorites
+T2	Topic 33 42	Languedoc
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+T4	Topic 54 61	Réunion
+T3	Topic 44 52	Provence
+T5	Topic 63 71	Picardie
+T6	Topic 73 84	Rhone-Alpes
+T7	Topic 86 101	Poitou-Charente
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T3	
+R3	isPositiveOpinionOn Arg1:T1 Arg2:T4	
+R4	isPositiveOpinionOn Arg1:T1 Arg2:T5	
+R5	isPositiveOpinionOn Arg1:T1 Arg2:T6	
+R6	isPositiveOpinionOn Arg1:T1 Arg2:T7	

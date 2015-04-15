@@ -1,0 +1,7 @@
+T1	Topic 17 25	les Miss
+T2	Subjectiveme_negative 71 86	fausse modestie
+T3	Subjectiveme_negative 90 118	pétage plus haut que son cul
+T4	Aspect 30 47	dans le reportage
+R1	isAspectOf Arg1:T4 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T4	
+R3	isNegativeOpinionOn Arg1:T3 Arg2:T4	

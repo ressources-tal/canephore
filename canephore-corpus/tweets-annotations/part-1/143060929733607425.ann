@@ -1,0 +1,5 @@
+T1	Topic 22 45	Miss Champagne Ardennes
+T2	Aspect 0 7	le bleu
+T3	Subjectiveme_positive 8 21	met en valeur
+R1	isAspectOf Arg1:T2 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

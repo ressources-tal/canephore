@@ -1,0 +1,3 @@
+T3	Subjectiveme_negative 9 15	chelou
+T1	Topic 16 65	la sequence avec les #missfrance qui joue au foot
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	

@@ -1,0 +1,8 @@
+T1	Topic 93 106	chorégraphies
+T2	Subjectiveme_negative 107 118	déplorables
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 58 64	pauses
+T4	Subjectiveme_positive 75 85	naturelles
+T5	Negator 65 74	tout sauf
+R2	Negates Arg1:T5 Arg2:T4	
+R3	isNegativeOpinionOn Arg1:T4 Arg2:T3	

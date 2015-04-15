@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 2 7	adore
+T2	Topic 10 18	ambiance
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

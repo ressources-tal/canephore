@@ -1,0 +1,11 @@
+T1	Topic 43 57	Sylvie Tellier
+T2	Subjectiveme_negative 2 9	horreur
+T4	Aspect 83 87	yeux
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T5	Subjectiveme_negative 115 139	ressemblait a un mabouya
+R1	isNegativeOpinionOn Arg1:T5 Arg2:T1	
+T3	Subjectiveme_negative 88 97	globuleux
+T6	Subjectiveme_negative 98 108	qi sortent
+R3	isNegativeOpinionOn Arg1:T3 Arg2:T4	
+R4	isNegativeOpinionOn Arg1:T6 Arg2:T4	
+R5	isAspectOf Arg1:T4 Arg2:T1	

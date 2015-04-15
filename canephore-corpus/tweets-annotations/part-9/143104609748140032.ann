@@ -1,0 +1,3 @@
+T1	Topic 45 58	Laury Thilman
+T2	Subjectiveme_positive 29 37	préférée
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

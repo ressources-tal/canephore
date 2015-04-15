@@ -1,0 +1,5 @@
+T3	Subjectiveme_negative 50 57	horreur
+T5	Aspect 13 17	tete
+T1	Topic 24 44	nouvelle Miss France
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T5	
+R2	isAspectOf Arg1:T5 Arg2:T1	

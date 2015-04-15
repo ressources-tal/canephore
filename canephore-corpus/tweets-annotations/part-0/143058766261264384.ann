@@ -1,0 +1,7 @@
+T1	Topic 0 14	Miss Languedoc
+T2	Subjectiveme_positive 38 46	ça passe
+T3	Subjectiveme_positive 31 36	belle
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T4	Subjectiveme_positive 16 21	ça va
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R3	isPositiveOpinionOn Arg1:T2 Arg2:T1	

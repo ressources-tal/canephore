@@ -1,0 +1,5 @@
+T1	Topic 12 19	Laury T
+T2	Subjectiveme_negative 20 27	baleine
+T3	Subjectiveme_negative 38 57	larmes de crocodile
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	

@@ -1,0 +1,3 @@
+T1	Topic 57 61	jury
+T2	Subjectiveme_positive 49 53	cool
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

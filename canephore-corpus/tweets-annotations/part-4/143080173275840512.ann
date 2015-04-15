@@ -1,0 +1,5 @@
+T1	Topic 61 74	miss bretagne
+T2	Aspect 49 55	faciès
+T3	Subjectiveme_negative 39 45	soucis
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

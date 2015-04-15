@@ -1,0 +1,6 @@
+T1	Topic 7 15	les miss
+T2	Subjectiveme_negative 38 45	égoiste
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_positive 80 94	a tout compris
+T4	Topic 68 79	miss alsace
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T4	

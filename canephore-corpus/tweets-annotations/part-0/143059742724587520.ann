@@ -1,0 +1,5 @@
+T1	Topic 0 11	Miss France
+T2	Subjectiveme_negative 45 55	a vu ça où
+T3	Aspect 17 37	avenir professionnel
+R1	isAspectOf Arg1:T3 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T3	

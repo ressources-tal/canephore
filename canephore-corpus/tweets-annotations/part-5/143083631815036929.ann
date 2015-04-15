@@ -1,0 +1,7 @@
+T1	Topic 42 57	les Miss France
+T2	Subjectiveme_positive 32 37	belle
+T3	Topic 1 13	shymofficiel
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+T4	Negator 38 41	que
+R2	Negates Arg1:T4 Arg2:T2	
+R3	isNegativeOpinionOn Arg1:T2 Arg2:T1	

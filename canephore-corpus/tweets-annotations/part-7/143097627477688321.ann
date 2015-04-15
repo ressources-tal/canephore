@@ -1,0 +1,5 @@
+T1	Topic 51 62	Miss France
+T2	Aspect 30 47	montant des gains
+T3	Subjectiveme_negative 7 15	choquant
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

@@ -1,0 +1,5 @@
+T1	Topic 20 33	Miss Lorraine
+T2	Subjectiveme_positive 2 6	aime
+T3	Aspect 34 63	raconte sa joie d'avoir gagné
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T1	

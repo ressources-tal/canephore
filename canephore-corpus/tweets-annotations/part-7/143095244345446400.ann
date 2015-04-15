@@ -1,0 +1,7 @@
+T1	Subjectiveme_positive 10 15	Bonne
+T2	Subjectiveme_positive 28 38	Excellente
+T3	Subjectiveme_positive 40 54	Exceptionnelle
+T4	Topic 83 98	Laury Thilleman
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T4	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T4	
+R3	isPositiveOpinionOn Arg1:T2 Arg2:T4	

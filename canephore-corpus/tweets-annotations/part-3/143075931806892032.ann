@@ -1,0 +1,5 @@
+T2	Topic 10 15	Delon
+T1	Subjectiveme_negative 30 43	vieux pervers
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+T3	Topic 0 6	Huster
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T3	

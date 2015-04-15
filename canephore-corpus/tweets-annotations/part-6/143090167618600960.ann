@@ -1,0 +1,5 @@
+T1	Topic 35 48	Pays de Loire
+T2	Subjectiveme_positive 7 16	suis pour
+T3	Topic 17 31	miss Rousillon
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

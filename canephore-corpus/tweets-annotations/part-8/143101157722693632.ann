@@ -1,0 +1,13 @@
+T1	Subjectiveme_negative 129 135	maigre
+T2	Topic 26 32	Alsace
+T3	Subjectiveme_positive 118 123	jolie
+T4	Subjectiveme_positive 33 64	dégage un truc bien particulier
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+T5	Topic 106 117	Côté d'Azur
+T6	Topic 66 71	Loire
+T7	Topic 75 81	Alsace
+T8	Subjectiveme_positive 82 104	éclaboussent le podium
+R1	isPositiveOpinionOn Arg1:T8 Arg2:T7	
+R3	isPositiveOpinionOn Arg1:T8 Arg2:T6	
+R4	isPositiveOpinionOn Arg1:T3 Arg2:T5	
+R5	isNegativeOpinionOn Arg1:T1 Arg2:T5	

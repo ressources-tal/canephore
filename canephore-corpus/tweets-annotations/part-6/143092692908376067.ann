@@ -1,0 +1,5 @@
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T2	Topic 16 37	MISS PAYS DE LA LOIRE
+T3	Subjectiveme_positive 47 56	favorites
+T1	Topic 0 12	MISS REUNION

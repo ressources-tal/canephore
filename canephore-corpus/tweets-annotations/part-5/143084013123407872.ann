@@ -1,0 +1,7 @@
+T1	Topic 14 29	miss Roussillon
+T2	Topic 33 45	Miss réunion
+T4	Topic 0 13	Miss PROVENCE
+T3	Subjectiveme_positive 56 64	superbes
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R3	isPositiveOpinionOn Arg1:T3 Arg2:T4	

@@ -1,0 +1,5 @@
+T1	Topic 30 41	Miss Centre
+T3	Subjectiveme_positive 52 57	belle
+T4	Negator 48 51	pas
+R1	Negates Arg1:T4 Arg2:T3	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

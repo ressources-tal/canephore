@@ -1,0 +1,3 @@
+T4	Subjectiveme_positive 87 92	belle
+T1	Topic 48 59	Linda Hardy
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	

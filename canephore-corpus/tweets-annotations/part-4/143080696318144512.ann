@@ -1,0 +1,9 @@
+T1	Topic 0 14	Miss Languedoc
+T2	Subjectiveme_positive 24 29	jolie
+T4	Subjectiveme_positive 37 41	aime
+T6	Negator 42 45	pas
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R3	Negates Arg1:T6 Arg2:T4	
+T3	Aspect 49 65	nom de sa région
+R2	isAspectOf Arg1:T3 Arg2:T1	
+R4	isNegativeOpinionOn Arg1:T4 Arg2:T3	

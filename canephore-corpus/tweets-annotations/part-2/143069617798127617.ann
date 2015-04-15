@@ -1,0 +1,9 @@
+T1	Subjectiveme_positive 29 39	préférence
+T2	Topic 66 72	Centre
+T3	Topic 74 80	Tahiti
+T4	Topic 51 64	Miss Picaride
+T5	Topic 83 98	NvelleCalédonie
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T4	
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+R3	isPositiveOpinionOn Arg1:T1 Arg2:T3	
+R4	isPositiveOpinionOn Arg1:T1 Arg2:T5	

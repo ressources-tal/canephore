@@ -1,0 +1,5 @@
+T3	Subjectiveme_positive 5 10	jolie
+T4	Aspect 11 15	robe
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T4	
+T1	Topic 19 54	Miss France 2011, Laurie Thilletruc
+R2	isAspectOf Arg1:T4 Arg2:T1	

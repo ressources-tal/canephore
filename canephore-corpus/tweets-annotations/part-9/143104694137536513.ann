@@ -1,0 +1,7 @@
+T1	Topic 19 30	Miss Alsace
+T4	Subjectiveme_negative 44 49	moche
+T5	Subjectiveme_positive 64 68	aime
+T8	Negator 37 40	pas
+R1	isPositiveOpinionOn Arg1:T5 Arg2:T1	
+R3	Negates Arg1:T8 Arg2:T4	
+R5	isPositiveOpinionOn Arg1:T4 Arg2:T1	

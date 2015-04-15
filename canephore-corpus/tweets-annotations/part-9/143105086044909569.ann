@@ -1,0 +1,5 @@
+T1	Topic 52 65	Laury Thilman
+T2	Subjectiveme_positive 2 8	aimais
+T3	Topic 29 48	Alexandra Rosenfled
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	

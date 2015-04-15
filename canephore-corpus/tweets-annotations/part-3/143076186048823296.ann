@@ -1,0 +1,5 @@
+T1	Topic 44 61	Miss Midi-Pyrénée
+T2	Topic 28 40	Miss Réunion
+T3	Subjectiveme_positive 18 27	suis pour
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

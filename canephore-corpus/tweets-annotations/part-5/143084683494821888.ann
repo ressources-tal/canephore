@@ -1,0 +1,9 @@
+T1	Topic 11 24	miss Bretagne
+T2	Subjectiveme_negative 54 61	bizarre
+T3	Subjectiveme_negative 5 10	moche
+T4	Aspect 49 53	yeux
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R2	isAspectOf Arg1:T4 Arg2:T1	
+R3	isNegativeOpinionOn Arg1:T2 Arg2:T4	
+T5	Subjectiveme_negative 69 78	mal faite
+R4	isNegativeOpinionOn Arg1:T5 Arg2:T1	

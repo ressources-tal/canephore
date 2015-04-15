@@ -1,0 +1,5 @@
+T1	Topic 15 24	MissTahit
+T2	Aspect 35 57	fleur dans les cheveux
+T3	Subjectiveme_negative 97 110	ClichéDeMerde
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

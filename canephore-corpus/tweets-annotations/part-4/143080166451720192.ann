@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 35 40	belle
+T2	Topic 6 18	Miss Réunion
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

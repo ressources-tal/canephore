@@ -1,0 +1,9 @@
+T1	Topic 51 65	MissMartinique
+T2	Subjectiveme_positive 12 16	pour
+T3	Topic 17 41	les #MissFrance des îles
+T4	Negator 45 49	Sauf
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	
+R2	Negates Arg1:T4 Arg2:T2	
+R3	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T5	Subjectiveme_negative 101 116	Vincent MacDoom
+R4	isNegativeOpinionOn Arg1:T5 Arg2:T1	

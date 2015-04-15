@@ -1,0 +1,5 @@
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+T2	Topic 35 47	Miss Reunion
+T3	Subjectiveme_positive 13 19	gerent
+T1	Topic 20 31	Miss Alsace

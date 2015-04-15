@@ -1,0 +1,3 @@
+T1	Topic 33 77	Miss Languedoc Roussilon de l'année dernière
+T2	Subjectiveme_positive 0 29	Aucune n'arrive a la cheville
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	

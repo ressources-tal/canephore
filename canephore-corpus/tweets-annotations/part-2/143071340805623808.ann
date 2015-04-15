@@ -1,0 +1,5 @@
+T1	Topic 54 67	Ile de France
+T2	Topic 45 51	Alsace
+T3	Subjectiveme_positive 36 44	est pour
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

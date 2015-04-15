@@ -1,0 +1,7 @@
+T1	Topic 0 18	Miss Pays de Loire
+T2	Subjectiveme_negative 19 33	c'est quoi ces
+T3	Aspect 34 42	sourcils
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T3	
+T4	Subjectiveme_negative 43 62	à la Emmanuel Chain
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T3	
+R3	isAspectOf Arg1:T3 Arg2:T1	

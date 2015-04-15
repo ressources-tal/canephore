@@ -1,0 +1,9 @@
+T2	Topic 0 11	Miss Alsace
+T3	Aspect 25 35	en parlant
+T4	Subjectiveme_negative 36 43	100 ans
+T5	Subjectiveme_negative 12 24	a tout cassé
+R1	isAspectOf Arg1:T3 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T5 Arg2:T3	
+R3	isNegativeOpinionOn Arg1:T4 Arg2:T3	
+T1	Subjectiveme_negative 49 65	dire de la merde
+R4	isNegativeOpinionOn Arg1:T1 Arg2:T3	

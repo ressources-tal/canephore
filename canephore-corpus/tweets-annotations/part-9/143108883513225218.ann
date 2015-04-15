@@ -1,0 +1,7 @@
+T1	Subjectiveme_positive 105 110	jolie
+T2	Topic 17 28	miss Alsace
+R2	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+T3	Subjectiveme_positive 46 54	marrante
+T4	Aspect 68 86	retenir son accent
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T4	
+R3	isAspectOf Arg1:T4 Arg2:T2	

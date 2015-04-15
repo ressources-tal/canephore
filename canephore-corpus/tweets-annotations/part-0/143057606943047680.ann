@@ -1,0 +1,5 @@
+T1	Topic 0 14	Sylvie Tellier
+T2	Subjectiveme_positive 53 58	forte
+T3	Subjectiveme_negative 65 72	conasse
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

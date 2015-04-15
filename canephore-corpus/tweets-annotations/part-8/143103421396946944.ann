@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 72 77	moche
+T2	Topic 24 37	robe meringue
+T3	Aspect 87 93	photos
+R1	isAspectOf Arg1:T3 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T3	

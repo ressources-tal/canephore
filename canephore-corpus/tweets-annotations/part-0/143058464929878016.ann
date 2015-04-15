@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 5 10	moche
+T2	Aspect 14 18	robe
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+T3	Topic 21 30	la blonde
+R2	isAspectOf Arg1:T2 Arg2:T3	

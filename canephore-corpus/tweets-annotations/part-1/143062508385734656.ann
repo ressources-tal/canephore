@@ -1,0 +1,5 @@
+T1	Aspect 28 32	robe
+T2	Subjectiveme_negative 11 24	Faute de gout
+T3	Topic 0 8	Bourgone
+R1	isAspectOf Arg1:T1 Arg2:T3	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	

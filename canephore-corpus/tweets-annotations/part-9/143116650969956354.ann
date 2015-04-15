@@ -1,0 +1,5 @@
+T1	Topic 34 42	les Miss
+T2	Aspect 6 18	vieillissent
+T3	Subjectiveme_positive 29 33	bien
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

@@ -1,0 +1,5 @@
+T1	Topic 16 30	Miss Bourgogne
+T2	Topic 33 42	Languedoc
+T4	Subjectiveme_positive 6 10	aime
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T1	

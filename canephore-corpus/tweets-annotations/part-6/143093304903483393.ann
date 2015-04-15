@@ -1,0 +1,5 @@
+T2	Topic 14 26	miss réunion
+T1	Subjectiveme_negative 0 13	Tout mais pas
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+T3	Subjectiveme_negative 43 51	agaçante
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T2	

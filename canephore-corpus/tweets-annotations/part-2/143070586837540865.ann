@@ -1,0 +1,5 @@
+T1	Topic 14 25	miss Tahiti
+T2	Aspect 5 13	déhanché
+T3	Subjectiveme_positive 0 4	Joli
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

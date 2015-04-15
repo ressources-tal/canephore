@@ -1,0 +1,10 @@
+T3	Subjectiveme_positive 52 57	jolie
+T1	Topic 25 42	Laurie Thilletruc
+T2	Aspect 58 65	ce soir
+T4	Aspect 69 81	il y a un an
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T4	
+T5	Negator 66 68	qu
+R3	Negates Arg1:T5 Arg2:T3	
+R4	isAspectOf Arg1:T2 Arg2:T1	
+R5	isAspectOf Arg1:T4 Arg2:T1	

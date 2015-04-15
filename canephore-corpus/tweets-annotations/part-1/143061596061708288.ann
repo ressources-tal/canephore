@@ -1,0 +1,6 @@
+T1	Subjectiveme_negative 0 14	C'est quoi ces
+T2	Topic 42 50	les miss
+T3	Aspect 15 19	robe
+R1	isNegativeOpinionOn Arg1:T1 Arg2:T3	
+T4	Subjectiveme_negative 35 41	boudin
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T2	

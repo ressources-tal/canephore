@@ -1,0 +1,7 @@
+T2	Subjectiveme_positive 68 76	terrible
+T3	Negator 9 12	pas
+R1	Negates Arg1:T3 Arg2:T2	
+T1	Topic 13 25	miss réunion
+T4	Negator 64 67	pas
+R2	Negates Arg1:T4 Arg2:T2	
+R3	isPositiveOpinionOn Arg1:T2 Arg2:T1	

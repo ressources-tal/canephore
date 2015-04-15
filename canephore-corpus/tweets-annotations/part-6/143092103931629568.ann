@@ -1,0 +1,5 @@
+T1	Aspect 11 19	discours
+T2	Topic 22 33	alain Delon
+R1	isAspectOf Arg1:T1 Arg2:T2	
+T3	Subjectiveme_negative 0 10	Scandaleux
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

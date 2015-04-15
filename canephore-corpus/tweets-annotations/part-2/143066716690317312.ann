@@ -1,0 +1,5 @@
+T1	Aspect 35 42	sourire
+T2	Topic 0 19	Miss pays de savoie
+R1	isAspectOf Arg1:T1 Arg2:T2	
+T3	Subjectiveme_positive 30 34	vrai
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

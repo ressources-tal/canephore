@@ -1,0 +1,8 @@
+T1	Topic 63 78	Laury Thilleman
+T2	Subjectiveme_positive 45 52	superbe
+T4	Subjectiveme_positive 56 62	simple
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 104 119	les 5 dernières
+T5	Subjectiveme_negative 123 126	NUL
+R3	isNegativeOpinionOn Arg1:T5 Arg2:T3	

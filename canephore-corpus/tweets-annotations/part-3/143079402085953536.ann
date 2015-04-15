@@ -1,0 +1,6 @@
+T2	Subjectiveme_negative 50 56	truqué
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T1	Topic 38 48	missFrance
+T3	Topic 0 13	miss Bretagne
+T4	Subjectiveme_negative 28 36	étonnant
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T3	

@@ -1,0 +1,5 @@
+T1	Topic 25 36	Miss Alsace
+T2	Subjectiveme_positive 16 24	jpréfère
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 62 68	bégayé
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

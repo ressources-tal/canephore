@@ -1,0 +1,7 @@
+T2	Topic 29 35	Alsace
+T3	Subjectiveme_positive 3 7	kiff
+T1	Aspect 12 26	cheveux rouges
+R1	isAspectOf Arg1:T1 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T4	Subjectiveme_negative 60 69	me gonfle
+R3	isNegativeOpinionOn Arg1:T4 Arg2:T2	

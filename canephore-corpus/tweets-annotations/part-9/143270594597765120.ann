@@ -1,0 +1,5 @@
+T1	Aspect 26 37	Miss France
+T2	Topic 0 11	Miss Alsace
+T3	Subjectiveme_positive 53 58	belle
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

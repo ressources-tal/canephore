@@ -1,0 +1,5 @@
+T1	Subjectiveme_positive 38 48	magnifique
+T2	Topic 21 25	robe
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+T3	Subjectiveme_positive 6 20	ça c'est de la
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

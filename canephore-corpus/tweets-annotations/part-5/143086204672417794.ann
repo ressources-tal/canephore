@@ -1,0 +1,5 @@
+T1	Topic 14 27	Miss bretagne
+T2	Topic 29 41	miss réunion
+T3	Subjectiveme_positive 4 13	préférées
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T2	

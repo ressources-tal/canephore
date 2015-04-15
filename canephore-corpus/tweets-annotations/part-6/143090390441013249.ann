@@ -1,0 +1,5 @@
+T1	Topic 9 20	Miss Alsace
+T2	Aspect 44 56	rouge/auburn
+T3	Subjectiveme_negative 57 63	degueu
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

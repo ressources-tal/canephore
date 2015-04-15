@@ -1,0 +1,6 @@
+T2	Topic 41 52	miss Alsace
+T3	Topic 104 113	ma région
+T4	Subjectiveme_positive 95 103	soutiens
+T5	Subjectiveme_positive 67 72	belle
+R1	isPositiveOpinionOn Arg1:T5 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T4 Arg2:T3	

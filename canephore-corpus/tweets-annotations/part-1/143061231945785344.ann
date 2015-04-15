@@ -1,0 +1,11 @@
+T2	Aspect 29 34	robes
+T4	Subjectiveme_negative 88 91	nul
+T5	Topic 92 101	cet année
+R1	isNegativeOpinionOn Arg1:T4 Arg2:T5	
+T6	Topic 8 23	thème orientale
+T1	Aspect 42 51	coiffures
+R2	isAspectOf Arg1:T2 Arg2:T6	
+R3	isAspectOf Arg1:T1 Arg2:T6	
+T3	Subjectiveme_negative 52 72	c'est pas du tout sa
+R4	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+R5	isNegativeOpinionOn Arg1:T3 Arg2:T2	

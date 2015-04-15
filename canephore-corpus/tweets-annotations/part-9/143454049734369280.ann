@@ -1,0 +1,7 @@
+T2	Subjectiveme_positive 85 90	belle
+T4	Negator 91 94	que
+R1	Negates Arg1:T4 Arg2:T2	
+T1	Topic 1 72	Miss Prestige National 2012 : Miss Cerdagne-Roussillon (Christelle Roca
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 96 106	MissFrance
+R3	isNegativeOpinionOn Arg1:T2 Arg2:T3	

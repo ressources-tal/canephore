@@ -1,0 +1,10 @@
+R4	isNegativeOpinionOn Arg1:T6 Arg2:T4	
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T5 Arg2:T4	
+R3	isAspectOf Arg1:T4 Arg2:T3	
+T6	Subjectiveme_negative 50 55	Beurk
+T4	Aspect 22 27	dents
+T5	Subjectiveme_negative 28 34	jaunes
+T2	Topic 56 74	miss pays de Loire
+T3	Topic 1 15	missfrance2012
+T1	Subjectiveme_positive 91 96	mieux

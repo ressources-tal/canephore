@@ -1,0 +1,7 @@
+T2	Topic 64 73	Languedoc
+T1	Topic 4 15	Miss Alsace
+T5	Subjectiveme_positive 33 44	chouchoutes
+T3	Topic 50 60	La Réunion
+R1	isPositiveOpinionOn Arg1:T5 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T5 Arg2:T3	
+R3	isPositiveOpinionOn Arg1:T5 Arg2:T2	

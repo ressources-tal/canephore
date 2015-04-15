@@ -1,0 +1,6 @@
+T1	Topic 5 17	Miss Reunion
+T2	Topic 59 70	Miss Alsace
+T3	Subjectiveme_positive 27 32	belle
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T4	Subjectiveme_positive 73 94	quelque chose de plus
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T2	

@@ -1,0 +1,5 @@
+T1	Topic 0 12	Miss Réunion
+T2	Subjectiveme_positive 33 47	mieux que Rien
+T3	Aspect 13 26	2ème Dauphine
+R1	isAspectOf Arg1:T3 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T2 Arg2:T3	

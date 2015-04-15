@@ -1,0 +1,5 @@
+R1	Negates Arg1:T3 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T2	Subjectiveme_positive 63 70	plaisir
+T3	Negator 77 80	PAS
+T1	Topic 16 39	élection de #missfrance

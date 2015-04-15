@@ -1,0 +1,5 @@
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+T2	Subjectiveme_positive 23 28	belle
+T3	Subjectiveme_positive 35 40	belle
+T1	Topic 0 13	Ile de France

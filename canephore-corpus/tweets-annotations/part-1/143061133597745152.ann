@@ -1,0 +1,7 @@
+T1	Negator 56 68	Depuis quand
+T2	Subjectiveme_positive 102 118	icônes de beauté
+R1	Negates Arg1:T1 Arg2:T2	
+T3	Topic 69 74	Lorie
+T4	Topic 78 91	Pascal Obispo
+R2	isNegativeOpinionOn Arg1:T2 Arg2:T4	
+R3	isNegativeOpinionOn Arg1:T2 Arg2:T3	

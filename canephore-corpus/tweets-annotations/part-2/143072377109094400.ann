@@ -1,0 +1,8 @@
+T1	Topic 22 49	élection de #MissFrance2012
+T2	Subjectiveme_negative 52 72	Bal de Dinde de Noël
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 95 106	Alain Delon
+T4	Subjectiveme_negative 107 118	sous prozac
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T3	
+T5	Subjectiveme_negative 75 92	Festival de Cindy
+R3	isNegativeOpinionOn Arg1:T5 Arg2:T1	

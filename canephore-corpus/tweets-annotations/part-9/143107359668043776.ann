@@ -1,0 +1,5 @@
+T1	Topic 78 101	les français qui votent
+T2	Aspect 61 66	gouts
+T3	Subjectiveme_negative 67 77	de chiotes
+R1	isNegativeOpinionOn Arg1:T3 Arg2:T2	
+R2	isAspectOf Arg1:T2 Arg2:T1	

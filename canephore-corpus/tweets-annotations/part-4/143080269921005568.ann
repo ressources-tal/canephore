@@ -1,0 +1,3 @@
+T2	Subjectiveme_negative 5 19	n'importe quoi
+T3	Topic 26 34	élection
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T3	

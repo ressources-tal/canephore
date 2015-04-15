@@ -1,0 +1,5 @@
+T1	Topic 32 50	miss pays de Loire
+T2	Subjectiveme_negative 9 23	c'est quoi ces
+T3	Aspect 24 31	sourcil
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T3	
+R2	isAspectOf Arg1:T3 Arg2:T1	

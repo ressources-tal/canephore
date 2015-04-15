@@ -1,0 +1,5 @@
+R1	isAspectOf Arg1:T2 Arg2:T3	
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T2	
+T2	Aspect 22 29	costume
+T3	Topic 35 49	miss aquitaine
+T1	Subjectiveme_negative 9 21	c'est koi ce

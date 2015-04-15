@@ -1,0 +1,5 @@
+T1	Topic 23 30	Réunion
+T2	Topic 6 19	Pays de Loire
+T3	Subjectiveme_positive 0 5	Allez
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T2	
+R2	isPositiveOpinionOn Arg1:T3 Arg2:T1	

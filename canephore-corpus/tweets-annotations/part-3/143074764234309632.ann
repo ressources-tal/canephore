@@ -1,0 +1,9 @@
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+R3	Negates Arg1:T5 Arg2:T4	
+T4	Subjectiveme_positive 64 69	ça va
+T5	Negator 70 73	pas
+T2	Subjectiveme_positive 21 26	jolie
+T1	Topic 1 7	Alsace
+T3	Aspect 45 63	couleur de cheveux
+R2	isAspectOf Arg1:T3 Arg2:T1	
+R4	isNegativeOpinionOn Arg1:T4 Arg2:T3	

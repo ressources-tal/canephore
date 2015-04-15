@@ -1,0 +1,7 @@
+T1	Topic 9 17	sourires
+T2	Subjectiveme_negative 18 24	forcés
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 0 8	Paye tes
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+T4	Subjectiveme_negative 26 34	crispées
+R3	isNegativeOpinionOn Arg1:T4 Arg2:T1	

@@ -1,0 +1,6 @@
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T4 Arg2:T3	
+T4	Subjectiveme_negative 61 64	Non
+T2	Subjectiveme_negative 32 35	bas
+T3	Topic 40 54	Miss st-pierre
+T1	Topic 21 27	niveau

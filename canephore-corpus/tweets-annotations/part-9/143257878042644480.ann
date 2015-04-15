@@ -1,0 +1,5 @@
+T1	Topic 0 16	Miss France 2012
+T3	Subjectiveme_positive 40 45	jolie
+T5	Subjectiveme_negative 22 31	cure-dent
+R1	isPositiveOpinionOn Arg1:T3 Arg2:T1	
+R2	isNegativeOpinionOn Arg1:T5 Arg2:T1	

@@ -1,0 +1,5 @@
+T1	Topic 0 16	Miss Côte d'Azur
+T2	Subjectiveme_negative 21 31	anorexique
+R1	isNegativeOpinionOn Arg1:T2 Arg2:T1	
+T3	Subjectiveme_negative 40 47	botoxée
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	

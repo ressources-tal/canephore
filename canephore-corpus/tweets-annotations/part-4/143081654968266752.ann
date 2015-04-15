@@ -1,0 +1,8 @@
+T1	Topic 1 15	LauryThilleman
+T2	Subjectiveme_positive 22 27	belle
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T1	
+T3	Topic 41 52	Cette année
+T4	Negator 53 56	pas
+T5	Subjectiveme_negative 62 65	top
+R2	Negates Arg1:T4 Arg2:T5	
+R3	isNegativeOpinionOn Arg1:T5 Arg2:T3	

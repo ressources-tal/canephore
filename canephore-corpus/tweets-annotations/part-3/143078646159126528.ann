@@ -1,0 +1,5 @@
+T1	Subjectiveme_negative 0 13	C'est quoi ce
+T2	Topic 24 36	miss univers
+T4	Aspect 14 23	decollete
+R1	isAspectOf Arg1:T4 Arg2:T2	
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T4	

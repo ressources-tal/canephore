@@ -1,0 +1,6 @@
+T1	Topic 3 18	miss Martinique
+T2	Subjectiveme_positive 84 89	bombe
+T3	Subjectiveme_negative 38 44	crevax
+R2	isNegativeOpinionOn Arg1:T3 Arg2:T1	
+T4	Topic 46 71	celle de l'année dernière
+R1	isPositiveOpinionOn Arg1:T2 Arg2:T4	

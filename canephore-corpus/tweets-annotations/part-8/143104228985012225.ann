@@ -1,0 +1,3 @@
+T1	Subjectiveme_positive 35 42	VOULAIS
+T2	Topic 46 53	MAYOTTE
+R1	isPositiveOpinionOn Arg1:T1 Arg2:T2	

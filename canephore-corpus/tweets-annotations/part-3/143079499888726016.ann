@@ -1,0 +1,7 @@
+T1	Topic 25 36	Miss Guyane
+T3	Aspect 17 24	épaules
+T4	Subjectiveme_positive 10 16	belles
+R2	isAspectOf Arg1:T3 Arg2:T1	
+R1	isPositiveOpinionOn Arg1:T4 Arg2:T3	
+T2	Subjectiveme_negative 38 72	De quoi porter toutes ses collèges
+R3	isNegativeOpinionOn Arg1:T2 Arg2:T3	

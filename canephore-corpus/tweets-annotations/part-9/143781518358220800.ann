@@ -1,0 +1,5 @@
+T4	Subjectiveme_negative 13 20	ridicul
+T2	Topic 0 8	A. Delon
+R1	isNegativeOpinionOn Arg1:T4 Arg2:T2	
+T1	Subjectiveme_negative 103 119	fait de la merde
+R2	isNegativeOpinionOn Arg1:T1 Arg2:T2	
