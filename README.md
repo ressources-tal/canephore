@@ -84,3 +84,21 @@ Attention ! Le téléchargement par id est limité dans le cadre d'une utilisati
 
 ## Licence
 Ce corpus est disponible sous la licence GNU GPL V2
+
+## Référence
+
+Si ce corpus vous est utile, pensez à citer notre article !
+
+```
+@inproceedings{lark-morin-penasaldarriaga:2015:TALN,
+  author    = {Lark, Joseph and Morin, Emmanuel and Peña Saldarriaga, Sebastian},
+  title     = {CANÉPHORE : un corpus français pour la fouille d'opinion ciblée},
+  booktitle = {Actes de la 22e conférence sur le Traitement Automatique des Langues Naturelles},
+  month     = {June},
+  year      = {2015},
+  address   = {Caen, France},
+  publisher = {Association pour le Traitement Automatique des Langues},
+  pages     = {418--424},
+  url       = {http://www.atala.org/taln_archives/TALN/TALN-2015/taln-2015-court-016},
+}
+```
